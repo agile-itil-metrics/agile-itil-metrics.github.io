@@ -9,8 +9,8 @@ export const DEFAULT_LOCALE = 'en-001';
 /** Sorted by locale code (the picker lists them in this order). Labels are "<language> - <region>", in the locale's own language. */
 export const LOCALES: Locale[] = [
   { slug: 'en-001', label: 'English - World' },
-  { slug: 'en-gb', label: 'English - United Kingdom' },
-  { slug: 'en-gb-oxendict', label: 'English - United Kingdom, Oxford spelling' },
+  { slug: 'en-gb', label: 'English - Great Britain' },
+  { slug: 'en-gb-oxendict', label: 'English - Great Britain, Oxford spelling' },
   { slug: 'en-us', label: 'English - United States' },
 ];
 
