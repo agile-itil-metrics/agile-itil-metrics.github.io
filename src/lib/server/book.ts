@@ -104,7 +104,7 @@ export function parts(): Part[] {
 function rewriteLinks(markdown: string, locale: string): string {
   const numbers = new Map(toc(locale).filter((t) => t.written).map((t) => [t.number, t.slug]));
   const escaped = topicWords(locale).map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-  const reference = new RegExp(`(?<![\\p{L}\\p{N}])(?:${escaped.join('|')})\\s?(\\d{1,2}\\.\\d{1,2})(?![\\d.]*\\d)(?![^\\[]*\\]\\()`, 'giu');
+  const reference = new RegExp(`(?<![\\p{Script=Latin}\\p{N}])(?:${escaped.join('|')})\\s?(\\d{1,2}\\.\\d{1,2})(?![\\d.]*\\d)(?![^\\[]*\\]\\()`, 'giu');
   let inFence = false;
   return markdown
     .split('\n')

@@ -6,7 +6,7 @@
 
 Every team that builds and runs a service spends its time on two broad kinds of work. **Change work** moves the service forward: new features, planned improvements, migrations, and the removal of known weaknesses. **Run work**, also called operational work, keeps the service going: answering incidents and requests, responding to alerts, applying routine patches, restoring access, and handling the manual tasks that the service still demands. Both are legitimate, and a service that has users needs both. The trouble starts when nobody can say how much of each the team is doing, because the plan then silently assumes capacity that the run work has already consumed.
 
-Work can also be sorted by whether it was foreseen. **Planned work** was chosen before the period began, for example during planned workning or a quarterly commitment. **Unplanned work** arrives during the period and demands attention that was not budgeted: a production incident, an urgent request from a senior stakeholder, a security fix, or a defect that blocks a customer. The two axes overlap but are not the same. Most run work is unplanned in its timing even when its volume is predictable, and some run work, such as a scheduled certificate renewal, is fully planned. Change work can also be unplanned, as when a regulation changes and a team must respond within weeks.
+Work can also be sorted by whether it was foreseen. **Planned work** was chosen before the period began, for example during planned working or a quarterly commitment. **Unplanned work** arrives during the period and demands attention that was not budgeted: a production incident, an urgent request from a senior stakeholder, a security fix, or a defect that blocks a customer. The two axes overlap but are not the same. Most run work is unplanned in its timing even when its volume is predictable, and some run work, such as a scheduled certificate renewal, is fully planned. Change work can also be unplanned, as when a regulation changes and a team must respond within weeks.
 
 Agile and ITIL views describe the same pressure in different words. In time-boxed planning, a commitment is a forecast of capacity, and work that arrives mid-period either displaces something or is deferred. On a flow board, work in progress has explicit limits and there is often a dedicated lane for urgent items, and the question is how many urgent items the system can absorb before flow collapses (see topic 2.1, Flow measures). In ITIL 4 (the version published in 2019), incident management, service request management, and problem management describe how run work is received, prioritized, and resolved, while change enablement and the software development and management practice govern planned change. The practices describe workflows. They rarely say how a single team should share its hours between them, and that gap is where this topic works.
 
@@ -92,7 +92,7 @@ A healthy reading is an unplanned work ratio the team can explain, an expedite l
 | Strict expedite limit | Keeps flow predictable; forces a stated cost of delay | Requesters may route around it; a real emergency can feel blocked |
 | Counting items rather than effort | Simple and hard to inflate | Treats very different sizes alike |
 
-The practical position for most teams is to count items first, add effort only where the item counts mislead, protect a small buffer and a small expedite lane, and use the cause tag to attack the largest repeat. ## Questions to discuss with your team
+The practical position for most teams is to count items first, add effort only where the item counts mislead, protect a small buffer and a small expedite lane, and use the cause tag to attack the largest repeat.
 
 ## Questions to discuss with your team
 
@@ -171,8 +171,8 @@ The return shows up in patterns the team can measure for itself rather than in a
 - **Everything is an expedite.** A lane that is always full is just a second queue. Instead, set a limit, require a stated cost of delay, and review the entry test monthly.
 - **Planning at full utilization.** A plan with no slack guarantees that every surprise displaces something. Instead, size a buffer from your own interrupt history and plan the capacity that remains.
 - **Classifying after the fact.** Tags added at the end of the period reflect memory and mood. Instead, require the tags at intake and freeze the planning snapshot.
-
 - **Absorbing demand silently.** Favours that never reach the log make the load invisible and the planning wrong. Instead, make one intake path the rule and redirect side-channel asks to it.
+
 ## Maturity model
 
 | Dimension | 1 Initiate | 2 Develop | 3 Standardize | 4 Manage | 5 Orchestrate |

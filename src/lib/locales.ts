@@ -12,6 +12,8 @@ export const LOCALES: Locale[] = [
   { slug: 'en-gb', label: 'English - Great Britain' },
   { slug: 'en-gb-oxendict', label: 'English - Great Britain, Oxford spelling' },
   { slug: 'en-us', label: 'English - United States' },
+  { slug: 'zh-001', label: '简体中文 - 世界' },
+  { slug: 'zh-cn', label: '简体中文 - 中国' },
 ];
 
 export const LOCALE_SLUGS: string[] = LOCALES.map((locale) => locale.slug);
