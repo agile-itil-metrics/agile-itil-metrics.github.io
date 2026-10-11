@@ -1,0 +1,1162 @@
+{
+  "name": "Agile ITIL Metrics",
+  "description": "A working book on measuring agile IT service management well: 88 topics in 12 parts, each metric with its gaming vector and guardrail, plus questions, worked examples, AI prompts, and AI skills.",
+  "canonical_locale": "en-001",
+  "locales": [
+    "en-001",
+    "en-gb",
+    "en-gb-oxendict",
+    "en-us"
+  ],
+  "site": "https://agile-itil-metrics.github.io",
+  "raw_base": "https://raw.githubusercontent.com/agile-itil-metrics/agile-itil-metrics/main/",
+  "parts": [
+    {
+      "part": "Part 1: Foundations of Measurement",
+      "topics": [
+        {
+          "number": "1.0",
+          "title": "Introduction to Part 1: Foundations of Measurement",
+          "slug": "foundations-of-measurement",
+          "path": "locales/en-001/topics/foundations-of-measurement/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/foundations-of-measurement/index.md",
+            "en-gb": "locales/en-gb/topics/foundations-of-measurement/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/foundations-of-measurement/index.md",
+            "en-us": "locales/en-us/topics/foundations-of-measurement/index.md"
+          }
+        },
+        {
+          "number": "1.1",
+          "title": "Why measure agile ITIL",
+          "slug": "why-measure-agile-itil",
+          "path": "locales/en-001/topics/why-measure-agile-itil/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/why-measure-agile-itil/index.md",
+            "en-gb": "locales/en-gb/topics/why-measure-agile-itil/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/why-measure-agile-itil/index.md",
+            "en-us": "locales/en-us/topics/why-measure-agile-itil/index.md"
+          }
+        },
+        {
+          "number": "1.2",
+          "title": "Goodhart's law and the psychology of metrics",
+          "slug": "goodharts-law-and-the-psychology-of-metrics",
+          "path": "locales/en-001/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
+            "en-us": "locales/en-us/topics/goodharts-law-and-the-psychology-of-metrics/index.md"
+          }
+        },
+        {
+          "number": "1.3",
+          "title": "Outcomes over output: choosing what to measure",
+          "slug": "outcomes-over-output",
+          "path": "locales/en-001/topics/outcomes-over-output/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/outcomes-over-output/index.md",
+            "en-gb": "locales/en-gb/topics/outcomes-over-output/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/outcomes-over-output/index.md",
+            "en-us": "locales/en-us/topics/outcomes-over-output/index.md"
+          }
+        },
+        {
+          "number": "1.4",
+          "title": "Metrics governance and ownership",
+          "slug": "metrics-governance-and-ownership",
+          "path": "locales/en-001/topics/metrics-governance-and-ownership/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/metrics-governance-and-ownership/index.md",
+            "en-gb": "locales/en-gb/topics/metrics-governance-and-ownership/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/metrics-governance-and-ownership/index.md",
+            "en-us": "locales/en-us/topics/metrics-governance-and-ownership/index.md"
+          }
+        },
+        {
+          "number": "1.5",
+          "title": "Data sources and instrumentation",
+          "slug": "data-sources-and-instrumentation",
+          "path": "locales/en-001/topics/data-sources-and-instrumentation/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/data-sources-and-instrumentation/index.md",
+            "en-gb": "locales/en-gb/topics/data-sources-and-instrumentation/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/data-sources-and-instrumentation/index.md",
+            "en-us": "locales/en-us/topics/data-sources-and-instrumentation/index.md"
+          }
+        },
+        {
+          "number": "1.6",
+          "title": "Statistical literacy for service metrics",
+          "slug": "statistical-literacy-for-service-metrics",
+          "path": "locales/en-001/topics/statistical-literacy-for-service-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/statistical-literacy-for-service-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/statistical-literacy-for-service-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/statistical-literacy-for-service-metrics/index.md",
+            "en-us": "locales/en-us/topics/statistical-literacy-for-service-metrics/index.md"
+          }
+        },
+        {
+          "number": "1.7",
+          "title": "Measurement frameworks",
+          "slug": "measurement-frameworks",
+          "path": "locales/en-001/topics/measurement-frameworks/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/measurement-frameworks/index.md",
+            "en-gb": "locales/en-gb/topics/measurement-frameworks/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/measurement-frameworks/index.md",
+            "en-us": "locales/en-us/topics/measurement-frameworks/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 2: Flow and Continuous Delivery Metrics",
+      "topics": [
+        {
+          "number": "2.0",
+          "title": "Introduction to Part 2: Flow and Continuous Delivery Metrics",
+          "slug": "flow-metrics",
+          "path": "locales/en-001/topics/flow-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/flow-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/flow-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/flow-metrics/index.md",
+            "en-us": "locales/en-us/topics/flow-metrics/index.md"
+          }
+        },
+        {
+          "number": "2.1",
+          "title": "Flow measures",
+          "slug": "flow-measures",
+          "path": "locales/en-001/topics/flow-measures/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/flow-measures/index.md",
+            "en-gb": "locales/en-gb/topics/flow-measures/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/flow-measures/index.md",
+            "en-us": "locales/en-us/topics/flow-measures/index.md"
+          }
+        },
+        {
+          "number": "2.2",
+          "title": "Lead time, cycle time, and flow efficiency",
+          "slug": "lead-time-cycle-time-and-flow-efficiency",
+          "path": "locales/en-001/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
+            "en-gb": "locales/en-gb/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
+            "en-us": "locales/en-us/topics/lead-time-cycle-time-and-flow-efficiency/index.md"
+          }
+        },
+        {
+          "number": "2.3",
+          "title": "Work in process and queueing",
+          "slug": "work-in-process-and-queueing",
+          "path": "locales/en-001/topics/work-in-process-and-queueing/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/work-in-process-and-queueing/index.md",
+            "en-gb": "locales/en-gb/topics/work-in-process-and-queueing/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/work-in-process-and-queueing/index.md",
+            "en-us": "locales/en-us/topics/work-in-process-and-queueing/index.md"
+          }
+        },
+        {
+          "number": "2.4",
+          "title": "Value stream metrics",
+          "slug": "value-stream-metrics",
+          "path": "locales/en-001/topics/value-stream-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/value-stream-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/value-stream-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/value-stream-metrics/index.md",
+            "en-us": "locales/en-us/topics/value-stream-metrics/index.md"
+          }
+        },
+        {
+          "number": "2.5",
+          "title": "Delivery forecasting and planning metrics",
+          "slug": "delivery-forecasting-and-planning-metrics",
+          "path": "locales/en-001/topics/delivery-forecasting-and-planning-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "en-us": "locales/en-us/topics/delivery-forecasting-and-planning-metrics/index.md"
+          }
+        },
+        {
+          "number": "2.6",
+          "title": "Backlog and refinement metrics",
+          "slug": "backlog-and-refinement-metrics",
+          "path": "locales/en-001/topics/backlog-and-refinement-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/backlog-and-refinement-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/backlog-and-refinement-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/backlog-and-refinement-metrics/index.md",
+            "en-us": "locales/en-us/topics/backlog-and-refinement-metrics/index.md"
+          }
+        },
+        {
+          "number": "2.7",
+          "title": "Pull request and code review metrics",
+          "slug": "pull-request-and-code-review-metrics",
+          "path": "locales/en-001/topics/pull-request-and-code-review-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/pull-request-and-code-review-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/pull-request-and-code-review-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/pull-request-and-code-review-metrics/index.md",
+            "en-us": "locales/en-us/topics/pull-request-and-code-review-metrics/index.md"
+          }
+        },
+        {
+          "number": "2.8",
+          "title": "DORA metrics",
+          "slug": "dora-metrics",
+          "path": "locales/en-001/topics/dora-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/dora-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/dora-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/dora-metrics/index.md",
+            "en-us": "locales/en-us/topics/dora-metrics/index.md"
+          }
+        },
+        {
+          "number": "2.9",
+          "title": "Operational work and unplanned work",
+          "slug": "operational-work-and-unplanned-work",
+          "path": "locales/en-001/topics/operational-work-and-unplanned-work/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/operational-work-and-unplanned-work/index.md",
+            "en-gb": "locales/en-gb/topics/operational-work-and-unplanned-work/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/operational-work-and-unplanned-work/index.md",
+            "en-us": "locales/en-us/topics/operational-work-and-unplanned-work/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 3: Service Desk, Incident, and Request Metrics",
+      "topics": [
+        {
+          "number": "3.0",
+          "title": "Introduction to Part 3: Service Desk, Incident, and Request Metrics",
+          "slug": "service-desk-incident-and-request-metrics",
+          "path": "locales/en-001/topics/service-desk-incident-and-request-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-desk-incident-and-request-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/service-desk-incident-and-request-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-desk-incident-and-request-metrics/index.md",
+            "en-us": "locales/en-us/topics/service-desk-incident-and-request-metrics/index.md"
+          }
+        },
+        {
+          "number": "3.1",
+          "title": "Service desk metrics",
+          "slug": "service-desk-metrics",
+          "path": "locales/en-001/topics/service-desk-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-desk-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/service-desk-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-desk-metrics/index.md",
+            "en-us": "locales/en-us/topics/service-desk-metrics/index.md"
+          }
+        },
+        {
+          "number": "3.2",
+          "title": "Incident volume and priority",
+          "slug": "incident-volume-and-priority",
+          "path": "locales/en-001/topics/incident-volume-and-priority/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/incident-volume-and-priority/index.md",
+            "en-gb": "locales/en-gb/topics/incident-volume-and-priority/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/incident-volume-and-priority/index.md",
+            "en-us": "locales/en-us/topics/incident-volume-and-priority/index.md"
+          }
+        },
+        {
+          "number": "3.3",
+          "title": "Incident response and resolution time",
+          "slug": "incident-response-and-resolution-time",
+          "path": "locales/en-001/topics/incident-response-and-resolution-time/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/incident-response-and-resolution-time/index.md",
+            "en-gb": "locales/en-gb/topics/incident-response-and-resolution-time/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/incident-response-and-resolution-time/index.md",
+            "en-us": "locales/en-us/topics/incident-response-and-resolution-time/index.md"
+          }
+        },
+        {
+          "number": "3.4",
+          "title": "Major incident metrics",
+          "slug": "major-incident-metrics",
+          "path": "locales/en-001/topics/major-incident-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/major-incident-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/major-incident-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/major-incident-metrics/index.md",
+            "en-us": "locales/en-us/topics/major-incident-metrics/index.md"
+          }
+        },
+        {
+          "number": "3.5",
+          "title": "Service request fulfilment metrics",
+          "slug": "service-request-fulfilment-metrics",
+          "path": "locales/en-001/topics/service-request-fulfilment-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-request-fulfilment-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/service-request-fulfilment-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-request-fulfilment-metrics/index.md",
+            "en-us": "locales/en-us/topics/service-request-fulfilment-metrics/index.md"
+          }
+        },
+        {
+          "number": "3.6",
+          "title": "Knowledge management metrics",
+          "slug": "knowledge-management-metrics",
+          "path": "locales/en-001/topics/knowledge-management-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/knowledge-management-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/knowledge-management-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/knowledge-management-metrics/index.md",
+            "en-us": "locales/en-us/topics/knowledge-management-metrics/index.md"
+          }
+        },
+        {
+          "number": "3.7",
+          "title": "Self-service and automation metrics",
+          "slug": "self-service-and-automation-metrics",
+          "path": "locales/en-001/topics/self-service-and-automation-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/self-service-and-automation-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/self-service-and-automation-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/self-service-and-automation-metrics/index.md",
+            "en-us": "locales/en-us/topics/self-service-and-automation-metrics/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 4: Problem, Change, and Release Metrics",
+      "topics": [
+        {
+          "number": "4.0",
+          "title": "Introduction to Part 4: Problem, Change, and Release Metrics",
+          "slug": "problem-change-and-release-metrics",
+          "path": "locales/en-001/topics/problem-change-and-release-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/problem-change-and-release-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/problem-change-and-release-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/problem-change-and-release-metrics/index.md",
+            "en-us": "locales/en-us/topics/problem-change-and-release-metrics/index.md"
+          }
+        },
+        {
+          "number": "4.1",
+          "title": "Problem management metrics",
+          "slug": "problem-management-metrics",
+          "path": "locales/en-001/topics/problem-management-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/problem-management-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/problem-management-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/problem-management-metrics/index.md",
+            "en-us": "locales/en-us/topics/problem-management-metrics/index.md"
+          }
+        },
+        {
+          "number": "4.2",
+          "title": "Postmortem and learning metrics",
+          "slug": "postmortem-and-learning-metrics",
+          "path": "locales/en-001/topics/postmortem-and-learning-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/postmortem-and-learning-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/postmortem-and-learning-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/postmortem-and-learning-metrics/index.md",
+            "en-us": "locales/en-us/topics/postmortem-and-learning-metrics/index.md"
+          }
+        },
+        {
+          "number": "4.3",
+          "title": "Change enablement metrics",
+          "slug": "change-enablement-metrics",
+          "path": "locales/en-001/topics/change-enablement-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/change-enablement-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/change-enablement-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/change-enablement-metrics/index.md",
+            "en-us": "locales/en-us/topics/change-enablement-metrics/index.md"
+          }
+        },
+        {
+          "number": "4.4",
+          "title": "Change failure and rework",
+          "slug": "change-failure-and-rework",
+          "path": "locales/en-001/topics/change-failure-and-rework/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/change-failure-and-rework/index.md",
+            "en-gb": "locales/en-gb/topics/change-failure-and-rework/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/change-failure-and-rework/index.md",
+            "en-us": "locales/en-us/topics/change-failure-and-rework/index.md"
+          }
+        },
+        {
+          "number": "4.5",
+          "title": "Release and deployment metrics",
+          "slug": "release-and-deployment-metrics",
+          "path": "locales/en-001/topics/release-and-deployment-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/release-and-deployment-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/release-and-deployment-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/release-and-deployment-metrics/index.md",
+            "en-us": "locales/en-us/topics/release-and-deployment-metrics/index.md"
+          }
+        },
+        {
+          "number": "4.6",
+          "title": "Technical debt and known errors",
+          "slug": "technical-debt-and-known-errors",
+          "path": "locales/en-001/topics/technical-debt-and-known-errors/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/technical-debt-and-known-errors/index.md",
+            "en-gb": "locales/en-gb/topics/technical-debt-and-known-errors/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/technical-debt-and-known-errors/index.md",
+            "en-us": "locales/en-us/topics/technical-debt-and-known-errors/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 5: Service Level, Availability, and Reliability Metrics",
+      "topics": [
+        {
+          "number": "5.0",
+          "title": "Introduction to Part 5: Service Level, Availability, and Reliability Metrics",
+          "slug": "service-level-availability-and-reliability-metrics",
+          "path": "locales/en-001/topics/service-level-availability-and-reliability-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-level-availability-and-reliability-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/service-level-availability-and-reliability-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-level-availability-and-reliability-metrics/index.md",
+            "en-us": "locales/en-us/topics/service-level-availability-and-reliability-metrics/index.md"
+          }
+        },
+        {
+          "number": "5.1",
+          "title": "SLA, OLA, and XLA metrics",
+          "slug": "sla-ola-and-xla-metrics",
+          "path": "locales/en-001/topics/sla-ola-and-xla-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/sla-ola-and-xla-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/sla-ola-and-xla-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/sla-ola-and-xla-metrics/index.md",
+            "en-us": "locales/en-us/topics/sla-ola-and-xla-metrics/index.md"
+          }
+        },
+        {
+          "number": "5.2",
+          "title": "SLIs, SLOs, and error budgets",
+          "slug": "slis-slos-and-error-budgets",
+          "path": "locales/en-001/topics/slis-slos-and-error-budgets/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/slis-slos-and-error-budgets/index.md",
+            "en-gb": "locales/en-gb/topics/slis-slos-and-error-budgets/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/slis-slos-and-error-budgets/index.md",
+            "en-us": "locales/en-us/topics/slis-slos-and-error-budgets/index.md"
+          }
+        },
+        {
+          "number": "5.3",
+          "title": "Availability metrics",
+          "slug": "availability-metrics",
+          "path": "locales/en-001/topics/availability-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/availability-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/availability-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/availability-metrics/index.md",
+            "en-us": "locales/en-us/topics/availability-metrics/index.md"
+          }
+        },
+        {
+          "number": "5.4",
+          "title": "Capacity and performance metrics",
+          "slug": "capacity-and-performance-metrics",
+          "path": "locales/en-001/topics/capacity-and-performance-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/capacity-and-performance-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/capacity-and-performance-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/capacity-and-performance-metrics/index.md",
+            "en-us": "locales/en-us/topics/capacity-and-performance-metrics/index.md"
+          }
+        },
+        {
+          "number": "5.5",
+          "title": "Monitoring and alert quality metrics",
+          "slug": "monitoring-and-alert-quality-metrics",
+          "path": "locales/en-001/topics/monitoring-and-alert-quality-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/monitoring-and-alert-quality-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/monitoring-and-alert-quality-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/monitoring-and-alert-quality-metrics/index.md",
+            "en-us": "locales/en-us/topics/monitoring-and-alert-quality-metrics/index.md"
+          }
+        },
+        {
+          "number": "5.6",
+          "title": "Service continuity metrics",
+          "slug": "service-continuity-metrics",
+          "path": "locales/en-001/topics/service-continuity-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-continuity-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/service-continuity-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-continuity-metrics/index.md",
+            "en-us": "locales/en-us/topics/service-continuity-metrics/index.md"
+          }
+        },
+        {
+          "number": "5.7",
+          "title": "Toil and on-call metrics",
+          "slug": "toil-and-on-call-metrics",
+          "path": "locales/en-001/topics/toil-and-on-call-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/toil-and-on-call-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/toil-and-on-call-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/toil-and-on-call-metrics/index.md",
+            "en-us": "locales/en-us/topics/toil-and-on-call-metrics/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 6: Customer and Experience Metrics",
+      "topics": [
+        {
+          "number": "6.0",
+          "title": "Introduction to Part 6: Customer and Experience Metrics",
+          "slug": "customer-and-experience-metrics",
+          "path": "locales/en-001/topics/customer-and-experience-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/customer-and-experience-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/customer-and-experience-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/customer-and-experience-metrics/index.md",
+            "en-us": "locales/en-us/topics/customer-and-experience-metrics/index.md"
+          }
+        },
+        {
+          "number": "6.1",
+          "title": "Customer satisfaction metrics",
+          "slug": "customer-satisfaction-metrics",
+          "path": "locales/en-001/topics/customer-satisfaction-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/customer-satisfaction-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/customer-satisfaction-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/customer-satisfaction-metrics/index.md",
+            "en-us": "locales/en-us/topics/customer-satisfaction-metrics/index.md"
+          }
+        },
+        {
+          "number": "6.2",
+          "title": "Experience level agreements",
+          "slug": "experience-level-agreements",
+          "path": "locales/en-001/topics/experience-level-agreements/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/experience-level-agreements/index.md",
+            "en-gb": "locales/en-gb/topics/experience-level-agreements/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/experience-level-agreements/index.md",
+            "en-us": "locales/en-us/topics/experience-level-agreements/index.md"
+          }
+        },
+        {
+          "number": "6.3",
+          "title": "Service adoption and catalog metrics",
+          "slug": "service-adoption-and-catalog-metrics",
+          "path": "locales/en-001/topics/service-adoption-and-catalog-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-adoption-and-catalog-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/service-adoption-and-catalog-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-adoption-and-catalog-metrics/index.md",
+            "en-us": "locales/en-us/topics/service-adoption-and-catalog-metrics/index.md"
+          }
+        },
+        {
+          "number": "6.4",
+          "title": "User and employee experience",
+          "slug": "user-and-employee-experience",
+          "path": "locales/en-001/topics/user-and-employee-experience/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/user-and-employee-experience/index.md",
+            "en-gb": "locales/en-gb/topics/user-and-employee-experience/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/user-and-employee-experience/index.md",
+            "en-us": "locales/en-us/topics/user-and-employee-experience/index.md"
+          }
+        },
+        {
+          "number": "6.5",
+          "title": "Value realization and business outcomes",
+          "slug": "value-realization-and-business-outcomes",
+          "path": "locales/en-001/topics/value-realization-and-business-outcomes/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/value-realization-and-business-outcomes/index.md",
+            "en-gb": "locales/en-gb/topics/value-realization-and-business-outcomes/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/value-realization-and-business-outcomes/index.md",
+            "en-us": "locales/en-us/topics/value-realization-and-business-outcomes/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 7: Asset, Configuration, and Financial Metrics",
+      "topics": [
+        {
+          "number": "7.0",
+          "title": "Introduction to Part 7: Asset, Configuration, and Financial Metrics",
+          "slug": "asset-configuration-and-financial-metrics",
+          "path": "locales/en-001/topics/asset-configuration-and-financial-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/asset-configuration-and-financial-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/asset-configuration-and-financial-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/asset-configuration-and-financial-metrics/index.md",
+            "en-us": "locales/en-us/topics/asset-configuration-and-financial-metrics/index.md"
+          }
+        },
+        {
+          "number": "7.1",
+          "title": "IT asset management metrics",
+          "slug": "it-asset-management-metrics",
+          "path": "locales/en-001/topics/it-asset-management-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/it-asset-management-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/it-asset-management-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/it-asset-management-metrics/index.md",
+            "en-us": "locales/en-us/topics/it-asset-management-metrics/index.md"
+          }
+        },
+        {
+          "number": "7.2",
+          "title": "Software asset and license metrics",
+          "slug": "software-asset-and-license-metrics",
+          "path": "locales/en-001/topics/software-asset-and-license-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/software-asset-and-license-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/software-asset-and-license-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/software-asset-and-license-metrics/index.md",
+            "en-us": "locales/en-us/topics/software-asset-and-license-metrics/index.md"
+          }
+        },
+        {
+          "number": "7.3",
+          "title": "Hardware asset lifecycle metrics",
+          "slug": "hardware-asset-lifecycle-metrics",
+          "path": "locales/en-001/topics/hardware-asset-lifecycle-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/hardware-asset-lifecycle-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/hardware-asset-lifecycle-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/hardware-asset-lifecycle-metrics/index.md",
+            "en-us": "locales/en-us/topics/hardware-asset-lifecycle-metrics/index.md"
+          }
+        },
+        {
+          "number": "7.4",
+          "title": "Configuration and CMDB quality metrics",
+          "slug": "configuration-and-cmdb-quality-metrics",
+          "path": "locales/en-001/topics/configuration-and-cmdb-quality-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/configuration-and-cmdb-quality-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/configuration-and-cmdb-quality-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/configuration-and-cmdb-quality-metrics/index.md",
+            "en-us": "locales/en-us/topics/configuration-and-cmdb-quality-metrics/index.md"
+          }
+        },
+        {
+          "number": "7.5",
+          "title": "Service cost and unit economics",
+          "slug": "service-cost-and-unit-economics",
+          "path": "locales/en-001/topics/service-cost-and-unit-economics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/service-cost-and-unit-economics/index.md",
+            "en-gb": "locales/en-gb/topics/service-cost-and-unit-economics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-cost-and-unit-economics/index.md",
+            "en-us": "locales/en-us/topics/service-cost-and-unit-economics/index.md"
+          }
+        },
+        {
+          "number": "7.6",
+          "title": "FinOps and cloud cost metrics",
+          "slug": "finops-and-cloud-cost-metrics",
+          "path": "locales/en-001/topics/finops-and-cloud-cost-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/finops-and-cloud-cost-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/finops-and-cloud-cost-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/finops-and-cloud-cost-metrics/index.md",
+            "en-us": "locales/en-us/topics/finops-and-cloud-cost-metrics/index.md"
+          }
+        },
+        {
+          "number": "7.7",
+          "title": "Return on investment and business case",
+          "slug": "return-on-investment-and-business-case",
+          "path": "locales/en-001/topics/return-on-investment-and-business-case/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/return-on-investment-and-business-case/index.md",
+            "en-gb": "locales/en-gb/topics/return-on-investment-and-business-case/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/return-on-investment-and-business-case/index.md",
+            "en-us": "locales/en-us/topics/return-on-investment-and-business-case/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 8: Security, Risk, Compliance, and Supplier Metrics",
+      "topics": [
+        {
+          "number": "8.0",
+          "title": "Introduction to Part 8: Security, Risk, Compliance, and Supplier Metrics",
+          "slug": "security-risk-compliance-and-supplier-metrics",
+          "path": "locales/en-001/topics/security-risk-compliance-and-supplier-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/security-risk-compliance-and-supplier-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/security-risk-compliance-and-supplier-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/security-risk-compliance-and-supplier-metrics/index.md",
+            "en-us": "locales/en-us/topics/security-risk-compliance-and-supplier-metrics/index.md"
+          }
+        },
+        {
+          "number": "8.1",
+          "title": "Security incident and vulnerability metrics",
+          "slug": "security-incident-and-vulnerability-metrics",
+          "path": "locales/en-001/topics/security-incident-and-vulnerability-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/security-incident-and-vulnerability-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/security-incident-and-vulnerability-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/security-incident-and-vulnerability-metrics/index.md",
+            "en-us": "locales/en-us/topics/security-incident-and-vulnerability-metrics/index.md"
+          }
+        },
+        {
+          "number": "8.2",
+          "title": "Risk and control metrics",
+          "slug": "risk-and-control-metrics",
+          "path": "locales/en-001/topics/risk-and-control-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/risk-and-control-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/risk-and-control-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/risk-and-control-metrics/index.md",
+            "en-us": "locales/en-us/topics/risk-and-control-metrics/index.md"
+          }
+        },
+        {
+          "number": "8.3",
+          "title": "Compliance and audit metrics",
+          "slug": "compliance-and-audit-metrics",
+          "path": "locales/en-001/topics/compliance-and-audit-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/compliance-and-audit-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/compliance-and-audit-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/compliance-and-audit-metrics/index.md",
+            "en-us": "locales/en-us/topics/compliance-and-audit-metrics/index.md"
+          }
+        },
+        {
+          "number": "8.4",
+          "title": "Supplier and contract metrics",
+          "slug": "supplier-and-contract-metrics",
+          "path": "locales/en-001/topics/supplier-and-contract-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/supplier-and-contract-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/supplier-and-contract-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/supplier-and-contract-metrics/index.md",
+            "en-us": "locales/en-us/topics/supplier-and-contract-metrics/index.md"
+          }
+        },
+        {
+          "number": "8.5",
+          "title": "Regulated and government reporting",
+          "slug": "regulated-and-government-reporting",
+          "path": "locales/en-001/topics/regulated-and-government-reporting/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/regulated-and-government-reporting/index.md",
+            "en-gb": "locales/en-gb/topics/regulated-and-government-reporting/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/regulated-and-government-reporting/index.md",
+            "en-us": "locales/en-us/topics/regulated-and-government-reporting/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 9: People, Teams, and Improvement Metrics",
+      "topics": [
+        {
+          "number": "9.0",
+          "title": "Introduction to Part 9: People, Teams, and Improvement Metrics",
+          "slug": "people-teams-and-improvement-metrics",
+          "path": "locales/en-001/topics/people-teams-and-improvement-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/people-teams-and-improvement-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/people-teams-and-improvement-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/people-teams-and-improvement-metrics/index.md",
+            "en-us": "locales/en-us/topics/people-teams-and-improvement-metrics/index.md"
+          }
+        },
+        {
+          "number": "9.1",
+          "title": "Team health and developer experience",
+          "slug": "team-health-and-developer-experience",
+          "path": "locales/en-001/topics/team-health-and-developer-experience/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/team-health-and-developer-experience/index.md",
+            "en-gb": "locales/en-gb/topics/team-health-and-developer-experience/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/team-health-and-developer-experience/index.md",
+            "en-us": "locales/en-us/topics/team-health-and-developer-experience/index.md"
+          }
+        },
+        {
+          "number": "9.2",
+          "title": "Satisfaction and well-being metrics",
+          "slug": "satisfaction-and-well-being-metrics",
+          "path": "locales/en-001/topics/satisfaction-and-well-being-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/satisfaction-and-well-being-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/satisfaction-and-well-being-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/satisfaction-and-well-being-metrics/index.md",
+            "en-us": "locales/en-us/topics/satisfaction-and-well-being-metrics/index.md"
+          }
+        },
+        {
+          "number": "9.3",
+          "title": "Collaboration and handoff metrics",
+          "slug": "collaboration-and-handoff-metrics",
+          "path": "locales/en-001/topics/collaboration-and-handoff-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/collaboration-and-handoff-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/collaboration-and-handoff-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/collaboration-and-handoff-metrics/index.md",
+            "en-us": "locales/en-us/topics/collaboration-and-handoff-metrics/index.md"
+          }
+        },
+        {
+          "number": "9.4",
+          "title": "Skills and learning metrics",
+          "slug": "skills-and-learning-metrics",
+          "path": "locales/en-001/topics/skills-and-learning-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/skills-and-learning-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/skills-and-learning-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/skills-and-learning-metrics/index.md",
+            "en-us": "locales/en-us/topics/skills-and-learning-metrics/index.md"
+          }
+        },
+        {
+          "number": "9.5",
+          "title": "Continual improvement metrics",
+          "slug": "continual-improvement-metrics",
+          "path": "locales/en-001/topics/continual-improvement-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/continual-improvement-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/continual-improvement-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/continual-improvement-metrics/index.md",
+            "en-us": "locales/en-us/topics/continual-improvement-metrics/index.md"
+          }
+        },
+        {
+          "number": "9.6",
+          "title": "Organizational change and adoption metrics",
+          "slug": "organizational-change-and-adoption-metrics",
+          "path": "locales/en-001/topics/organizational-change-and-adoption-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/organizational-change-and-adoption-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/organizational-change-and-adoption-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/organizational-change-and-adoption-metrics/index.md",
+            "en-us": "locales/en-us/topics/organizational-change-and-adoption-metrics/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 10: Metrics in the Age of AI",
+      "topics": [
+        {
+          "number": "10.0",
+          "title": "Introduction to Part 10: Metrics in the Age of AI",
+          "slug": "metrics-in-the-age-of-ai",
+          "path": "locales/en-001/topics/metrics-in-the-age-of-ai/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/metrics-in-the-age-of-ai/index.md",
+            "en-gb": "locales/en-gb/topics/metrics-in-the-age-of-ai/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/metrics-in-the-age-of-ai/index.md",
+            "en-us": "locales/en-us/topics/metrics-in-the-age-of-ai/index.md"
+          }
+        },
+        {
+          "number": "10.1",
+          "title": "AI in service management measurement",
+          "slug": "ai-in-service-management-measurement",
+          "path": "locales/en-001/topics/ai-in-service-management-measurement/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-in-service-management-measurement/index.md",
+            "en-gb": "locales/en-gb/topics/ai-in-service-management-measurement/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-in-service-management-measurement/index.md",
+            "en-us": "locales/en-us/topics/ai-in-service-management-measurement/index.md"
+          }
+        },
+        {
+          "number": "10.2",
+          "title": "Measuring AI-assisted work",
+          "slug": "measuring-ai-assisted-work",
+          "path": "locales/en-001/topics/measuring-ai-assisted-work/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/measuring-ai-assisted-work/index.md",
+            "en-gb": "locales/en-gb/topics/measuring-ai-assisted-work/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/measuring-ai-assisted-work/index.md",
+            "en-us": "locales/en-us/topics/measuring-ai-assisted-work/index.md"
+          }
+        },
+        {
+          "number": "10.3",
+          "title": "AI agent and chatbot metrics",
+          "slug": "ai-agent-and-chatbot-metrics",
+          "path": "locales/en-001/topics/ai-agent-and-chatbot-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-agent-and-chatbot-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/ai-agent-and-chatbot-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-agent-and-chatbot-metrics/index.md",
+            "en-us": "locales/en-us/topics/ai-agent-and-chatbot-metrics/index.md"
+          }
+        },
+        {
+          "number": "10.4",
+          "title": "Metric inflation and quality dilution",
+          "slug": "metric-inflation-and-quality-dilution",
+          "path": "locales/en-001/topics/metric-inflation-and-quality-dilution/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/metric-inflation-and-quality-dilution/index.md",
+            "en-gb": "locales/en-gb/topics/metric-inflation-and-quality-dilution/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/metric-inflation-and-quality-dilution/index.md",
+            "en-us": "locales/en-us/topics/metric-inflation-and-quality-dilution/index.md"
+          }
+        },
+        {
+          "number": "10.5",
+          "title": "AI governance and risk metrics",
+          "slug": "ai-governance-and-risk-metrics",
+          "path": "locales/en-001/topics/ai-governance-and-risk-metrics/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/ai-governance-and-risk-metrics/index.md",
+            "en-gb": "locales/en-gb/topics/ai-governance-and-risk-metrics/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-governance-and-risk-metrics/index.md",
+            "en-us": "locales/en-us/topics/ai-governance-and-risk-metrics/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 11: Building a Metrics Program",
+      "topics": [
+        {
+          "number": "11.0",
+          "title": "Introduction to Part 11: Building a Metrics Program",
+          "slug": "building-a-metrics-program",
+          "path": "locales/en-001/topics/building-a-metrics-program/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/building-a-metrics-program/index.md",
+            "en-gb": "locales/en-gb/topics/building-a-metrics-program/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/building-a-metrics-program/index.md",
+            "en-us": "locales/en-us/topics/building-a-metrics-program/index.md"
+          }
+        },
+        {
+          "number": "11.1",
+          "title": "Designing a service metrics dashboard",
+          "slug": "designing-a-service-metrics-dashboard",
+          "path": "locales/en-001/topics/designing-a-service-metrics-dashboard/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/designing-a-service-metrics-dashboard/index.md",
+            "en-gb": "locales/en-gb/topics/designing-a-service-metrics-dashboard/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/designing-a-service-metrics-dashboard/index.md",
+            "en-us": "locales/en-us/topics/designing-a-service-metrics-dashboard/index.md"
+          }
+        },
+        {
+          "number": "11.2",
+          "title": "Tooling landscape",
+          "slug": "tooling-landscape",
+          "path": "locales/en-001/topics/tooling-landscape/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/tooling-landscape/index.md",
+            "en-gb": "locales/en-gb/topics/tooling-landscape/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/tooling-landscape/index.md",
+            "en-us": "locales/en-us/topics/tooling-landscape/index.md"
+          }
+        },
+        {
+          "number": "11.3",
+          "title": "Rolling out metrics without breeding fear",
+          "slug": "rolling-out-metrics-without-breeding-fear",
+          "path": "locales/en-001/topics/rolling-out-metrics-without-breeding-fear/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/rolling-out-metrics-without-breeding-fear/index.md",
+            "en-gb": "locales/en-gb/topics/rolling-out-metrics-without-breeding-fear/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/rolling-out-metrics-without-breeding-fear/index.md",
+            "en-us": "locales/en-us/topics/rolling-out-metrics-without-breeding-fear/index.md"
+          }
+        },
+        {
+          "number": "11.4",
+          "title": "Maturity model for metrics programs",
+          "slug": "maturity-model-for-metrics-programs",
+          "path": "locales/en-001/topics/maturity-model-for-metrics-programs/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/maturity-model-for-metrics-programs/index.md",
+            "en-gb": "locales/en-gb/topics/maturity-model-for-metrics-programs/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/maturity-model-for-metrics-programs/index.md",
+            "en-us": "locales/en-us/topics/maturity-model-for-metrics-programs/index.md"
+          }
+        },
+        {
+          "number": "11.5",
+          "title": "An incremental adoption roadmap",
+          "slug": "incremental-adoption-roadmap",
+          "path": "locales/en-001/topics/incremental-adoption-roadmap/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/incremental-adoption-roadmap/index.md",
+            "en-gb": "locales/en-gb/topics/incremental-adoption-roadmap/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/incremental-adoption-roadmap/index.md",
+            "en-us": "locales/en-us/topics/incremental-adoption-roadmap/index.md"
+          }
+        }
+      ]
+    },
+    {
+      "part": "Part 12: Appendices",
+      "topics": [
+        {
+          "number": "12.0",
+          "title": "Appendices",
+          "slug": "appendices",
+          "path": "locales/en-001/topics/appendices/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/appendices/index.md",
+            "en-gb": "locales/en-gb/topics/appendices/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/appendices/index.md",
+            "en-us": "locales/en-us/topics/appendices/index.md"
+          }
+        },
+        {
+          "number": "12.1",
+          "title": "Glossary",
+          "slug": "glossary",
+          "path": "locales/en-001/topics/glossary/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/glossary/index.md",
+            "en-gb": "locales/en-gb/topics/glossary/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/glossary/index.md",
+            "en-us": "locales/en-us/topics/glossary/index.md"
+          }
+        },
+        {
+          "number": "12.2",
+          "title": "Metric definitions and formulas reference",
+          "slug": "metric-definitions-and-formulas-reference",
+          "path": "locales/en-001/topics/metric-definitions-and-formulas-reference/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/metric-definitions-and-formulas-reference/index.md",
+            "en-gb": "locales/en-gb/topics/metric-definitions-and-formulas-reference/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/metric-definitions-and-formulas-reference/index.md",
+            "en-us": "locales/en-us/topics/metric-definitions-and-formulas-reference/index.md"
+          }
+        },
+        {
+          "number": "12.3",
+          "title": "Checklists",
+          "slug": "checklists",
+          "path": "locales/en-001/topics/checklists/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/checklists/index.md",
+            "en-gb": "locales/en-gb/topics/checklists/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/checklists/index.md",
+            "en-us": "locales/en-us/topics/checklists/index.md"
+          }
+        },
+        {
+          "number": "12.4",
+          "title": "Templates",
+          "slug": "templates",
+          "path": "locales/en-001/topics/templates/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/templates/index.md",
+            "en-gb": "locales/en-gb/topics/templates/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/templates/index.md",
+            "en-us": "locales/en-us/topics/templates/index.md"
+          }
+        },
+        {
+          "number": "12.5",
+          "title": "Maturity self-assessment",
+          "slug": "maturity-self-assessment",
+          "path": "locales/en-001/topics/maturity-self-assessment/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/maturity-self-assessment/index.md",
+            "en-gb": "locales/en-gb/topics/maturity-self-assessment/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/maturity-self-assessment/index.md",
+            "en-us": "locales/en-us/topics/maturity-self-assessment/index.md"
+          }
+        },
+        {
+          "number": "12.6",
+          "title": "References and further reading",
+          "slug": "references-and-further-reading",
+          "path": "locales/en-001/topics/references-and-further-reading/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/references-and-further-reading/index.md",
+            "en-gb": "locales/en-gb/topics/references-and-further-reading/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/references-and-further-reading/index.md",
+            "en-us": "locales/en-us/topics/references-and-further-reading/index.md"
+          }
+        },
+        {
+          "number": "12.7",
+          "title": "Index",
+          "slug": "index",
+          "path": "locales/en-001/topics/index/index.md",
+          "locales": {
+            "en-001": "locales/en-001/topics/index/index.md",
+            "en-gb": "locales/en-gb/topics/index/index.md",
+            "en-gb-oxendict": "locales/en-gb-oxendict/topics/index/index.md",
+            "en-us": "locales/en-us/topics/index/index.md"
+          }
+        }
+      ]
+    }
+  ],
+  "skills": [
+    "agile-itil-metrics-maintainer-skill",
+    "agile-itil-metrics-skill"
+  ],
+  "reference": [
+    {
+      "title": "Glossary",
+      "path": "locales/en-001/topics/glossary/index.md",
+      "note": "Terms and acronyms, each pointing to its home topic"
+    },
+    {
+      "title": "Metric definitions and formulas reference",
+      "path": "locales/en-001/topics/metric-definitions-and-formulas-reference/index.md",
+      "note": "Every metric with its gaming vector and guardrail"
+    },
+    {
+      "title": "Index",
+      "path": "locales/en-001/topics/index/index.md",
+      "note": "Concepts, frameworks, and metrics by topic number"
+    },
+    {
+      "title": "Style guide",
+      "path": "STYLE_GUIDE.md",
+      "note": "The prose and formatting contract"
+    },
+    {
+      "title": "Specification",
+      "path": "spec/index.md",
+      "note": "Governing specification: topic template, manifest, quality gates"
+    }
+  ]
+}
