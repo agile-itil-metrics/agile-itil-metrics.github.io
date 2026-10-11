@@ -41,6 +41,17 @@ for (const [path, tsv] of Object.entries(slugFiles)) {
   }
 }
 
+const messageFiles = import.meta.glob('../locales/*.json', { eager: true, import: 'default' }) as Record<
+  string,
+  { topicWords?: string[] }
+>;
+
+/** The words a locale uses for "topic" in a cross-reference such as "topic 2.1", longest first. */
+function topicWords(locale: string): string[] {
+  const words = messageFiles[`../locales/${locale}.json`]?.topicWords ?? ['topic', 'topics'];
+  return [...words].sort((a, b) => b.length - a.length);
+}
+
 type ManifestRow = { part: number; number: string; slug: string; title: string; partTitle: string };
 
 /** The manifest (spec/topics.tsv): order, numbers, and parts. Its title column is a fallback copied by the sync script from each topic's first headline. */
@@ -92,16 +103,18 @@ export function parts(): Part[] {
  */
 function rewriteLinks(markdown: string, locale: string): string {
   const numbers = new Map(toc(locale).filter((t) => t.written).map((t) => [t.number, t.slug]));
+  const escaped = topicWords(locale).map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  const reference = new RegExp(`(?<![\\p{L}\\p{N}])(?:${escaped.join('|')})\\s?(\\d{1,2}\\.\\d{1,2})(?![\\d.]*\\d)(?![^\\[]*\\]\\()`, 'giu');
   let inFence = false;
   return markdown
     .split('\n')
     .map((line) => {
       if (/^\s*```/.test(line)) inFence = !inFence;
-      if (inFence || /^\s*\|/.test(line) && false) return line;
+      if (inFence) return line;
       return line
         .replace(/\]\((?:\.\.\/)+skills\/([\w-]+)\/SKILL\.md\)/g, '](/skills/$1/)')
         .replace(/\]\((?:\.\.\/)+(spec|skills)\/([^)]*)\)/g, `](${SOURCE_REPO}/blob/main/$1/$2)`)
-        .replace(/\btopics? (\d{1,2}\.\d{1,2})\b(?![^\[]*\]\()/g, (match, number: string) => {
+        .replace(reference, (match, number: string) => {
           const slug = numbers.get(number);
           return slug ? `[${match}](${sectionPath(locale, 'topics', slug)})` : match;
         });

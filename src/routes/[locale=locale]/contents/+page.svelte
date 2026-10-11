@@ -48,7 +48,7 @@
       {#each parts as part (part.number)}
         <li>
           <p class="contents-part-heading">
-            {_('contents.part', { values: { number: part.number } })} — {part.title}
+            {_('contents.part', { values: { number: part.number } })} — {_(`parts.${part.number}.title`)}
           </p>
           <p class="contents-part-tagline">{_(`parts.${part.number}.tagline`)}</p>
           <ul class="contents-list">

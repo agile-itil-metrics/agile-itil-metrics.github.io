@@ -62,40 +62,52 @@
   },
   "parts": {
     "1": {
-      "tagline": "Why, what, and how to measure without distorting the work."
+      "tagline": "Why, what, and how to measure without distorting the work.",
+      "title": "Foundations of Measurement"
     },
     "2": {
-      "tagline": "How work moves through agile teams that also run services."
+      "tagline": "How work moves through agile teams that also run services.",
+      "title": "Flow and Continuous Delivery Metrics"
     },
     "3": {
-      "tagline": "How well support and restoration work for users."
+      "tagline": "How well support and restoration work for users.",
+      "title": "Service Desk, Incident, and Request Metrics"
     },
     "4": {
-      "tagline": "How change and learning affect stability and speed."
+      "tagline": "How change and learning affect stability and speed.",
+      "title": "Problem, Change, and Release Metrics"
     },
     "5": {
-      "tagline": "What users can count on."
+      "tagline": "What users can count on.",
+      "title": "Service Level, Availability, and Reliability Metrics"
     },
     "6": {
-      "tagline": "Whether users are better off."
+      "tagline": "Whether users are better off.",
+      "title": "Customer and Experience Metrics"
     },
     "7": {
-      "tagline": "Knowing what you have and what it costs."
+      "tagline": "Knowing what you have and what it costs.",
+      "title": "Asset, Configuration, and Financial Metrics"
     },
     "8": {
-      "tagline": "Trust, control, and the third parties behind the service."
+      "tagline": "Trust, control, and the third parties behind the service.",
+      "title": "Security, Risk, Compliance, and Supplier Metrics"
     },
     "9": {
-      "tagline": "The health of the people and the habit of improving."
+      "tagline": "The health of the people and the habit of improving.",
+      "title": "People, Teams, and Improvement Metrics"
     },
     "10": {
-      "tagline": "What generative AI changes about the numbers."
+      "tagline": "What generative AI changes about the numbers.",
+      "title": "Metrics in the Age of AI"
     },
     "11": {
-      "tagline": "From a handful of measures to a habit."
+      "tagline": "From a handful of measures to a habit.",
+      "title": "Building a Metrics Program"
     },
     "12": {
-      "tagline": "Reference material."
+      "tagline": "Reference material.",
+      "title": "Appendices"
     }
   },
   "results": {
@@ -124,5 +136,9 @@
   },
   "home": {
     "continue": "Continue to Agile ITIL Metrics"
-  }
+  },
+  "topicWords": [
+    "topic",
+    "topics"
+  ]
 }
