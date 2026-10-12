@@ -8,7 +8,7 @@
   let { data } = $props();
 
   const hero = $derived(HERO[data.locale] ?? HERO['en-001']);
-  const translations = LOCALE_SLUGS.filter((code) => code in ENDONYMS);
+  const translations = LOCALE_SLUGS.filter((code) => code.endsWith('-001') && code in ENDONYMS);
   const contents = $derived(encodeURI(sectionPath(data.locale, 'contents')));
 </script>
 
