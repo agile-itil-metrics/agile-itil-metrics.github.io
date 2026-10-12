@@ -1,0 +1,857 @@
+# Mynegai
+
+Cysyniadau, fframweithiau, a metrigau, pob un yn pwyntio at y pynciau lle maent yn ymddangos. Rhifau pynciau yw'r rhifau; mae'r teitlau yn nhabl cynnwys y README ac yn [strwythur](../../../../spec/structure.md). Ar gyfer diffiniadau byr gyda phwnc cartref, gweler pwnc 12.1, Geirfa.
+
+## Fframweithiau a modelau
+
+- **Cerdyn sgorio cytbwys (Balanced scorecard)**: 1.0, 1.3, 1.7, 11.1
+- **Damcaniaeth cyfyngiadau (Theory of constraints)**: 2.3, 2.4, 9.5
+- **Darbodus (Lean)**: 9.5
+- **DevEx**: 9.1
+- **Dibynadwyedd safle (Site reliability)**: 1.1, 2.7, 3.3, 3.4, 3.7, 4.2, 5.0, 5.1, 5.2, 5.3, 5.4, 5.5, ac eraill
+- **DORA**: 1.1, 1.3, 1.5, 2.0, 2.1, 2.2, 2.4, 2.7, 2.8, 3.3, 3.4, 3.7, ac eraill
+- **FinOps**: 5.4, 7.0, 7.5, 7.6, 7.7
+- **Four Keys**: 2.8
+- **GQM**: 1.7
+- **ISO/IEC 20000**: 1.4
+- **ISO/IEC 27001**: 8.1, 8.3
+- **ITIL**: 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 2.0, 2.1, 2.2, 2.3, ac eraill
+- **Mapio ffrwd werth (Value stream mapping)**: 2.4
+- **NIST**: 10.5
+- **Nod-Cwestiwn-Metrig (Goal-Question-Metric)**: 1.0, 1.7
+- **OKR**: 1.7
+- **SPACE**: 1.1, 9.1
+
+## Metrigau
+
+Enwau metrigau fel y maent yn ymddangos yn nhabl diffiniadau pob pwnc. Mae'r cofnodion llawn yn atodiad 12.2 (gweler pwnc 12.2, Cyfeirnod diffiniadau a fformiwlâu metrigau).
+
+- **Ail-wneud ar ôl uno**: 10.2
+- **Alinio diffiniadau**: 8.5
+- **Amlder a bylchau toriadau**: 5.3
+- **Amlder defnyddio**: 2.8, 4.5
+- **Amlder rhyddhau**: 4.5
+- **Amrywiant cysoni**: 1.5
+- **Amrywiant rhagolwg**: 7.5, 7.6
+- **Amser a gollir i broblemau TG**: 6.2
+- **Amser adfer defnyddio a fethodd**: 2.8
+- **Amser aros**: 2.2, 2.4
+- **Amser aros am gymeradwyaeth**: 3.5
+- **Amser aros trosglwyddo (85fed canradd)**: 5.1
+- **Amser arweiniol**: 2.2
+- **Amser arweiniol amnewid**: 7.3
+- **Amser arweiniol capasiti**: 5.4
+- **Amser arweiniol cymeradwyo**: 4.3
+- **Amser arweiniol ffrwd werth**: 2.4
+- **Amser arweiniol newid**: 2.8
+- **Amser arweiniol rhyddhau**: 4.5
+- **Amser at berson**: 10.3
+- **Amser cau canfyddiadau**: 8.3
+- **Amser ciw**: 2.3
+- **Amser cydnabod anghysondeb**: 7.6
+- **Amser cyffwrdd**: 2.2
+- **Amser cyffwrdd â llaw fesul math o gais**: 3.7
+- **Amser cyflawni cais**: 3.5
+- **Amser cylch**: 2.1, 2.2
+- **Amser cylch adolygu**: 2.7
+- **Amser datrys canradd uchel**: 1.6
+- **Amser datrys ceisiadau hygyrchedd**: 6.4
+- **Amser datrys rhwystrau**: 9.1
+- **Amser digwyddiad a briodolir i gyflenwr**: 8.4
+- **Amser dilyn i fyny beirniaid**: 6.1
+- **Amser dolen adborth**: 9.1
+- **Amser i adfer**: 3.3
+- **Amser i ateb**: 3.1
+- **Amser i atgyweiriad parhaol**: 4.1
+- **Amser i ddatgan**: 3.4
+- **Amser i ddatrys**: 3.3
+- **Amser i fesur newydd**: 11.2
+- **Amser i fod yn gynhyrchiol**: 6.4
+- **Amser i ganfod**: 3.3
+- **Amser i ganfod (TTD)**: 5.5
+- **Amser i gofnodi**: 7.1
+- **Amser i gydnabod**: 3.3
+- **Amser i gyfyngu**: 8.1
+- **Amser i gyhoeddi**: 3.6
+- **Amser i lawr anghynlluniedig**: 5.3
+- **Amser i weithredu ar adborth lles**: 9.2
+- **Amser i wraidd achos**: 4.1
+- **Amser i'r adolygiad cyntaf**: 2.7
+- **Amser i'r canlyniad defnyddiol cyntaf**: 11.5
+- **Amser i'r cyfraniad cyntaf**: 9.4
+- **Amser i'r gwerth cyntaf**: 6.5
+- **Amser i'r lefel nesaf (disgrifiadol)**: 11.4
+- **Amser i'r ymateb cyntaf**: 3.3
+- **Amser o syniad i brawf**: 9.5
+- **Amser proses**: 2.4
+- **Amser tasg yn erbyn llinell sylfaen**: 10.1
+- **Amser trin**: 3.1
+- **Amser troi her**: 11.3
+- **Amser troi tystiolaeth**: 8.3
+- **Amser ymateb i dorri KRI**: 8.2
+- **Amser ymateb rhanddeiliaid**: 9.3
+- **Amseroldeb adroddiadau**: 8.5
+- **Amseroldeb cynllun**: 5.6
+- **Amseroldeb cynllun trin**: 8.2
+- **Ansawdd cymorth â chymorth**: 10.2
+- **Argaeledd ar sail amser**: 5.3
+- **Argaeledd ar sail ceisiadau**: 5.3
+- **Argaeledd wedi'i bwysoli gan ddefnyddwyr**: 5.3
+- **Baich asesu**: 11.4
+- **Baich gwirio**: 10.4
+- **Boddhad ac ymdrech bot**: 10.3
+- **Boddhad ag offer a phrosesau**: 9.1
+- **Buanedd lleol**: 2.5
+- **Bwlch canfyddiad**: 1.2
+- **Bwlch defnyddio-i-ryddhau**: 4.5
+- **Bwlch profiad**: 6.2
+- **Bwlch watermelon**: 5.1
+- **Cadw at ddyraniad capasiti**: 2.9
+- **Canfyddiadau critigol hwyr**: 8.1
+- **Canolbwyntio categorïau**: 3.2
+- **Canolbwyntio llwyth adolygu**: 2.7
+- **Canolrif amser datrys**: 1.6
+- **Canradd latency**: 5.4
+- **Canran cyflawn a chywir (cam)**: 2.4
+- **Canran cyflawn a chywir treigl**: 2.4
+- **Cario drosodd camau ôl-sylliad**: 4.2
+- **CES**: 6.1
+- **Colli staff gwirfoddol a themâu ymadael**: 9.2
+- **Cost fesul gwasanaeth**: 7.5
+- **Cost fesul tasg â chymorth AI**: 10.1
+- **Cost meddalwedd silff**: 7.2
+- **Cost offer fesul tîm a gefnogir**: 11.2
+- **Cost uned**: 7.5
+- **Cost uned cwmwl**: 7.6
+- **Crynodiad**: 8.4
+- **Crynodiad ceisiadau**: 6.3
+- **Crynodiad rhybuddion**: 5.5
+- **CSAT**: 6.1
+- **Cwblhau adolygiad cam**: 11.5
+- **Cwblhau gwaredu diogel**: 7.3
+- **Cwmpas a chyfredoldeb cytundebau**: 5.1
+- **Cwmpas adfer wedi'i brofi**: 5.6
+- **Cwmpas adolygu**: 4.2
+- **Cwmpas adolygu ffynhonnell agored**: 7.2
+- **Cwmpas adrodd cyfraddau**: 1.6
+- **Cwmpas ardystio perthnasol**: 9.4
+- **Cwmpas awtomeiddio**: 3.7
+- **Cwmpas baneri nodweddion**: 4.5
+- **Cwmpas canfod**: 5.5
+- **Cwmpas canlyniadau**: 1.3
+- **Cwmpas cofrestr contractau**: 8.4
+- **Cwmpas cofrestr defnyddiau AI**: 10.5
+- **Cwmpas CSF-i-KPI**: 1.7
+- **Cwmpas cwestiynau**: 11.1
+- **Cwmpas darganfod**: 7.1
+- **Cwmpas datrysiadau dros dro**: 4.6
+- **Cwmpas defnydd AI**: 10.1
+- **Cwmpas dibyniaethau**: 7.4
+- **Cwmpas dimensiwn**: 9.1
+- **Cwmpas dyrannu**: 7.5, 7.6
+- **Cwmpas ffynonellau**: 1.5, 11.2
+- **Cwmpas gwybodaeth**: 9.3
+- **Cwmpas llinell sylfaen**: 1.1, 11.5
+- **Cwmpas mesur**: 5.3
+- **Cwmpas mireinio**: 2.6
+- **Cwmpas olrheinedd**: 8.5
+- **Cwmpas perchnogaeth**: 1.4, 8.2
+- **Cwmpas persbectif**: 1.7
+- **Cwmpas profi rheolaethau**: 8.2
+- **Cwmpas profion perfformiad**: 5.4
+- **Cwmpas rheiliau gwarchod**: 1.2
+- **Cwmpas rheoli newid**: 10.5
+- **Cwmpas rhwymedigaethau**: 8.3
+- **Cwmpas rhwymedigaethau adrodd**: 8.5
+- **Cwmpas SBOM**: 7.2
+- **Cwmpas sganio**: 8.1
+- **Cwmpas siarter defnydd**: 11.3
+- **Cwmpas SLO**: 5.2
+- **Cwmpas y catalog**: 6.3
+- **Cwmpas ymatebwyr**: 6.1
+- **Cwmpas ymrwymiad**: 7.6
+- **Cydffurfiaeth ffynhonnell**: 1.4
+- **Cydymffurfiaeth hygyrchedd cyhoeddedig**: 8.5
+- **Cydymffurfio SLO**: 5.2
+- **Cydymffurfio â chlytiau**: 8.1
+- **Cydymffurfio â mesurau diogelu preifatrwydd**: 6.4
+- **Cydymffurfio â pholisi'r gyllideb**: 5.2
+- **Cyfaint ceisiadau fesul eitem catalog**: 3.5
+- **Cyfaint cysylltiadau**: 3.1
+- **Cyfaint digwyddiadau yn ôl gwasanaeth**: 3.2
+- **Cyfaint newid yn ôl math**: 4.3
+- **Cyfaint rhybuddion**: 5.5
+- **Cyfanswm cost perchnogaeth**: 7.7
+- **Cyflawnder cofnod newid**: 4.3
+- **Cyflawni o fewn y targed**: 3.5
+- **Cyflawnrwydd cam cylch bywyd**: 7.1
+- **Cyflawnrwydd CI**: 7.4
+- **Cyflawnrwydd cyd-destun trosglwyddo**: 10.3
+- **Cyflawnrwydd diffiniadau**: 11.1
+- **Cyflawnrwydd llinell sylfaen**: 10.1
+- **Cyflawnrwydd stampiau amser**: 1.5
+- **Cyfnod ad-dalu**: 7.7
+- **Cyfradd adnewyddu mewn pryd**: 7.3
+- **Cyfradd adrodd bron â digwydd**: 4.2
+- **Cyfradd adroddiadau diogelwch**: 8.1
+- **Cyfradd ail-ddosbarthu blaenoriaeth**: 3.2
+- **Cyfradd ail-gysylltu**: 3.1
+- **Cyfradd ailadrodd achosion**: 4.2
+- **Cyfradd ailadrodd ar ôl atgyweirio**: 4.1
+- **Cyfradd ailagor**: 1.2, 3.2
+- **Cyfradd ailagor ceisiadau**: 3.5
+- **Cyfradd ailddatgan**: 8.5
+- **Cyfradd ailddefnyddio ac ailgylchu**: 7.3
+- **Cyfradd ailddefnyddio gwallau hysbys**: 4.1
+- **Cyfradd ailgyfeirio amcangyfrifedig**: 3.7
+- **Cyfradd ailneilltuo**: 9.3
+- **Cyfradd ailwaith defnyddio**: 2.8, 4.4
+- **Cyfradd anghydfod showback**: 7.5
+- **Cyfradd asedau heb gyfrif**: 7.1
+- **Cyfradd atal ar sail tystiolaeth**: 7.7
+- **Cyfradd atgyweirio ar ôl uno**: 2.7
+- **Cyfradd awtomeiddio tystiolaeth**: 8.3
+- **Cyfradd bodloni RPO**: 5.6
+- **Cyfradd bodloni RTO**: 5.6
+- **Cyfradd cadw**: 10.2
+- **Cyfradd canfyddiadau ailadroddus**: 8.3
+- **Cyfradd cau camau**: 4.2
+- **Cyfradd cau canfyddiadau ymarfer**: 5.6
+- **Cyfradd cau gweithredoedd ar y cyd**: 8.4
+- **Cyfradd chwiliadau di-ganlyniad**: 3.6
+- **Cyfradd CI dyblyg**: 7.4
+- **Cyfradd clytiau brys**: 4.4
+- **Cyfradd cwblhau adolygu budd-daliadau**: 1.3
+- **Cyfradd cwblhau taith**: 6.2
+- **Cyfradd cwympo drwodd**: 3.7
+- **Cyfradd cyflymu**: 2.9
+- **Cyfradd cymhwyso hyfforddiant**: 9.4
+- **Cyfradd cynnwys rhanddeiliaid**: 9.6
+- **Cyfradd cyrraedd a gadael**: 2.3
+- **Cyfradd cyrraedd OLA**: 5.1
+- **Cyfradd cyrraedd SLA**: 5.1
+- **Cyfradd cysoni**: 7.1, 11.2
+- **Cyfradd cyswllt dychwelyd**: 10.3
+- **Cyfradd cysylltiadau**: 3.1
+- **Cyfradd cysylltiadau dro ar ôl tro**: 1.3
+- **Cyfradd cysylltu digwyddiad â phroblem**: 4.1
+- **Cyfradd cysylltu gwybodaeth**: 3.6
+- **Cyfradd cysylltu newid â digwyddiad**: 4.4
+- **Cyfradd datrys cydweithredol**: 9.3
+- **Cyfradd datrys wedi'i wirio**: 10.3
+- **Cyfradd datrys y cyswllt cyntaf**: 3.1
+- **Cyfradd defnydd gweithredol**: 6.3
+- **Cyfradd defnyddio CMDB**: 7.4
+- **Cyfradd defnyddio metrigau**: 1.2
+- **Cyfradd defnyddio trwydded**: 7.2
+- **Cyfradd defnyddioldeb**: 3.6
+- **Cyfradd derbyn a gwrthwneud awgrymiadau**: 10.1
+- **Cyfradd diffygion a ddihangodd**: 10.2
+- **Cyfradd digwyddiadau AI ac amser i gyfyngu**: 10.5
+- **Cyfradd digwyddiadau dro ar ôl tro**: 3.2
+- **Cyfradd digwyddiadau mawr dro ar ôl tro**: 3.4
+- **Cyfradd digwyddiadau normaleiddiedig**: 3.2
+- **Cyfradd dilyn drwodd ar weithredoedd**: 9.5
+- **Cyfradd dilysu dangosyddion arweiniol**: 1.3
+- **Cyfradd diswyddo cynnwys**: 10.4
+- **Cyfradd dychwelyd**: 4.4, 9.6
+- **Cyfradd effeithiolrwydd rheolaethau**: 8.2
+- **Cyfradd gadael**: 3.1
+- **Cyfradd gadael ceisiadau**: 6.3
+- **Cyfradd galwadau dro ar ôl tro**: 5.7
+- **Cyfradd gwastraff**: 7.6
+- **Cyfradd gwirio effaith**: 9.5
+- **Cyfradd gwirio rhagdybiaethau**: 6.5
+- **Cyfradd gwrthdroi gweithredoedd asiant**: 10.3
+- **Cyfradd llosgi**: 5.2
+- **Cyfradd llwyddiant adfer o gopi wrth gefn**: 5.6
+- **Cyfradd llwyddiant chwilio**: 6.3
+- **Cyfradd llwyddiant hunanwasanaeth**: 3.7
+- **Cyfradd mabwysiadu**: 6.3
+- **Cyfradd mabwysiadu nodwedd**: 1.3
+- **Cyfradd methiant newid**: 4.4
+- **Cyfradd methu ac ailwaith awtomeiddio**: 3.7
+- **Cyfradd methu newid**: 2.8
+- **Cyfradd methu yn ôl model**: 7.3
+- **Cyfradd newid cwmpas**: 2.5
+- **Cyfradd parodrwydd diwrnod un**: 6.4
+- **Cyfradd pasio gwiriad esboniad**: 10.2
+- **Cyfradd positifau ffug**: 5.5
+- **Cyfradd problemau ailadroddus**: 9.5
+- **Cyfradd rhybuddion gweithredadwy**: 5.5
+- **Cyfradd signalau siart rheoli**: 1.6
+- **Cyfradd sylweddoli buddion**: 6.5
+- **Cyfradd taflu ôl-groniad**: 2.6
+- **Cyfradd tarfu**: 2.9
+- **Cyfradd taro rhagfynegi effaith**: 7.4
+- **Cyfradd taro rhagolwg**: 2.5
+- **Cyfradd torri terfyn WIP**: 2.3
+- **Cyfradd tystiolaeth goruchwylio dynol**: 10.5
+- **Cyfradd ymateb arolwg**: 1.5, 6.1
+- **Cyfradd ymddeol**: 1.4, 11.1
+- **Cyfradd ymyrraeth nos**: 5.7
+- **Cyfradd ôl-ddyddio**: 1.5
+- **Cyfran a ganfuwyd gan fonitro**: 3.2
+- **Cyfran amser dysgu gwarchodedig**: 9.4
+- **Cyfran amser ffocws**: 9.1
+- **Cyfran amser gweithredol**: 3.3
+- **Cyfran amser i lawr cynlluniedig**: 5.3
+- **Cyfran amser wedi'i rwystro**: 2.1
+- **Cyfran ansawdd tystiolaeth**: 6.5
+- **Cyfran ariannu tîm parhaus**: 7.5
+- **Cyfran aros trosglwyddo**: 9.3
+- **Cyfran asedau heb berchennog**: 7.1
+- **Cyfran awtomeiddio**: 3.5
+- **Cyfran bron â methu**: 5.1
+- **Cyfran canfod drwy fonitro**: 5.5
+- **Cyfran capasiti dyled**: 4.6
+- **Cyfran capasiti gwelliant**: 9.5
+- **Cyfran capasiti sy'n gysylltiedig â chanlyniad**: 6.5
+- **Cyfran cymeradwyo awtomataidd**: 4.3
+- **Cyfran datrysiad dros dro yn unig**: 4.1
+- **Cyfran derbyn gwirfoddol**: 9.6
+- **Cyfran diraddio**: 5.3
+- **Cyfran dyfeisiau segur**: 7.3
+- **Cyfran eitemau defnyddiol**: 10.4
+- **Cyfran eitemau hen**: 6.3
+- **Cyfran galwadau y tu allan i oriau**: 5.7
+- **Cyfran gwaith heb ei gynllunio dro ar ôl tro**: 2.9
+- **Cyfran llafur diwerth o amser**: 5.7
+- **Cyfran metrigau sy'n gysylltiedig â phenderfyniad**: 1.1
+- **Cyfran newid ar sail risg**: 8.2
+- **Cyfran newid brys**: 4.4
+- **Cyfran newid safonol**: 4.3
+- **Cyfran oedi'r cloc**: 2.2, 5.1
+- **Cyfran perchnogaeth tîm**: 11.3
+- **Cyfran syniadau rheng flaen**: 9.5
+- **Cyfran themâu sylwadau**: 6.1
+- **Cyfran wedi'i hadolygu o wybodaeth a gynhyrchwyd**: 10.4
+- **Cyfran ymdrech rhaglen**: 11.5
+- **Cyfran ymdrech â llaw**: 11.2
+- **Cyfranogiad asesu**: 11.4
+- **Cyfranogiad cymunedol**: 9.4
+- **Cyfredoldeb adolygu mynediad**: 1.4
+- **Cyfredoldeb adolygu risg**: 8.2
+- **Cyfredoldeb asesu risg**: 10.5
+- **Cyfredoldeb diffiniad**: 1.4
+- **Cyfredoldeb diwydrwydd dyladwy**: 8.4
+- **Cyfredoldeb diwydrwydd dyladwy AI cyflenwyr**: 10.5
+- **Cyfredoldeb gwerthuso**: 10.5
+- **Cyfredoldeb rheolau rhybuddio**: 5.5
+- **Cyfrif ailneilltuo**: 3.3
+- **Cyfrif baneri hen**: 4.5
+- **Cyfrif ceisiadau tynnu hen**: 2.7
+- **Cyfrif cymwysiadau anawdurdodedig**: 7.2
+- **Cyfrif digwyddiadau mawr**: 3.4
+- **Cyfrif trosglwyddiadau**: 9.3
+- **Cyfrif trosglwyddo**: 2.4
+- **Cyllideb gwallau yn weddill**: 5.2
+- **Cymhareb ailddefnyddio**: 3.6
+- **Cymhareb allbwn-i-ganlyniad**: 10.4
+- **Cymhareb amser takt**: 2.4
+- **Cymhareb cysondeb cyfraith Little**: 2.3
+- **Cymhareb gwaith heb ei gynllunio**: 2.9
+- **Cymhareb llwyth tîm**: 2.3
+- **Cymhareb mewnlif-all-lif ôl-groniad**: 2.6
+- **Cymysgedd blaenoriaeth**: 3.2
+- **Cyrhaeddiad cynulleidfa (disgrifiadol)**: 11.1
+- **Cyrhaeddiad dysgu**: 4.2
+- **Cyrhaeddiad SLE**: 2.1
+- **Cyrraedd lefel gwasanaeth cyflenwr**: 8.4
+- **Cyrraedd SLI**: 5.2
+- **Cyrraedd XLA**: 6.2
+- **Cysylltiad penderfyniad**: 1.4
+- **Cysylltu â phenderfyniad**: 11.1
+- **Cytundeb diffiniad methiant**: 4.4
+- **Cywirdeb allbwn a adolygwyd**: 10.1
+- **Cywirdeb amcangyfrif budd**: 7.7
+- **Cywirdeb amcangyfrif cost**: 7.7
+- **Cywirdeb atebion**: 10.3
+- **Cywirdeb CI**: 7.4
+- **Cywirdeb rhestr eiddo**: 7.1
+- **Dadleoli gwaith wedi'i gynllunio**: 2.9
+- **Defnydd ymrwymiad**: 7.6
+- **Defnyddio adnoddau**: 5.4
+- **Dibynadwyedd piblinell**: 11.2
+- **Dibynadwyedd ymrwymiad wedi'i gynllunio**: 2.9
+- **Digwyddiadau defnydd unigol**: 11.3
+- **Digwyddiadau ffrithiant fesul defnyddiwr**: 6.2
+- **Digwyddiadau sy'n gysylltiedig â gwallau hysbys agored**: 4.6
+- **Dilyniant eitemau gweithredu**: 3.4
+- **Dilyniant gwelliannau**: 1.1
+- **Diogelwch mesur a ganfyddir (arolwg)**: 11.3
+- **Dirlawnder**: 5.4
+- **Diwrnodau ers y prawf adfer llwyddiannus diwethaf**: 5.6
+- **Dosbarthiad lefel (cyfran shift left)**: 3.7
+- **Dosbarthiad sgôr canlyniadau allweddol**: 1.7
+- **Drifft model statws**: 1.5
+- **Dyfnder cylchdro**: 5.7
+- **Dyfnder gwaith parod**: 2.6
+- **Dyfnder traws-hyfforddi**: 9.4
+- **Dyraniad capasiti**: 2.5
+- **Effaith ar gwsmeriaid**: 3.4
+- **Effeithlonrwydd llif**: 2.2
+- **Effeithlonrwydd proses**: 2.4
+- **Eglurder nod**: 9.6
+- **Ehangder cyfraniad**: 3.6
+- **Elw ar fuddsoddiad**: 7.7
+- **Ffenestr amlygiad**: 8.1
+- **Fflagiau drifft metrig**: 10.4
+- **Ffresni data**: 1.5, 11.1
+- **Ffresni erthyglau**: 3.6
+- **Galwadau fesul sifft**: 5.7
+- **Graddfa cefnogi anghenion**: 9.2
+- **Graddfa cyflymder cynaliadwy**: 9.2
+- **Graddfa diogelwch seicolegol**: 9.2
+- **Graddfa hyder heb gymorth**: 10.2
+- **Graddfa llwyth gwybyddol**: 9.1
+- **Graddfa straen llwyth gwaith**: 9.2
+- **Gwaith ar y gweill**: 2.3
+- **Gwaith ar y gweill (WIP)**: 2.1
+- **Gwall rhagolwg**: 5.4
+- **Gweithredoedd gwella o asesiadau**: 11.4
+- **Gwelliannau a olrheinir i fesurau**: 11.5
+- **Gwersi a rennir ar draws timau**: 9.4
+- **Gwerth presennol net**: 7.7
+- **Gwrthdaro gwahanu dyletswyddau**: 8.3
+- **Hyd ciw**: 2.3
+- **Hyd digwyddiad mawr**: 3.4
+- **Llafur diwerth a ddilëwyd**: 5.7
+- **Llafur diwerth yn ôl ffynhonnell**: 5.7
+- **Lle i dyfu**: 5.4
+- **Lled mabwysiadu arfer**: 9.6
+- **Lled y cyfwng**: 1.6
+- **Lled ystod rhagolwg**: 2.5
+- **Llog dyled**: 4.6
+- **Llwyddiant nod cyflawni**: 2.5
+- **Llwyth adolygu**: 10.2
+- **Llwyth newid**: 9.6
+- **Mabwysiadu gwirfoddol**: 11.3
+- **Mabwysiadu hunanwasanaeth (cyfran porth yn gyntaf)**: 3.7
+- **Maint arddangosfa**: 11.1
+- **Maint cais tynnu**: 2.7
+- **Maint swp rhyddhau**: 4.5
+- **Maint ôl-groniad**: 2.6
+- **Mesurau ac adroddiadau a ymddeolwyd**: 11.5
+- **Mewnlif ôl-groniad yn erbyn datrys**: 10.4
+- **Munudau tarfu gorfodol**: 6.4
+- **Mynychder datrysiadau dros dro**: 6.4
+- **Newid net dyled**: 4.6
+- **Nifer y newidiadau diffiniad**: 1.2
+- **NPS**: 6.1
+- **Oedi dibyniaeth**: 9.3
+- **Oedi diweddaru**: 7.4
+- **Oedran adolygu dangosydd**: 1.7
+- **Oedran camau agored**: 4.2
+- **Oedran data adeg adolygu**: 1.1
+- **Oedran eitem waith**: 2.1
+- **Oedran eithriad risg**: 8.1
+- **Oedran y ciw cymeradwyo**: 4.3
+- **Oedran y digwyddiad agored hynaf**: 3.3
+- **Oedran yr eitem agored hynaf**: 1.6
+- **Oedran ôl-groniad**: 2.6
+- **Oedran ôl-groniad gwallau hysbys**: 4.6
+- **Oedran ôl-groniad gwelliannau**: 9.5
+- **Oedran ôl-groniad problemau**: 4.1
+- **Olrheiniadwyedd nodau**: 1.7
+- **Oriau effaith busnes**: 6.5
+- **Parodrwydd adnewyddu**: 7.2
+- **Parodrwydd gadael**: 8.4, 11.2
+- **Problemau a agorwyd ac a gaewyd**: 4.1
+- **Proffil oedran**: 7.3
+- **Proffil yn ôl dimensiwn**: 11.4
+- **Prydlondeb cwblhau adolygiad**: 3.4
+- **Prydlondeb cyfathrebu**: 3.4
+- **Pwls diogel i siarad**: 4.2
+- **Rhaniad rhedeg, newid, a gwella**: 7.5
+- **Rowndiau adolygu**: 2.7
+- **Sefydlogrwydd trwybwn**: 2.5
+- **Sefyllfa trwydded effeithiol**: 7.2
+- **Sgôr ansawdd adolygu**: 4.2
+- **Sgôr profiad**: 6.2
+- **Sgôr profiad yn ôl taith**: 5.1
+- **Sgôr pwls offeryn**: 6.4
+- **Signal didwylledd**: 11.3
+- **Stoc dyled**: 4.6
+- **Symudiad canlyniad yn erbyn cymhariaeth**: 9.6, 10.1
+- **Symudiad dangosydd canlyniad**: 6.5
+- **Timau'n defnyddio mesurau'n weithredol**: 11.5
+- **Trwybwn**: 2.1
+- **Tuedd gwiriad iechyd tîm**: 9.1
+- **Tuedd teimlad**: 6.2
+- **Tystiolaeth penderfyniad**: 11.4
+- **Wythnosau oriau estynedig parhaus**: 9.2
+- **Ymddiriedaeth mewn diffiniadau a data**: 11.4
+- **Ymdrech adrodd**: 8.5
+- **Ymdrech archwilio**: 8.3
+- **Ymdrech mesur**: 1.1
+- **Ôl-groniad ac oedran ceisiadau**: 3.5
+- **Ôl-groniad gwasanaeth tu hwnt i'r targed**: 2.6
+
+## Cysyniadau
+
+Cysyniadau yw'r termau y mae'r pynciau wedi'u cysylltu â Wikipedia ar gyfer cefndir. Y rhif cyntaf fel arfer yw'r pwnc sy'n esbonio'r cysyniad yn fwyaf manwl.
+
+- **Accelerate (Accelerate (book)**: 2.8
+- **atebolrwydd (Accountability)**: 8.5
+- **costio ar sail gweithgarwch (Activity-based costing)**: 7.5
+- **datblygu meddalwedd ystwyth (Agile software development)**: 1.1, 1.3, 3.4, 4.2
+- **llaid AI (AI slop)**: 10.4
+- **AIOps**: 10.1
+- **Blinder larwm (Alarm fatigue)**: 5.5, 5.7
+- **Blinder rhybuddion (Alert fatigue)**: 10.4
+- **tuedd algorithmig (Algorithmic bias)**: 10.5
+- **canfod anghysonderau (Anomaly detection)**: 7.6
+- **ryngwyneb rhaglennu cymwysiadau (Application programming interface)**: 11.2
+- **Deallusrwydd artiffisial (Artificial intelligence)**: 10.1
+- **Deddf Deallusrwydd Artiffisial (Artificial Intelligence Act)**: 10.5
+- **olrhain asedau (Asset tracking)**: 7.1
+- **arwyneb ymosod (Attack surface)**: 8.1
+- **llwybr archwilio (Audit trail)**: 4.3, 8.3, 10.5
+- **gwneud penderfyniadau awtomataidd (Automated decision-making)**: 10.3
+- **dosbarthwr galwadau awtomatig (Automatic call distributor)**: 3.1
+- **awtomeiddio (Automation)**: 3.7
+- **duedd awtomeiddio (Automation bias)**: 10.1
+- **awto-raddio (Autoscaling)**: 5.4, 7.6
+- **Argaeledd (Availability)**: 5.2
+- **profi A/B (B testing)**: 6.5
+- **ôl-groniad (Backlog)**: 4.1
+- **cerdyn sgorio cytbwys (Balanced scorecard)**: 1.3, 1.7, 11.1
+- **rheoli sylweddoli buddion (Benefits realisation management)**: 6.5
+- **ddamcaniaeth alarch du (Black swan theory)**: 8.2
+- **defnyddio glas-gwyrdd (Blue-green deployment)**: 4.5
+- **dagfa (Bottleneck (production)**: 2.3, 9.3
+- **gyfraith Brandolini (Brandolini's law)**: 10.4
+- **cyfraith Brooks (Brooks's law)**: 9.3
+- **ffactor bws (Bus factor)**: 3.6, 9.3
+- **achos busnes (Business case)**: 7.7
+- **Cynllunio parhad busnes (Business continuity planning)**: 5.6
+- **ddadansoddiad effaith busnes (Business impact analysis)**: 5.6
+- **ganolfan alwadau (Call centre)**: 3.1
+- **cyfraith Campbell (Campbell's law)**: 1.2, 10.4, 11.3
+- **rhyddhad caneri (Canary release)**: 2.8, 4.4, 4.5, 5.2
+- **Model Aeddfedrwydd Gallu (Capability Maturity Model)**: 11.4
+- **Cynllunio capasiti (Capacity planning)**: 2.5, 5.4
+- **gwariant cyfalaf (Capital expenditure)**: 7.5
+- **ôl troed carbon (Carbon footprint)**: 7.6
+- **cwlt cargo (Cargo cult)**: 9.6
+- **rhaglennu cwlt cargo (Cargo cult programming)**: 9.6
+- **integreiddio a chyflawni parhaus (CI/CD) (CD)**: 1.5, 2.8
+- **cadwyn gadwraeth (Chain of custody)**: 7.1
+- **blinder newid (Change fatigue)**: 9.6
+- **rheoli newid (Change management)**: 9.6, 11.3, 11.5
+- **rheoli newid (Change management (ITSM)**: 4.3
+- **peirianneg anhrefn (Chaos engineering)**: 5.6
+- **Sbwriel siart (Chartjunk)**: 11.1
+- **sgwrsfot (Chatbot)**: 3.7, 10.3
+- **economi gylchol (Circular economy)**: 7.3
+- **ddosbarth gwasanaeth (Class of service)**: 2.9
+- **cyfrifiadura cwmwl (Cloud computing)**: 7.6
+- **gyd-greu (Co-creation)**: 1.3
+- **effaith cobra (Cobra effect)**: 1.2
+- **ailffactorio cod (Code refactoring)**: 4.6
+- **adolygu cod (Code review)**: 2.7, 4.3, 10.2
+- **arogl cod (Code smell)**: 4.6
+- **lwyth gwybyddol (Cognitive load)**: 6.4, 9.1
+- **ddadlwytho gwybyddol (Cognitive offloading)**: 10.2
+- **dadansoddi carfannau (Cohort analysis)**: 6.3
+- **Gwendidau ac Amlygiadau Cyffredin (Common Vulnerabilities and Exposures)**: 8.1
+- **System Sgorio Gwendidau Cyffredin (Common Vulnerability Scoring System)**: 8.1
+- **cymuned ymarfer (Community of practice)**: 9.4
+- **rheoli digwyddiadau diogelwch cyfrifiadurol (Computer security incident management)**: 8.1
+- **ddrifft cysyniad (Concept drift)**: 10.4
+- **côn ansicrwydd (Cone of Uncertainty)**: 2.5
+- **cyfwng hyder (Confidence interval)**: 1.6, 6.1
+- **eitem gyfluniad (Configuration item)**: 7.4
+- **cronfa ddata rheoli cyfluniad (CMDB) (Configuration management database)**: 1.5, 7.4
+- **dryslyd (Confounding)**: 6.5
+- **Gwelliant parhaus (Continual improvement process)**: 1.4, 9.5, 11.4
+- **archwilio parhaus (Continuous auditing)**: 8.3
+- **cyflawni parhaus (Continuous delivery)**: 2.8, 4.4, 4.5
+- **integreiddio parhaus (Continuous integration)**: 2.7
+- **siart rheoli (Control chart)**: 1.6, 2.1, 3.2, 11.1
+- **twmffat trosi (Conversion funnel)**: 6.3
+- **cyfraith Conway (Conway's law)**: 9.3
+- **Amser Cyffredinol Cyd-drefnedig (UTC) (Coordinated Universal Time)**: 1.5
+- **copyleft**: 7.2
+- **Cyfrifyddu costau (Cost accounting)**: 7.5
+- **dyrannu costau (Cost allocation)**: 7.5
+- **gyrrwr cost (Cost driver)**: 7.5
+- **chost oedi (Cost of delay)**: 2.9, 4.6
+- **ffactor llwyddiant critigol (Critical success factor)**: 1.7
+- **timau traws-swyddogaethol (Cross-functional team)**: 9.3
+- **traws-hyfforddi (Cross-training (business)**: 9.4
+- **diagram llif cronnus (Cumulative flow diagram)**: 2.1, 2.3
+- **phrofiad cwsmer (Customer experience)**: 6.2
+- **bodlonrwydd cwsmeriaid (Customer satisfaction)**: 3.1, 6.1
+- **Amser cylch (Cycle time)**: 2.2
+- **batrymau tywyll (Dark pattern)**: 6.3, 10.3
+- **dangosfwrdd (Dashboard (business)**: 11.1
+- **geiriadur data (Data dictionary)**: 1.4
+- **dileu data (Data erasure)**: 7.3
+- **lywodraethu data (Data governance)**: 1.4, 11.2
+- **gyfanrwydd data (Data integrity)**: 7.4
+- **leihau data (Data minimization)**: 6.4
+- **Piblinell ddata (Data pipeline)**: 11.2
+- **ansawdd data (Data quality)**: 7.1, 11.2, 11.5
+- **stiward data (Data steward)**: 1.4
+- **Gweledigaeth data (Data visualization)**: 11.1
+- **warws data (Data warehouse)**: 11.2
+- **dibyniaeth (Dependency (project management)**: 9.3
+- **dibrisiant (Depreciation)**: 7.3
+- **ddadsgilio (Deskilling)**: 10.2
+- **Profiad datblygwyr (Developer experience)**: 9.1
+- **DevOps**: 1.1
+- **DevOps Research and Assessment (DORA) (DevOps Research and Assessment)**: 2.8
+- **DevSecOps**: 8.1
+- **gwahaniaeth mewn gwahaniaethau (Difference in differences)**: 6.5
+- **tryledu arloesiadau (Diffusion of innovations)**: 6.3, 9.6
+- **gweithle digidol (Digital workplace)**: 6.4
+- **dysgu dolen ddwbl (Double-loop learning)**: 9.5
+- **Amser i lawr (Downtime)**: 5.3
+- **cod dyblyg (Duplicate code)**: 10.2
+- **dangosydd economaidd (Economic indicator)**: 1.3
+- **arbedion maint (Economies of scale)**: 7.5
+- **gwastraff electronig (Electronic waste)**: 7.3
+- **ymgysylltu gweithwyr (Employee engagement)**: 9.2
+- **Profiad gweithwyr (Employee experience management)**: 6.4
+- **monitro gweithwyr (Employee monitoring)**: 6.4
+- **datrys endidau (Entity resolution)**: 7.4
+- **strategaeth gadael (Exit strategy)**: 8.4
+- **echdynnu, trawsnewid, llwytho (ETL) (Extract, transform, load)**: 1.5, 11.2
+- **cyfradd methu (Failure rate)**: 7.3
+- **positifau ffug a negatifau ffug (False positives and false negatives)**: 5.5
+- **toglau nodwedd (Feature toggle)**: 2.8, 4.4, 4.5, 5.2
+- **datrys yn yr alwad gyntaf (First call resolution)**: 3.1
+- **pum pam (Five whys)**: 4.1, 4.2
+- **asedau sefydlog (Fixed asset)**: 7.1
+- **cost sefydlog (Fixed cost)**: 7.5
+- **lif (Flow (psychology)**: 6.4, 9.1
+- **Rhagweld (Forecasting)**: 2.5, 5.4
+- **cyfreithiau rhyddid gwybodaeth (Freedom of information laws by country)**: 8.5
+- **Rheoliad Diogelu Data Cyffredinol (General Data Protection Regulation)**: 8.3
+- **AI cynhyrchiol (Generative artificial intelligence)**: 10.1
+- **cyfraith Goodhart (Goodhart's law)**: 1.1, 1.2, 2.5, 2.7, 2.8, 3.4, 3.5, 4.3, 4.4, 4.5, 6.1, 6.2, 6.3, 6.4, 6.5, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 8.1, 8.2, 8.3, 8.4, 8.5, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 10.1, 10.2, 10.3, 10.4, 10.5, 11.1, 11.3
+- **cronfa ddata graff (Graph database)**: 7.4
+- **rhithweledigaeth (Hallucination (artificial intelligence)**: 10.1
+- **effaith Hawthorne (Hawthorne effect)**: 9.6, 11.3
+- **Desg gymorth (Help desk)**: 3.1
+- **ddesg gwasanaeth (Help desk software)**: 3.2
+- **argaeledd uchel (High availability)**: 5.3
+- **rhagfarn edrych yn ôl (Hindsight bias)**: 4.2
+- **clwt brys (Hotfix)**: 4.4
+- **dylunio sy'n canolbwyntio ar bobl (Human-centered design)**: 6.2
+- **dynol-yn-y-ddolen (Human-in-the-loop)**: 10.1
+- **ISO/IEC 27001 (IEC 27001)**: 8.3
+- **comander digwyddiad (Incident commander)**: 3.4
+- **Rheoli digwyddiadau (Incident management)**: 3.2, 3.3, 5.7
+- **rheoli digwyddiadau (Incident management (ITSM)**: 3.4
+- **Gorlwyth gwybodaeth (Information overload)**: 10.4
+- **pelydrydd gwybodaeth (Information radiator)**: 11.3, 11.5
+- **archwilio technoleg gwybodaeth (Information technology audit)**: 8.3
+- **rheoli gwasanaethau TG (Information technology service management)**: 1.1, 1.5
+- **seilwaith fel cod (Infrastructure as code)**: 3.7, 4.3, 5.6, 7.4
+- **asiant deallus (Intelligent agent)**: 10.3
+- **archwilio mewnol (Internal audit)**: 8.3
+- **rheolaeth fewnol (Internal control)**: 8.2
+- **cymhelliant cynhenid (Intrinsic motivation)**: 9.2
+- **rheoli rhestr eiddo (Inventory management)**: 7.1
+- **diagram Ishikawa (Ishikawa diagram)**: 4.1
+- **ISO 22301**: 5.6
+- **system olrhain materion (Issue tracking system)**: 1.5, 2.6
+- **Rheoli asedau TG (IT asset management)**: 7.1
+- **rheoli gwasanaethau TG (ITSM) (IT service management)**: 3.1, 11.2
+- **ITIL**: 1.1, 1.2, 1.3, 1.5, 1.7, 2.4, 2.6, 2.8, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.2, 4.3, 4.4, 4.6, 5.1, 5.3
+- **paradocs Jevons (Jevons paradox)**: 10.4
+- **boddhad swydd (Job satisfaction)**: 9.2
+- **ddiwylliant teg (Just culture)**: 4.2
+- **k-anhysbysrwydd (K-anonymity)**: 6.4
+- **Kaizen**: 9.5, 11.4, 11.5
+- **dangosydd perfformiad allweddol (Key performance indicator)**: 1.2, 1.7, 11.1
+- **dangosydd risg allweddol (Key risk indicator)**: 8.2
+- **fformiwla Kingman (Kingman's formula)**: 2.3
+- **cronfa wybodaeth (Knowledge base)**: 3.6
+- **Rheoli gwybodaeth (Knowledge management)**: 3.6
+- **Gwasanaeth Wedi'i Ganoli ar Wybodaeth (KCS) (Knowledge-centered support)**: 3.6
+- **cronfa ddata gwallau hysbys (Known error database)**: 4.1
+- **dangosydd llusgol (Lagging indicator)**: 6.5
+- **fodelau iaith mawr (Large language model)**: 10.1
+- **Latency (Latency (engineering)**: 5.4
+- **Amser arweiniol (Lead time)**: 2.2, 2.4
+- **dangosydd arweiniol (Leading indicator)**: 6.5
+- **gweithgynhyrchu main (Lean manufacturing)**: 2.4, 9.5
+- **datblygu meddalwedd main (Lean software development)**: 2.1, 2.2, 2.3
+- **sefydliad dysgu (Learning organization)**: 9.4
+- **graddfa Likert (Likert scale)**: 6.1
+- **llinellau cod (Lines of code)**: 10.2
+- **cyfraith Little (Little's law)**: 2.1, 2.2, 2.3, 2.4, 2.6, 2.9, 5.4
+- **phrofi llwyth (Load testing)**: 5.4
+- **dosbarthiad log-normal (Log-normal distribution)**: 1.6, 3.3
+- **fodel rhesymeg (Logic model)**: 6.5
+- **dysgu peirianyddol (Machine learning)**: 10.1
+- **ymyl gwall (Margin of error)**: 6.1
+- **Amser cymedrig rhwng methiannau (Mean time between failures)**: 5.3, 7.3
+- **erthygl Wikipedia ar amser cymedrig i atgyweirio (Mean time to repair)**: 3.3, 5.3
+- **canolrif (Median)**: 1.6, 3.3
+- **mentora (Mentorship)**: 9.4
+- **gynnyrch hyfyw lleiaf (Minimum viable product)**: 11.5
+- **rheoli dyfeisiau symudol (Mobile device management)**: 7.3
+- **cwymp model (Model collapse)**: 10.4
+- **dull Monte Carlo (Monte Carlo method)**: 2.5
+- **aml-ffynonellu (Multisourcing)**: 8.4
+- **gwerth presennol net (Net present value)**: 7.7
+- **sgôr hyrwyddwr net (Net promoter score)**: 6.1
+- **amcanion a chanlyniadau allweddol (Objectives and key results)**: 1.3, 6.5
+- **arsylwadwyedd (Observability (software)**: 1.5, 11.2
+- **Gorflinder galwedigaethol (Occupational burnout)**: 5.7, 9.2
+- **amcanion a chanlyniadau allweddol (OKR)**: 1.7
+- **ar alwad (On-call)**: 5.5, 5.7
+- **data agored (Open data)**: 8.5
+- **llywodraeth agored (Open government)**: 8.5
+- **meddalwedd ffynhonnell agored (Open-source software)**: 7.2
+- **Cytundeb lefel gweithredol (OLA) (Operational-level agreement)**: 5.1
+- **Cost cyfle (Opportunity cost)**: 4.6, 7.7
+- **Tuedd optimistiaeth (Optimism bias)**: 7.7
+- **newid sefydliadol (Organizational change)**: 9.6
+- **diwylliant sefydliadol (Organizational culture)**: 9.6
+- **allanoli (Outsourcing)**: 8.4
+- **rhaglennu pâr (Pair programming)**: 2.7, 9.4
+- **siart Pareto (Pareto chart)**: 4.1, 5.7
+- **egwyddor Pareto (Pareto principle)**: 3.2, 6.3
+- **talu wrth fynd (Pay as you go)**: 7.6
+- **cyfnod ad-dalu (Payback period)**: 7.7
+- **Cynllunio-Gwneud-Gwirio-Gweithredu (PDCA)**: 9.5
+- **canradd (Percentile)**: 1.6, 2.1, 2.2, 2.6, 3.1, 3.3, 3.4, 3.5, 5.1, 5.2, 5.4
+- **archwiliadau perfformiad (Performance audit)**: 8.5
+- **contractio ar sail perfformiad (Performance-based contracting)**: 8.4
+- **gymhelliad gwrthnysig (Perverse incentive)**: 1.2
+- **prosiect peilot (Pilot project)**: 9.6, 11.3, 11.5
+- **gwall cynllunio (Planning fallacy)**: 2.5
+- **ôl-farwolaeth (Postmortem documentation)**: 3.4, 4.2
+- **manylder ac adalw (Precision and recall)**: 5.5
+- **egwyddor o'r braint lleiaf (Principle of least privilege)**: 1.4
+- **awtomeiddio prosesau (Process automation)**: 3.5
+- **ôl-groniad cynnyrch (Product backlog)**: 2.6, 6.3
+- **cylch bywyd cynnyrch (Product lifecycle)**: 7.1
+- **cynhyrchiant (Productivity)**: 9.1
+- **ardystiad proffesiynol (Professional certification)**: 9.4
+- **chwistrellu anogwr (Prompt injection)**: 10.5
+- **ffug-enwi (Pseudonymization)**: 6.4
+- **Diogelwch seicolegol (Psychological safety)**: 1.2, 4.2, 9.1, 9.2, 11.3
+- **caffael cyhoeddus (Public procurement)**: 8.5
+- **sector cyhoeddus (Public sector)**: 8.5
+- **cais tynnu (Pull request)**: 2.7, 10.2
+- **ddamcaniaeth ciwio (Queueing theory)**: 2.1, 2.3, 3.1, 5.4
+- **matrics RACI (RACI matrix)**: 1.4
+- **monitro defnyddwyr go iawn (Real user monitoring)**: 5.3, 6.2
+- **gysoni (Reconciliation (accounting)**: 7.1
+- **rheoli cofnodion (Records management)**: 8.5
+- **amcan pwynt adfer (Recovery point objective)**: 5.6
+- **amcan amser adfer (Recovery time objective)**: 5.6
+- **rhagolygu dosbarth cyfeirio (Reference class forecasting)**: 7.7
+- **profi atchweliad (Regression testing)**: 4.4, 10.2
+- **atchweliad tuag at y cymedr (Regression toward the mean)**: 1.6
+- **rheoleiddio deallusrwydd artiffisial (Regulation of artificial intelligence)**: 10.5
+- **Cydymffurfiaeth reoleiddiol (Regulatory compliance)**: 8.3
+- **rheoli rhyddhau (Release management)**: 4.5
+- **gwrthwynebiad i newid (Resistance to change)**: 9.6
+- **rhagfarn ymateb (Response bias)**: 6.1
+- **AI cyfrifol (Responsible AI)**: 10.5
+- **elw ar fuddsoddiad (Return on investment)**: 1.1, 7.7
+- **Ailwaith (Rework)**: 4.4
+- **Rheoli risg (Risk management)**: 8.2
+- **matrics risg (Risk matrix)**: 8.2
+- **cofrestr risg (Risk register)**: 8.2
+- **ddychwelyd (Rollback (data management)**: 2.8, 4.4
+- **gynnyrch trwybwn treigl (Rolled throughput yield)**: 2.4
+- **dadansoddi gwraidd achos (Root cause analysis)**: 3.2, 3.4, 4.1, 4.2, 4.6, 9.5
+- **siart rhedeg (Run chart)**: 2.1, 11.1, 11.5
+- **llawlyfr gweithredu (Runbook)**: 3.6, 3.7
+- **Deddf Sarbanes–Oxley (Sarbanes–Oxley Act)**: 8.3
+- **tymhorolrwydd (Seasonality)**: 3.2, 5.4
+- **gwahanu dyletswyddau (Segregation of duties)**: 8.3
+- **duedd dethol (Selection bias)**: 1.5
+- **damcaniaeth hunanbenderfyniad (Self-determination theory)**: 9.2
+- **hunanwasanaeth (Self-service)**: 10.3
+- **hunanwasanaeth (Self-service software)**: 3.7
+- **dadansoddiad sensitifrwydd (Sensitivity analysis)**: 7.7
+- **dadansoddi teimlad (Sentiment analysis)**: 6.2
+- **gwahanu dyletswyddau (Separation of duties)**: 4.3
+- **cyfrifiadura di-weinydd (Serverless computing)**: 7.6
+- **catalog gwasanaethau (Service catalog)**: 3.5, 6.3
+- **ddesg gwasanaeth (Service desk)**: 3.6
+- **darganfod gwasanaethau (Service discovery)**: 7.4
+- **integreiddio a rheoli gwasanaethau (Service integration and management)**: 8.4
+- **dangosydd lefel gwasanaeth (SLI) (Service level indicator)**: 5.1, 5.2
+- **amcan lefel gwasanaeth (SLO) (Service level objective)**: 5.1
+- **resymeg sy'n dominyddu gan wasanaeth (Service-dominant logic)**: 1.3
+- **gytundeb lefel gwasanaeth (Service-level agreement)**: 2.1, 2.9, 3.1, 3.3, 3.5, 5.1, 5.2, 5.3, 6.2, 8.4
+- **Amcan lefel gwasanaeth (SLO) (Service-level objective)**: 5.2, 5.3, 5.5
+- **TG gysgodol (Shadow IT)**: 6.4, 7.2, 10.5
+- **gymhareb signal-i-sŵn (Signal-to-noise ratio)**: 5.5, 10.4
+- **Ffynhonnell unigol o wirionedd (Single source of truth)**: 1.4
+- **peirianneg dibynadwyedd safleoedd (Site reliability engineering)**: 1.1, 3.3, 3.4, 4.2, 5.1, 5.2, 5.4, 5.5, 5.6, 5.7
+- **gam (Skewness)**: 1.6
+- **amddifadedd cwsg (Sleep deprivation)**: 5.7
+- **SOC 2**: 8.3
+- **duedd dymunoldeb cymdeithasol (Social desirability bias)**: 9.2
+- **meddalwedd fel gwasanaeth (Software as a service)**: 7.2
+- **Rheoli asedau meddalwedd (Software asset management)**: 7.2
+- **archwiliad meddalwedd (Software audit)**: 7.2
+- **bil deunyddiau meddalwedd (Software bill of materials)**: 7.2
+- **nam meddalwedd (Software bug)**: 4.6
+- **dadansoddi cyfansoddiad meddalwedd (Software composition analysis)**: 7.2
+- **ddefnyddio meddalwedd (Software deployment)**: 4.5
+- **drwydded meddalwedd (Software license)**: 7.2
+- **gadwyn gyflenwi meddalwedd (Software supply chain)**: 8.1
+- **profi meddalwedd (Software testing)**: 10.2
+- **llinell-wreichion (Sparkline)**: 11.1
+- **dadansoddi rhaglenni statig (Static program analysis)**: 2.7, 4.6
+- **rheoli prosesau ystadegol (Statistical process control)**: 1.6
+- **pwyntiau stori (Story point)**: 2.5
+- **map strategaeth (Strategy map)**: 1.7
+- **cost suddedig (Sunk cost)**: 7.7
+- **ymosodiad cadwyn gyflenwi (Supply chain attack)**: 8.4
+- **Dirprwyo (surrogation) (Surrogation)**: 1.2
+- **fethodoleg arolygon (Survey methodology)**: 6.1
+- **rhagfarn goroesi (Survivorship bias)**: 6.5
+- **monitro synthetig (Synthetic monitoring)**: 5.3
+- **monitro systemau (System monitoring)**: 5.5
+- **sgiliau siâp T (T-shaped skills)**: 9.4
+- **gwybodaeth ymhlyg (Tacit knowledge)**: 3.6, 9.4
+- **latency cynffon (Tail latency)**: 5.4
+- **newid tasgau (Task switching (psychology)**: 2.9
+- **dyled dechnegol (Technical debt)**: 2.9, 4.1, 4.6, 10.2
+- **cylch bywyd mabwysiadu technoleg (Technology adoption life cycle)**: 11.3
+- **damcaniaeth newid (Theory of change)**: 6.5
+- **ddamcaniaeth cyfyngiadau (Theory of constraints)**: 2.3, 2.4, 9.5
+- **Trwybwn (Throughput)**: 5.4
+- **gwerth amser arian (Time value of money)**: 7.7
+- **cyfanswm cost perchnogaeth (Total cost of ownership)**: 7.3, 7.7, 11.2
+- **prysbennu (Triage)**: 2.9
+- **ddatblygu ar sail cefnffordd (Trunk-based development)**: 2.7
+- **Ymddiriedaeth (Trust (social science)**: 11.3
+- **cost uned (Unit cost)**: 7.5
+- **defnyddioldeb (Usability)**: 6.2
+- **Profiad defnyddiwr (User experience)**: 6.2
+- **stori defnyddiwr (User story)**: 2.6
+- **gwerth am arian (Value for money)**: 8.5
+- **Ffrwd werth (Value stream)**: 2.4
+- **Mapio ffrwd werth (Value-stream mapping)**: 2.4
+- **metrig gwagedd (Vanity metric)**: 1.3, 1.7, 10.4, 11.1, 11.4
+- **cost newidiol (Variable cost)**: 7.5
+- **ddadansoddi amrywiant (Variance analysis)**: 7.6
+- **buanedd (velocity) (Velocity (software development)**: 1.2, 2.5
+- **cloi i mewn gwerthwr (Vendor lock-in)**: 7.2, 8.4, 11.2
+- **Rheoli gwerthwyr (Vendor management)**: 8.4
+- **rheoli fersiynau (Version control)**: 1.5, 2.7
+- **Victor Basili**: 1.7
+- **cynorthwyydd rhithwir (Virtual assistant)**: 10.3
+- **ddisgownt cyfaint (Volume discount)**: 7.6
+- **gwendid (Vulnerability (computing)**: 8.1
+- **Ward Cunningham**: 4.6
+- **gwarant (Warranty)**: 7.3
+- **hygyrchedd gwe (Web accessibility)**: 6.4
+- **dadansoddeg gwe (Web analytics)**: 6.3
+- **gwaith ar y gweill (Work in process)**: 2.3
+- **datrysiad dros dro (Workaround)**: 4.1

@@ -7,6 +7,8 @@
     "en-gb",
     "en-gb-oxendict",
     "en-us",
+    "hi-001",
+    "hi-in",
     "zh-001",
     "zh-cn"
   ],
@@ -26,6 +28,8 @@
             "en-gb": "locales/en-gb/topics/foundations-of-measurement/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/foundations-of-measurement/index.md",
             "en-us": "locales/en-us/topics/foundations-of-measurement/index.md",
+            "hi-001": "locales/hi-001/विषय/मापन-की-बुनियाद/index.md",
+            "hi-in": "locales/hi-in/विषय/मापन-की-बुनियाद/index.md",
             "zh-001": "locales/zh-001/主题/衡量基础/index.md",
             "zh-cn": "locales/zh-cn/主题/衡量基础/index.md"
           }
@@ -40,6 +44,8 @@
             "en-gb": "locales/en-gb/topics/why-measure-agile-itil/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/why-measure-agile-itil/index.md",
             "en-us": "locales/en-us/topics/why-measure-agile-itil/index.md",
+            "hi-001": "locales/hi-001/विषय/एजाइल-ITIL-को-क्यों-मापें/index.md",
+            "hi-in": "locales/hi-in/विषय/एजाइल-ITIL-को-क्यों-मापें/index.md",
             "zh-001": "locales/zh-001/主题/为何衡量敏捷-ITIL/index.md",
             "zh-cn": "locales/zh-cn/主题/为何衡量敏捷-ITIL/index.md"
           }
@@ -54,6 +60,8 @@
             "en-gb": "locales/en-gb/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
             "en-us": "locales/en-us/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/गुडहार्ट-का-नियम-और-मेट्रिक्स-का-मनोविज्ञान/index.md",
+            "hi-in": "locales/hi-in/विषय/गुडहार्ट-का-नियम-और-मेट्रिक्स-का-मनोविज्ञान/index.md",
             "zh-001": "locales/zh-001/主题/古德哈特定律与指标心理学/index.md",
             "zh-cn": "locales/zh-cn/主题/古德哈特定律与指标心理学/index.md"
           }
@@ -68,6 +76,8 @@
             "en-gb": "locales/en-gb/topics/outcomes-over-output/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/outcomes-over-output/index.md",
             "en-us": "locales/en-us/topics/outcomes-over-output/index.md",
+            "hi-001": "locales/hi-001/विषय/आउटपुट-से-ऊपर-परिणाम-क्या-मापें-यह-चुनना/index.md",
+            "hi-in": "locales/hi-in/विषय/आउटपुट-से-ऊपर-परिणाम-क्या-मापें-यह-चुनना/index.md",
             "zh-001": "locales/zh-001/主题/结果优先于产出/index.md",
             "zh-cn": "locales/zh-cn/主题/结果优先于产出/index.md"
           }
@@ -82,6 +92,8 @@
             "en-gb": "locales/en-gb/topics/metrics-governance-and-ownership/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metrics-governance-and-ownership/index.md",
             "en-us": "locales/en-us/topics/metrics-governance-and-ownership/index.md",
+            "hi-001": "locales/hi-001/विषय/मेट्रिक्स-शासन-और-स्वामित्व/index.md",
+            "hi-in": "locales/hi-in/विषय/मेट्रिक्स-शासन-और-स्वामित्व/index.md",
             "zh-001": "locales/zh-001/主题/指标治理与归属/index.md",
             "zh-cn": "locales/zh-cn/主题/指标治理与归属/index.md"
           }
@@ -96,6 +108,8 @@
             "en-gb": "locales/en-gb/topics/data-sources-and-instrumentation/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/data-sources-and-instrumentation/index.md",
             "en-us": "locales/en-us/topics/data-sources-and-instrumentation/index.md",
+            "hi-001": "locales/hi-001/विषय/डेटा-स्रोत-और-इंस्ट्रूमेंटेशन/index.md",
+            "hi-in": "locales/hi-in/विषय/डेटा-स्रोत-और-इंस्ट्रूमेंटेशन/index.md",
             "zh-001": "locales/zh-001/主题/数据来源与埋点/index.md",
             "zh-cn": "locales/zh-cn/主题/数据来源与埋点/index.md"
           }
@@ -110,6 +124,8 @@
             "en-gb": "locales/en-gb/topics/statistical-literacy-for-service-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/statistical-literacy-for-service-metrics/index.md",
             "en-us": "locales/en-us/topics/statistical-literacy-for-service-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-मेट्रिक्स-के-लिए-सांख्यिकीय-साक्षरता/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-मेट्रिक्स-के-लिए-सांख्यिकीय-साक्षरता/index.md",
             "zh-001": "locales/zh-001/主题/服务指标的统计素养/index.md",
             "zh-cn": "locales/zh-cn/主题/服务指标的统计素养/index.md"
           }
@@ -124,6 +140,8 @@
             "en-gb": "locales/en-gb/topics/measurement-frameworks/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/measurement-frameworks/index.md",
             "en-us": "locales/en-us/topics/measurement-frameworks/index.md",
+            "hi-001": "locales/hi-001/विषय/मापन-फ़्रेमवर्क/index.md",
+            "hi-in": "locales/hi-in/विषय/मापन-फ़्रेमवर्क/index.md",
             "zh-001": "locales/zh-001/主题/度量框架/index.md",
             "zh-cn": "locales/zh-cn/主题/度量框架/index.md"
           }
@@ -143,6 +161,8 @@
             "en-gb": "locales/en-gb/topics/flow-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/flow-metrics/index.md",
             "en-us": "locales/en-us/topics/flow-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/प्रवाह-और-सतत-डिलीवरी-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/प्रवाह-और-सतत-डिलीवरी-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/流动指标/index.md",
             "zh-cn": "locales/zh-cn/主题/流动指标/index.md"
           }
@@ -157,6 +177,8 @@
             "en-gb": "locales/en-gb/topics/flow-measures/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/flow-measures/index.md",
             "en-us": "locales/en-us/topics/flow-measures/index.md",
+            "hi-001": "locales/hi-001/विषय/प्रवाह-माप/index.md",
+            "hi-in": "locales/hi-in/विषय/प्रवाह-माप/index.md",
             "zh-001": "locales/zh-001/主题/流动度量/index.md",
             "zh-cn": "locales/zh-cn/主题/流动度量/index.md"
           }
@@ -171,6 +193,8 @@
             "en-gb": "locales/en-gb/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
             "en-us": "locales/en-us/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
+            "hi-001": "locales/hi-001/विषय/लीड-टाइम-साइकल-टाइम-और-प्रवाह-दक्षता/index.md",
+            "hi-in": "locales/hi-in/विषय/लीड-टाइम-साइकल-टाइम-और-प्रवाह-दक्षता/index.md",
             "zh-001": "locales/zh-001/主题/前置时间-周期时间与流动效率/index.md",
             "zh-cn": "locales/zh-cn/主题/前置时间-周期时间与流动效率/index.md"
           }
@@ -185,6 +209,8 @@
             "en-gb": "locales/en-gb/topics/work-in-process-and-queueing/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/work-in-process-and-queueing/index.md",
             "en-us": "locales/en-us/topics/work-in-process-and-queueing/index.md",
+            "hi-001": "locales/hi-001/विषय/प्रगति-में-कार्य-और-कतारें/index.md",
+            "hi-in": "locales/hi-in/विषय/प्रगति-में-कार्य-और-कतारें/index.md",
             "zh-001": "locales/zh-001/主题/在制品与排队/index.md",
             "zh-cn": "locales/zh-cn/主题/在制品与排队/index.md"
           }
@@ -199,6 +225,8 @@
             "en-gb": "locales/en-gb/topics/value-stream-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/value-stream-metrics/index.md",
             "en-us": "locales/en-us/topics/value-stream-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/मूल्य-धारा-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/मूल्य-धारा-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/价值流指标/index.md",
             "zh-cn": "locales/zh-cn/主题/价值流指标/index.md"
           }
@@ -213,6 +241,8 @@
             "en-gb": "locales/en-gb/topics/delivery-forecasting-and-planning-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/delivery-forecasting-and-planning-metrics/index.md",
             "en-us": "locales/en-us/topics/delivery-forecasting-and-planning-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/डिलीवरी-पूर्वानुमान-और-योजना-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/डिलीवरी-पूर्वानुमान-और-योजना-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/交付预测与规划指标/index.md",
             "zh-cn": "locales/zh-cn/主题/交付预测与规划指标/index.md"
           }
@@ -227,6 +257,8 @@
             "en-gb": "locales/en-gb/topics/backlog-and-refinement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/backlog-and-refinement-metrics/index.md",
             "en-us": "locales/en-us/topics/backlog-and-refinement-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/बैकलॉग-और-परिष्करण-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/बैकलॉग-और-परिष्करण-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/待办事项与细化指标/index.md",
             "zh-cn": "locales/zh-cn/主题/待办事项与细化指标/index.md"
           }
@@ -241,6 +273,8 @@
             "en-gb": "locales/en-gb/topics/pull-request-and-code-review-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/pull-request-and-code-review-metrics/index.md",
             "en-us": "locales/en-us/topics/pull-request-and-code-review-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/पुल-रिक्वेस्ट-और-कोड-रिव्यू-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/पुल-रिक्वेस्ट-और-कोड-रिव्यू-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/拉取请求与代码评审指标/index.md",
             "zh-cn": "locales/zh-cn/主题/拉取请求与代码评审指标/index.md"
           }
@@ -255,6 +289,8 @@
             "en-gb": "locales/en-gb/topics/dora-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/dora-metrics/index.md",
             "en-us": "locales/en-us/topics/dora-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/DORA-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/DORA-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/DORA-指标/index.md",
             "zh-cn": "locales/zh-cn/主题/DORA-指标/index.md"
           }
@@ -269,6 +305,8 @@
             "en-gb": "locales/en-gb/topics/operational-work-and-unplanned-work/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/operational-work-and-unplanned-work/index.md",
             "en-us": "locales/en-us/topics/operational-work-and-unplanned-work/index.md",
+            "hi-001": "locales/hi-001/विषय/परिचालन-कार्य-और-अनियोजित-कार्य/index.md",
+            "hi-in": "locales/hi-in/विषय/परिचालन-कार्य-और-अनियोजित-कार्य/index.md",
             "zh-001": "locales/zh-001/主题/运维工作与计划外工作/index.md",
             "zh-cn": "locales/zh-cn/主题/运维工作与计划外工作/index.md"
           }
@@ -288,6 +326,8 @@
             "en-gb": "locales/en-gb/topics/service-desk-incident-and-request-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-desk-incident-and-request-metrics/index.md",
             "en-us": "locales/en-us/topics/service-desk-incident-and-request-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-डेस्क-घटना-और-अनुरोध-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-डेस्क-घटना-और-अनुरोध-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/服务台-事件与请求指标/index.md",
             "zh-cn": "locales/zh-cn/主题/服务台-事件与请求指标/index.md"
           }
@@ -302,6 +342,8 @@
             "en-gb": "locales/en-gb/topics/service-desk-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-desk-metrics/index.md",
             "en-us": "locales/en-us/topics/service-desk-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-डेस्क-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-डेस्क-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/服务台指标/index.md",
             "zh-cn": "locales/zh-cn/主题/服务台指标/index.md"
           }
@@ -316,6 +358,8 @@
             "en-gb": "locales/en-gb/topics/incident-volume-and-priority/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/incident-volume-and-priority/index.md",
             "en-us": "locales/en-us/topics/incident-volume-and-priority/index.md",
+            "hi-001": "locales/hi-001/विषय/घटना-की-संख्या-और-प्राथमिकता/index.md",
+            "hi-in": "locales/hi-in/विषय/घटना-की-संख्या-और-प्राथमिकता/index.md",
             "zh-001": "locales/zh-001/主题/事件数量与优先级/index.md",
             "zh-cn": "locales/zh-cn/主题/事件数量与优先级/index.md"
           }
@@ -330,6 +374,8 @@
             "en-gb": "locales/en-gb/topics/incident-response-and-resolution-time/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/incident-response-and-resolution-time/index.md",
             "en-us": "locales/en-us/topics/incident-response-and-resolution-time/index.md",
+            "hi-001": "locales/hi-001/विषय/घटना-प्रतिक्रिया-और-समाधान-समय/index.md",
+            "hi-in": "locales/hi-in/विषय/घटना-प्रतिक्रिया-और-समाधान-समय/index.md",
             "zh-001": "locales/zh-001/主题/事件响应与解决时间/index.md",
             "zh-cn": "locales/zh-cn/主题/事件响应与解决时间/index.md"
           }
@@ -344,6 +390,8 @@
             "en-gb": "locales/en-gb/topics/major-incident-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/major-incident-metrics/index.md",
             "en-us": "locales/en-us/topics/major-incident-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/बड़ी-घटना-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/बड़ी-घटना-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/重大事件指标/index.md",
             "zh-cn": "locales/zh-cn/主题/重大事件指标/index.md"
           }
@@ -358,6 +406,8 @@
             "en-gb": "locales/en-gb/topics/service-request-fulfilment-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-request-fulfilment-metrics/index.md",
             "en-us": "locales/en-us/topics/service-request-fulfilment-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-अनुरोध-पूर्ति-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-अनुरोध-पूर्ति-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/服务请求履行指标/index.md",
             "zh-cn": "locales/zh-cn/主题/服务请求履行指标/index.md"
           }
@@ -372,6 +422,8 @@
             "en-gb": "locales/en-gb/topics/knowledge-management-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/knowledge-management-metrics/index.md",
             "en-us": "locales/en-us/topics/knowledge-management-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/ज्ञान-प्रबंधन-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/ज्ञान-प्रबंधन-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/知识管理指标/index.md",
             "zh-cn": "locales/zh-cn/主题/知识管理指标/index.md"
           }
@@ -386,6 +438,8 @@
             "en-gb": "locales/en-gb/topics/self-service-and-automation-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/self-service-and-automation-metrics/index.md",
             "en-us": "locales/en-us/topics/self-service-and-automation-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/स्व-सेवा-और-स्वचालन-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/स्व-सेवा-और-स्वचालन-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/自助服务与自动化指标/index.md",
             "zh-cn": "locales/zh-cn/主题/自助服务与自动化指标/index.md"
           }
@@ -405,6 +459,8 @@
             "en-gb": "locales/en-gb/topics/problem-change-and-release-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/problem-change-and-release-metrics/index.md",
             "en-us": "locales/en-us/topics/problem-change-and-release-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/समस्या-परिवर्तन-और-रिलीज़-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/समस्या-परिवर्तन-और-रिलीज़-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/问题-变更与发布指标/index.md",
             "zh-cn": "locales/zh-cn/主题/问题-变更与发布指标/index.md"
           }
@@ -419,6 +475,8 @@
             "en-gb": "locales/en-gb/topics/problem-management-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/problem-management-metrics/index.md",
             "en-us": "locales/en-us/topics/problem-management-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/समस्या-प्रबंधन-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/समस्या-प्रबंधन-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/问题管理指标/index.md",
             "zh-cn": "locales/zh-cn/主题/问题管理指标/index.md"
           }
@@ -433,6 +491,8 @@
             "en-gb": "locales/en-gb/topics/postmortem-and-learning-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/postmortem-and-learning-metrics/index.md",
             "en-us": "locales/en-us/topics/postmortem-and-learning-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/पोस्टमॉर्टम-और-सीखने-के-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/पोस्टमॉर्टम-और-सीखने-के-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/事后复盘与学习指标/index.md",
             "zh-cn": "locales/zh-cn/主题/事后复盘与学习指标/index.md"
           }
@@ -447,6 +507,8 @@
             "en-gb": "locales/en-gb/topics/change-enablement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/change-enablement-metrics/index.md",
             "en-us": "locales/en-us/topics/change-enablement-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/परिवर्तन-सक्षमीकरण-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/परिवर्तन-सक्षमीकरण-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/变更赋能指标/index.md",
             "zh-cn": "locales/zh-cn/主题/变更赋能指标/index.md"
           }
@@ -461,6 +523,8 @@
             "en-gb": "locales/en-gb/topics/change-failure-and-rework/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/change-failure-and-rework/index.md",
             "en-us": "locales/en-us/topics/change-failure-and-rework/index.md",
+            "hi-001": "locales/hi-001/विषय/परिवर्तन-विफलता-और-पुनर्कार्य/index.md",
+            "hi-in": "locales/hi-in/विषय/परिवर्तन-विफलता-और-पुनर्कार्य/index.md",
             "zh-001": "locales/zh-001/主题/变更失败与返工/index.md",
             "zh-cn": "locales/zh-cn/主题/变更失败与返工/index.md"
           }
@@ -475,6 +539,8 @@
             "en-gb": "locales/en-gb/topics/release-and-deployment-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/release-and-deployment-metrics/index.md",
             "en-us": "locales/en-us/topics/release-and-deployment-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/रिलीज़-और-तैनाती-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/रिलीज़-और-तैनाती-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/发布与部署指标/index.md",
             "zh-cn": "locales/zh-cn/主题/发布与部署指标/index.md"
           }
@@ -489,6 +555,8 @@
             "en-gb": "locales/en-gb/topics/technical-debt-and-known-errors/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/technical-debt-and-known-errors/index.md",
             "en-us": "locales/en-us/topics/technical-debt-and-known-errors/index.md",
+            "hi-001": "locales/hi-001/विषय/तकनीकी-ऋण-और-ज्ञात-त्रुटियाँ/index.md",
+            "hi-in": "locales/hi-in/विषय/तकनीकी-ऋण-और-ज्ञात-त्रुटियाँ/index.md",
             "zh-001": "locales/zh-001/主题/技术债务与已知错误/index.md",
             "zh-cn": "locales/zh-cn/主题/技术债务与已知错误/index.md"
           }
@@ -508,6 +576,8 @@
             "en-gb": "locales/en-gb/topics/service-level-availability-and-reliability-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-level-availability-and-reliability-metrics/index.md",
             "en-us": "locales/en-us/topics/service-level-availability-and-reliability-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-स्तर-उपलब्धता-और-विश्वसनीयता-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-स्तर-उपलब्धता-और-विश्वसनीयता-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/服务级别-可用性与可靠性指标/index.md",
             "zh-cn": "locales/zh-cn/主题/服务级别-可用性与可靠性指标/index.md"
           }
@@ -522,6 +592,8 @@
             "en-gb": "locales/en-gb/topics/sla-ola-and-xla-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/sla-ola-and-xla-metrics/index.md",
             "en-us": "locales/en-us/topics/sla-ola-and-xla-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/SLA-OLA-और-XLA-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/SLA-OLA-और-XLA-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/SLA-OLA-与-XLA-指标/index.md",
             "zh-cn": "locales/zh-cn/主题/SLA-OLA-与-XLA-指标/index.md"
           }
@@ -536,6 +608,8 @@
             "en-gb": "locales/en-gb/topics/slis-slos-and-error-budgets/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/slis-slos-and-error-budgets/index.md",
             "en-us": "locales/en-us/topics/slis-slos-and-error-budgets/index.md",
+            "hi-001": "locales/hi-001/विषय/SLI-SLO-और-त्रुटि-बजट/index.md",
+            "hi-in": "locales/hi-in/विषय/SLI-SLO-और-त्रुटि-बजट/index.md",
             "zh-001": "locales/zh-001/主题/SLI-SLO-与错误预算/index.md",
             "zh-cn": "locales/zh-cn/主题/SLI-SLO-与错误预算/index.md"
           }
@@ -550,6 +624,8 @@
             "en-gb": "locales/en-gb/topics/availability-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/availability-metrics/index.md",
             "en-us": "locales/en-us/topics/availability-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/उपलब्धता-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/उपलब्धता-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/可用性指标/index.md",
             "zh-cn": "locales/zh-cn/主题/可用性指标/index.md"
           }
@@ -564,6 +640,8 @@
             "en-gb": "locales/en-gb/topics/capacity-and-performance-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/capacity-and-performance-metrics/index.md",
             "en-us": "locales/en-us/topics/capacity-and-performance-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/क्षमता-और-प्रदर्शन-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/क्षमता-और-प्रदर्शन-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/容量与性能指标/index.md",
             "zh-cn": "locales/zh-cn/主题/容量与性能指标/index.md"
           }
@@ -578,6 +656,8 @@
             "en-gb": "locales/en-gb/topics/monitoring-and-alert-quality-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/monitoring-and-alert-quality-metrics/index.md",
             "en-us": "locales/en-us/topics/monitoring-and-alert-quality-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/निगरानी-और-अलर्ट-गुणवत्ता-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/निगरानी-और-अलर्ट-गुणवत्ता-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/监控与告警质量指标/index.md",
             "zh-cn": "locales/zh-cn/主题/监控与告警质量指标/index.md"
           }
@@ -592,6 +672,8 @@
             "en-gb": "locales/en-gb/topics/service-continuity-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-continuity-metrics/index.md",
             "en-us": "locales/en-us/topics/service-continuity-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-निरंतरता-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-निरंतरता-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/服务连续性指标/index.md",
             "zh-cn": "locales/zh-cn/主题/服务连续性指标/index.md"
           }
@@ -606,6 +688,8 @@
             "en-gb": "locales/en-gb/topics/toil-and-on-call-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/toil-and-on-call-metrics/index.md",
             "en-us": "locales/en-us/topics/toil-and-on-call-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/टॉइल-और-ऑन-कॉल-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/टॉइल-और-ऑन-कॉल-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/琐务与值班指标/index.md",
             "zh-cn": "locales/zh-cn/主题/琐务与值班指标/index.md"
           }
@@ -625,6 +709,8 @@
             "en-gb": "locales/en-gb/topics/customer-and-experience-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/customer-and-experience-metrics/index.md",
             "en-us": "locales/en-us/topics/customer-and-experience-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/ग्राहक-और-अनुभव-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/ग्राहक-और-अनुभव-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/客户与体验指标/index.md",
             "zh-cn": "locales/zh-cn/主题/客户与体验指标/index.md"
           }
@@ -639,6 +725,8 @@
             "en-gb": "locales/en-gb/topics/customer-satisfaction-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/customer-satisfaction-metrics/index.md",
             "en-us": "locales/en-us/topics/customer-satisfaction-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/ग्राहक-संतुष्टि-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/ग्राहक-संतुष्टि-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/客户满意度指标/index.md",
             "zh-cn": "locales/zh-cn/主题/客户满意度指标/index.md"
           }
@@ -653,6 +741,8 @@
             "en-gb": "locales/en-gb/topics/experience-level-agreements/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/experience-level-agreements/index.md",
             "en-us": "locales/en-us/topics/experience-level-agreements/index.md",
+            "hi-001": "locales/hi-001/विषय/अनुभव-स्तर-समझौते/index.md",
+            "hi-in": "locales/hi-in/विषय/अनुभव-स्तर-समझौते/index.md",
             "zh-001": "locales/zh-001/主题/体验级别协议/index.md",
             "zh-cn": "locales/zh-cn/主题/体验级别协议/index.md"
           }
@@ -667,6 +757,8 @@
             "en-gb": "locales/en-gb/topics/service-adoption-and-catalog-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-adoption-and-catalog-metrics/index.md",
             "en-us": "locales/en-us/topics/service-adoption-and-catalog-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-अपनाने-और-कैटलॉग-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-अपनाने-और-कैटलॉग-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/服务采用与目录指标/index.md",
             "zh-cn": "locales/zh-cn/主题/服务采用与目录指标/index.md"
           }
@@ -681,6 +773,8 @@
             "en-gb": "locales/en-gb/topics/user-and-employee-experience/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/user-and-employee-experience/index.md",
             "en-us": "locales/en-us/topics/user-and-employee-experience/index.md",
+            "hi-001": "locales/hi-001/विषय/उपयोगकर्ता-और-कर्मचारी-अनुभव/index.md",
+            "hi-in": "locales/hi-in/विषय/उपयोगकर्ता-और-कर्मचारी-अनुभव/index.md",
             "zh-001": "locales/zh-001/主题/用户与员工体验/index.md",
             "zh-cn": "locales/zh-cn/主题/用户与员工体验/index.md"
           }
@@ -695,6 +789,8 @@
             "en-gb": "locales/en-gb/topics/value-realization-and-business-outcomes/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/value-realization-and-business-outcomes/index.md",
             "en-us": "locales/en-us/topics/value-realization-and-business-outcomes/index.md",
+            "hi-001": "locales/hi-001/विषय/मूल्य-प्राप्ति-और-व्यावसायिक-परिणाम/index.md",
+            "hi-in": "locales/hi-in/विषय/मूल्य-प्राप्ति-और-व्यावसायिक-परिणाम/index.md",
             "zh-001": "locales/zh-001/主题/价值实现与业务成果/index.md",
             "zh-cn": "locales/zh-cn/主题/价值实现与业务成果/index.md"
           }
@@ -714,6 +810,8 @@
             "en-gb": "locales/en-gb/topics/asset-configuration-and-financial-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/asset-configuration-and-financial-metrics/index.md",
             "en-us": "locales/en-us/topics/asset-configuration-and-financial-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/परिसंपत्ति-कॉन्फ़िगरेशन-और-वित्तीय-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/परिसंपत्ति-कॉन्फ़िगरेशन-और-वित्तीय-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/资产-配置与财务指标/index.md",
             "zh-cn": "locales/zh-cn/主题/资产-配置与财务指标/index.md"
           }
@@ -728,6 +826,8 @@
             "en-gb": "locales/en-gb/topics/it-asset-management-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/it-asset-management-metrics/index.md",
             "en-us": "locales/en-us/topics/it-asset-management-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/आईटी-परिसंपत्ति-प्रबंधन-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/आईटी-परिसंपत्ति-प्रबंधन-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/IT-资产管理指标/index.md",
             "zh-cn": "locales/zh-cn/主题/IT-资产管理指标/index.md"
           }
@@ -742,6 +842,8 @@
             "en-gb": "locales/en-gb/topics/software-asset-and-license-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/software-asset-and-license-metrics/index.md",
             "en-us": "locales/en-us/topics/software-asset-and-license-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सॉफ़्टवेयर-परिसंपत्ति-और-लाइसेंस-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सॉफ़्टवेयर-परिसंपत्ति-और-लाइसेंस-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/软件资产与许可证指标/index.md",
             "zh-cn": "locales/zh-cn/主题/软件资产与许可证指标/index.md"
           }
@@ -756,6 +858,8 @@
             "en-gb": "locales/en-gb/topics/hardware-asset-lifecycle-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/hardware-asset-lifecycle-metrics/index.md",
             "en-us": "locales/en-us/topics/hardware-asset-lifecycle-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/हार्डवेयर-परिसंपत्ति-जीवनचक्र-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/हार्डवेयर-परिसंपत्ति-जीवनचक्र-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/硬件资产生命周期指标/index.md",
             "zh-cn": "locales/zh-cn/主题/硬件资产生命周期指标/index.md"
           }
@@ -770,6 +874,8 @@
             "en-gb": "locales/en-gb/topics/configuration-and-cmdb-quality-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/configuration-and-cmdb-quality-metrics/index.md",
             "en-us": "locales/en-us/topics/configuration-and-cmdb-quality-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/कॉन्फ़िगरेशन-और-CMDB-गुणवत्ता-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/कॉन्फ़िगरेशन-और-CMDB-गुणवत्ता-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/配置与-CMDB-质量指标/index.md",
             "zh-cn": "locales/zh-cn/主题/配置与-CMDB-质量指标/index.md"
           }
@@ -784,6 +890,8 @@
             "en-gb": "locales/en-gb/topics/service-cost-and-unit-economics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-cost-and-unit-economics/index.md",
             "en-us": "locales/en-us/topics/service-cost-and-unit-economics/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-लागत-और-यूनिट-अर्थशास्त्र/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-लागत-और-यूनिट-अर्थशास्त्र/index.md",
             "zh-001": "locales/zh-001/主题/服务成本与单位经济/index.md",
             "zh-cn": "locales/zh-cn/主题/服务成本与单位经济/index.md"
           }
@@ -798,6 +906,8 @@
             "en-gb": "locales/en-gb/topics/finops-and-cloud-cost-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/finops-and-cloud-cost-metrics/index.md",
             "en-us": "locales/en-us/topics/finops-and-cloud-cost-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/FinOps-और-क्लाउड-लागत-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/FinOps-और-क्लाउड-लागत-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/FinOps-与云成本指标/index.md",
             "zh-cn": "locales/zh-cn/主题/FinOps-与云成本指标/index.md"
           }
@@ -812,6 +922,8 @@
             "en-gb": "locales/en-gb/topics/return-on-investment-and-business-case/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/return-on-investment-and-business-case/index.md",
             "en-us": "locales/en-us/topics/return-on-investment-and-business-case/index.md",
+            "hi-001": "locales/hi-001/विषय/निवेश-पर-प्रतिफल-और-व्यावसायिक-औचित्य/index.md",
+            "hi-in": "locales/hi-in/विषय/निवेश-पर-प्रतिफल-और-व्यावसायिक-औचित्य/index.md",
             "zh-001": "locales/zh-001/主题/投资回报与商业论证/index.md",
             "zh-cn": "locales/zh-cn/主题/投资回报与商业论证/index.md"
           }
@@ -831,6 +943,8 @@
             "en-gb": "locales/en-gb/topics/security-risk-compliance-and-supplier-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/security-risk-compliance-and-supplier-metrics/index.md",
             "en-us": "locales/en-us/topics/security-risk-compliance-and-supplier-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सुरक्षा-जोखिम-अनुपालन-और-आपूर्तिकर्ता-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सुरक्षा-जोखिम-अनुपालन-और-आपूर्तिकर्ता-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/安全-风险-合规与供应商指标/index.md",
             "zh-cn": "locales/zh-cn/主题/安全-风险-合规与供应商指标/index.md"
           }
@@ -845,6 +959,8 @@
             "en-gb": "locales/en-gb/topics/security-incident-and-vulnerability-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/security-incident-and-vulnerability-metrics/index.md",
             "en-us": "locales/en-us/topics/security-incident-and-vulnerability-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सुरक्षा-घटना-और-कमज़ोरी-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सुरक्षा-घटना-और-कमज़ोरी-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/安全事件与漏洞指标/index.md",
             "zh-cn": "locales/zh-cn/主题/安全事件与漏洞指标/index.md"
           }
@@ -859,6 +975,8 @@
             "en-gb": "locales/en-gb/topics/risk-and-control-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/risk-and-control-metrics/index.md",
             "en-us": "locales/en-us/topics/risk-and-control-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/जोखिम-और-नियंत्रण-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/जोखिम-और-नियंत्रण-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/风险与控制指标/index.md",
             "zh-cn": "locales/zh-cn/主题/风险与控制指标/index.md"
           }
@@ -873,6 +991,8 @@
             "en-gb": "locales/en-gb/topics/compliance-and-audit-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/compliance-and-audit-metrics/index.md",
             "en-us": "locales/en-us/topics/compliance-and-audit-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/अनुपालन-और-ऑडिट-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/अनुपालन-और-ऑडिट-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/合规与审计指标/index.md",
             "zh-cn": "locales/zh-cn/主题/合规与审计指标/index.md"
           }
@@ -887,6 +1007,8 @@
             "en-gb": "locales/en-gb/topics/supplier-and-contract-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/supplier-and-contract-metrics/index.md",
             "en-us": "locales/en-us/topics/supplier-and-contract-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/आपूर्तिकर्ता-और-अनुबंध-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/आपूर्तिकर्ता-और-अनुबंध-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/供应商与合同指标/index.md",
             "zh-cn": "locales/zh-cn/主题/供应商与合同指标/index.md"
           }
@@ -901,6 +1023,8 @@
             "en-gb": "locales/en-gb/topics/regulated-and-government-reporting/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/regulated-and-government-reporting/index.md",
             "en-us": "locales/en-us/topics/regulated-and-government-reporting/index.md",
+            "hi-001": "locales/hi-001/विषय/विनियमित-और-सरकारी-रिपोर्टिंग/index.md",
+            "hi-in": "locales/hi-in/विषय/विनियमित-और-सरकारी-रिपोर्टिंग/index.md",
             "zh-001": "locales/zh-001/主题/受监管与政府报告/index.md",
             "zh-cn": "locales/zh-cn/主题/受监管与政府报告/index.md"
           }
@@ -920,6 +1044,8 @@
             "en-gb": "locales/en-gb/topics/people-teams-and-improvement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/people-teams-and-improvement-metrics/index.md",
             "en-us": "locales/en-us/topics/people-teams-and-improvement-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/लोग-टीमें-और-सुधार-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/लोग-टीमें-और-सुधार-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/人员-团队与改进指标/index.md",
             "zh-cn": "locales/zh-cn/主题/人员-团队与改进指标/index.md"
           }
@@ -934,6 +1060,8 @@
             "en-gb": "locales/en-gb/topics/team-health-and-developer-experience/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/team-health-and-developer-experience/index.md",
             "en-us": "locales/en-us/topics/team-health-and-developer-experience/index.md",
+            "hi-001": "locales/hi-001/विषय/टीम-स्वास्थ्य-और-डेवलपर-अनुभव/index.md",
+            "hi-in": "locales/hi-in/विषय/टीम-स्वास्थ्य-और-डेवलपर-अनुभव/index.md",
             "zh-001": "locales/zh-001/主题/团队健康与开发者体验/index.md",
             "zh-cn": "locales/zh-cn/主题/团队健康与开发者体验/index.md"
           }
@@ -948,6 +1076,8 @@
             "en-gb": "locales/en-gb/topics/satisfaction-and-well-being-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/satisfaction-and-well-being-metrics/index.md",
             "en-us": "locales/en-us/topics/satisfaction-and-well-being-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/संतुष्टि-और-कल्याण-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/संतुष्टि-और-कल्याण-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/满意度与福祉指标/index.md",
             "zh-cn": "locales/zh-cn/主题/满意度与福祉指标/index.md"
           }
@@ -962,6 +1092,8 @@
             "en-gb": "locales/en-gb/topics/collaboration-and-handoff-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/collaboration-and-handoff-metrics/index.md",
             "en-us": "locales/en-us/topics/collaboration-and-handoff-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सहयोग-और-हैंडऑफ़-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सहयोग-और-हैंडऑफ़-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/协作与交接指标/index.md",
             "zh-cn": "locales/zh-cn/主题/协作与交接指标/index.md"
           }
@@ -976,6 +1108,8 @@
             "en-gb": "locales/en-gb/topics/skills-and-learning-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/skills-and-learning-metrics/index.md",
             "en-us": "locales/en-us/topics/skills-and-learning-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/कौशल-और-सीखने-के-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/कौशल-और-सीखने-के-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/技能与学习指标/index.md",
             "zh-cn": "locales/zh-cn/主题/技能与学习指标/index.md"
           }
@@ -990,6 +1124,8 @@
             "en-gb": "locales/en-gb/topics/continual-improvement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/continual-improvement-metrics/index.md",
             "en-us": "locales/en-us/topics/continual-improvement-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/सतत-सुधार-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/सतत-सुधार-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/持续改进指标/index.md",
             "zh-cn": "locales/zh-cn/主题/持续改进指标/index.md"
           }
@@ -1004,6 +1140,8 @@
             "en-gb": "locales/en-gb/topics/organizational-change-and-adoption-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/organizational-change-and-adoption-metrics/index.md",
             "en-us": "locales/en-us/topics/organizational-change-and-adoption-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/संगठनात्मक-परिवर्तन-और-अपनाने-के-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/संगठनात्मक-परिवर्तन-और-अपनाने-के-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/组织变革与采纳指标/index.md",
             "zh-cn": "locales/zh-cn/主题/组织变革与采纳指标/index.md"
           }
@@ -1023,6 +1161,8 @@
             "en-gb": "locales/en-gb/topics/metrics-in-the-age-of-ai/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metrics-in-the-age-of-ai/index.md",
             "en-us": "locales/en-us/topics/metrics-in-the-age-of-ai/index.md",
+            "hi-001": "locales/hi-001/विषय/AI-के-युग-में-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/AI-के-युग-में-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/人工智能时代的指标/index.md",
             "zh-cn": "locales/zh-cn/主题/人工智能时代的指标/index.md"
           }
@@ -1037,6 +1177,8 @@
             "en-gb": "locales/en-gb/topics/ai-in-service-management-measurement/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-in-service-management-measurement/index.md",
             "en-us": "locales/en-us/topics/ai-in-service-management-measurement/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-प्रबंधन-मापन-में-AI/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-प्रबंधन-मापन-में-AI/index.md",
             "zh-001": "locales/zh-001/主题/服务管理中的-AI-度量/index.md",
             "zh-cn": "locales/zh-cn/主题/服务管理中的-AI-度量/index.md"
           }
@@ -1051,6 +1193,8 @@
             "en-gb": "locales/en-gb/topics/measuring-ai-assisted-work/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/measuring-ai-assisted-work/index.md",
             "en-us": "locales/en-us/topics/measuring-ai-assisted-work/index.md",
+            "hi-001": "locales/hi-001/विषय/AI-सहायता-प्राप्त-कार्य-का-मापन/index.md",
+            "hi-in": "locales/hi-in/विषय/AI-सहायता-प्राप्त-कार्य-का-मापन/index.md",
             "zh-001": "locales/zh-001/主题/度量-AI-辅助工作/index.md",
             "zh-cn": "locales/zh-cn/主题/度量-AI-辅助工作/index.md"
           }
@@ -1065,6 +1209,8 @@
             "en-gb": "locales/en-gb/topics/ai-agent-and-chatbot-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-agent-and-chatbot-metrics/index.md",
             "en-us": "locales/en-us/topics/ai-agent-and-chatbot-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/AI-एजेंट-और-चैटबॉट-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/AI-एजेंट-और-चैटबॉट-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/AI-智能体与聊天机器人指标/index.md",
             "zh-cn": "locales/zh-cn/主题/AI-智能体与聊天机器人指标/index.md"
           }
@@ -1079,6 +1225,8 @@
             "en-gb": "locales/en-gb/topics/metric-inflation-and-quality-dilution/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metric-inflation-and-quality-dilution/index.md",
             "en-us": "locales/en-us/topics/metric-inflation-and-quality-dilution/index.md",
+            "hi-001": "locales/hi-001/विषय/मेट्रिक्स-का-फूलना-और-गुणवत्ता-का-क्षरण/index.md",
+            "hi-in": "locales/hi-in/विषय/मेट्रिक्स-का-फूलना-और-गुणवत्ता-का-क्षरण/index.md",
             "zh-001": "locales/zh-001/主题/指标膨胀与质量稀释/index.md",
             "zh-cn": "locales/zh-cn/主题/指标膨胀与质量稀释/index.md"
           }
@@ -1093,6 +1241,8 @@
             "en-gb": "locales/en-gb/topics/ai-governance-and-risk-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-governance-and-risk-metrics/index.md",
             "en-us": "locales/en-us/topics/ai-governance-and-risk-metrics/index.md",
+            "hi-001": "locales/hi-001/विषय/AI-शासन-और-जोखिम-मेट्रिक्स/index.md",
+            "hi-in": "locales/hi-in/विषय/AI-शासन-और-जोखिम-मेट्रिक्स/index.md",
             "zh-001": "locales/zh-001/主题/AI-治理与风险指标/index.md",
             "zh-cn": "locales/zh-cn/主题/AI-治理与风险指标/index.md"
           }
@@ -1112,6 +1262,8 @@
             "en-gb": "locales/en-gb/topics/building-a-metrics-program/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/building-a-metrics-program/index.md",
             "en-us": "locales/en-us/topics/building-a-metrics-program/index.md",
+            "hi-001": "locales/hi-001/विषय/मेट्रिक्स-कार्यक्रम-बनाना/index.md",
+            "hi-in": "locales/hi-in/विषय/मेट्रिक्स-कार्यक्रम-बनाना/index.md",
             "zh-001": "locales/zh-001/主题/建设指标体系/index.md",
             "zh-cn": "locales/zh-cn/主题/建设指标体系/index.md"
           }
@@ -1126,6 +1278,8 @@
             "en-gb": "locales/en-gb/topics/designing-a-service-metrics-dashboard/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/designing-a-service-metrics-dashboard/index.md",
             "en-us": "locales/en-us/topics/designing-a-service-metrics-dashboard/index.md",
+            "hi-001": "locales/hi-001/विषय/सेवा-मेट्रिक्स-डैशबोर्ड-का-डिज़ाइन/index.md",
+            "hi-in": "locales/hi-in/विषय/सेवा-मेट्रिक्स-डैशबोर्ड-का-डिज़ाइन/index.md",
             "zh-001": "locales/zh-001/主题/设计服务指标仪表板/index.md",
             "zh-cn": "locales/zh-cn/主题/设计服务指标仪表板/index.md"
           }
@@ -1140,6 +1294,8 @@
             "en-gb": "locales/en-gb/topics/tooling-landscape/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/tooling-landscape/index.md",
             "en-us": "locales/en-us/topics/tooling-landscape/index.md",
+            "hi-001": "locales/hi-001/विषय/टूलिंग-परिदृश्य/index.md",
+            "hi-in": "locales/hi-in/विषय/टूलिंग-परिदृश्य/index.md",
             "zh-001": "locales/zh-001/主题/工具全景/index.md",
             "zh-cn": "locales/zh-cn/主题/工具全景/index.md"
           }
@@ -1154,6 +1310,8 @@
             "en-gb": "locales/en-gb/topics/rolling-out-metrics-without-breeding-fear/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/rolling-out-metrics-without-breeding-fear/index.md",
             "en-us": "locales/en-us/topics/rolling-out-metrics-without-breeding-fear/index.md",
+            "hi-001": "locales/hi-001/विषय/भय-पैदा-किए-बिना-मेट्रिक्स-लागू-करना/index.md",
+            "hi-in": "locales/hi-in/विषय/भय-पैदा-किए-बिना-मेट्रिक्स-लागू-करना/index.md",
             "zh-001": "locales/zh-001/主题/推行指标而不滋生恐惧/index.md",
             "zh-cn": "locales/zh-cn/主题/推行指标而不滋生恐惧/index.md"
           }
@@ -1168,6 +1326,8 @@
             "en-gb": "locales/en-gb/topics/maturity-model-for-metrics-programs/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/maturity-model-for-metrics-programs/index.md",
             "en-us": "locales/en-us/topics/maturity-model-for-metrics-programs/index.md",
+            "hi-001": "locales/hi-001/विषय/मेट्रिक्स-कार्यक्रमों-का-परिपक्वता-मॉडल/index.md",
+            "hi-in": "locales/hi-in/विषय/मेट्रिक्स-कार्यक्रमों-का-परिपक्वता-मॉडल/index.md",
             "zh-001": "locales/zh-001/主题/指标体系的成熟度模型/index.md",
             "zh-cn": "locales/zh-cn/主题/指标体系的成熟度模型/index.md"
           }
@@ -1182,6 +1342,8 @@
             "en-gb": "locales/en-gb/topics/incremental-adoption-roadmap/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/incremental-adoption-roadmap/index.md",
             "en-us": "locales/en-us/topics/incremental-adoption-roadmap/index.md",
+            "hi-001": "locales/hi-001/विषय/क्रमिक-अपनाने-का-रोडमैप/index.md",
+            "hi-in": "locales/hi-in/विषय/क्रमिक-अपनाने-का-रोडमैप/index.md",
             "zh-001": "locales/zh-001/主题/渐进式采纳路线图/index.md",
             "zh-cn": "locales/zh-cn/主题/渐进式采纳路线图/index.md"
           }
@@ -1201,6 +1363,8 @@
             "en-gb": "locales/en-gb/topics/appendices/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/appendices/index.md",
             "en-us": "locales/en-us/topics/appendices/index.md",
+            "hi-001": "locales/hi-001/विषय/परिशिष्ट/index.md",
+            "hi-in": "locales/hi-in/विषय/परिशिष्ट/index.md",
             "zh-001": "locales/zh-001/主题/附录/index.md",
             "zh-cn": "locales/zh-cn/主题/附录/index.md"
           }
@@ -1215,6 +1379,8 @@
             "en-gb": "locales/en-gb/topics/glossary/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/glossary/index.md",
             "en-us": "locales/en-us/topics/glossary/index.md",
+            "hi-001": "locales/hi-001/विषय/शब्दावली/index.md",
+            "hi-in": "locales/hi-in/विषय/शब्दावली/index.md",
             "zh-001": "locales/zh-001/主题/术语表/index.md",
             "zh-cn": "locales/zh-cn/主题/术语表/index.md"
           }
@@ -1229,6 +1395,8 @@
             "en-gb": "locales/en-gb/topics/metric-definitions-and-formulas-reference/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metric-definitions-and-formulas-reference/index.md",
             "en-us": "locales/en-us/topics/metric-definitions-and-formulas-reference/index.md",
+            "hi-001": "locales/hi-001/विषय/मेट्रिक्स-परिभाषाएँ-और-सूत्र-संदर्भ/index.md",
+            "hi-in": "locales/hi-in/विषय/मेट्रिक्स-परिभाषाएँ-और-सूत्र-संदर्भ/index.md",
             "zh-001": "locales/zh-001/主题/指标定义与公式参考/index.md",
             "zh-cn": "locales/zh-cn/主题/指标定义与公式参考/index.md"
           }
@@ -1243,6 +1411,8 @@
             "en-gb": "locales/en-gb/topics/checklists/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/checklists/index.md",
             "en-us": "locales/en-us/topics/checklists/index.md",
+            "hi-001": "locales/hi-001/विषय/चेकलिस्ट/index.md",
+            "hi-in": "locales/hi-in/विषय/चेकलिस्ट/index.md",
             "zh-001": "locales/zh-001/主题/检查清单集/index.md",
             "zh-cn": "locales/zh-cn/主题/检查清单集/index.md"
           }
@@ -1257,6 +1427,8 @@
             "en-gb": "locales/en-gb/topics/templates/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/templates/index.md",
             "en-us": "locales/en-us/topics/templates/index.md",
+            "hi-001": "locales/hi-001/विषय/टेम्पलेट/index.md",
+            "hi-in": "locales/hi-in/विषय/टेम्पलेट/index.md",
             "zh-001": "locales/zh-001/主题/模板/index.md",
             "zh-cn": "locales/zh-cn/主题/模板/index.md"
           }
@@ -1271,6 +1443,8 @@
             "en-gb": "locales/en-gb/topics/maturity-self-assessment/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/maturity-self-assessment/index.md",
             "en-us": "locales/en-us/topics/maturity-self-assessment/index.md",
+            "hi-001": "locales/hi-001/विषय/परिपक्वता-स्व-मूल्यांकन/index.md",
+            "hi-in": "locales/hi-in/विषय/परिपक्वता-स्व-मूल्यांकन/index.md",
             "zh-001": "locales/zh-001/主题/成熟度自评/index.md",
             "zh-cn": "locales/zh-cn/主题/成熟度自评/index.md"
           }
@@ -1285,6 +1459,8 @@
             "en-gb": "locales/en-gb/topics/references-and-further-reading/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/references-and-further-reading/index.md",
             "en-us": "locales/en-us/topics/references-and-further-reading/index.md",
+            "hi-001": "locales/hi-001/विषय/संदर्भ-और-आगे-पढ़ने-के-लिए/index.md",
+            "hi-in": "locales/hi-in/विषय/संदर्भ-और-आगे-पढ़ने-के-लिए/index.md",
             "zh-001": "locales/zh-001/主题/参考文献与延伸阅读/index.md",
             "zh-cn": "locales/zh-cn/主题/参考文献与延伸阅读/index.md"
           }
@@ -1299,6 +1475,8 @@
             "en-gb": "locales/en-gb/topics/index/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/index/index.md",
             "en-us": "locales/en-us/topics/index/index.md",
+            "hi-001": "locales/hi-001/विषय/अनुक्रमणिका/index.md",
+            "hi-in": "locales/hi-in/विषय/अनुक्रमणिका/index.md",
             "zh-001": "locales/zh-001/主题/索引/index.md",
             "zh-cn": "locales/zh-cn/主题/索引/index.md"
           }

@@ -8,6 +8,8 @@ export const DEFAULT_LOCALE = 'en-001';
 
 /** Sorted by locale code (the picker lists them in this order). Labels are "<language> - <region>", in the locale's own language. */
 export const LOCALES: Locale[] = [
+  { slug: 'cy-001', label: 'Cymraeg - Byd' },
+  { slug: 'cy-gb', label: 'Cymraeg - Cymru' },
   { slug: 'en-001', label: 'English - World' },
   { slug: 'en-gb', label: 'English - Great Britain' },
   { slug: 'en-gb-oxendict', label: 'English - Great Britain, Oxford spelling' },
