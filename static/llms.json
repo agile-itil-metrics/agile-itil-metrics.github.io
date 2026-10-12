@@ -3,6 +3,9 @@
   "description": "A working book on measuring agile IT service management well: 88 topics in 12 parts, each metric with its gaming vector and guardrail, plus questions, worked examples, AI prompts, and AI skills.",
   "canonical_locale": "en-001",
   "locales": [
+    "ar-001",
+    "cy-001",
+    "cy-gb",
     "en-001",
     "en-gb",
     "en-gb-oxendict",
@@ -24,6 +27,9 @@
           "slug": "foundations-of-measurement",
           "path": "locales/en-001/topics/foundations-of-measurement/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-1-أسس-القياس/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-1-Sylfeini-Mesur/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-1-Sylfeini-Mesur/index.md",
             "en-001": "locales/en-001/topics/foundations-of-measurement/index.md",
             "en-gb": "locales/en-gb/topics/foundations-of-measurement/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/foundations-of-measurement/index.md",
@@ -40,6 +46,9 @@
           "slug": "why-measure-agile-itil",
           "path": "locales/en-001/topics/why-measure-agile-itil/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/لماذا-نقيس-أجايل-ITIL/index.md",
+            "cy-001": "locales/cy-001/pynciau/Pam-mesur-ITIL-ystwyth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Pam-mesur-ITIL-ystwyth/index.md",
             "en-001": "locales/en-001/topics/why-measure-agile-itil/index.md",
             "en-gb": "locales/en-gb/topics/why-measure-agile-itil/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/why-measure-agile-itil/index.md",
@@ -56,6 +65,9 @@
           "slug": "goodharts-law-and-the-psychology-of-metrics",
           "path": "locales/en-001/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/قانون-غودهارت-وعلم-نفس-المقاييس/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyfraith-Goodhart-a-seicoleg-metrigau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyfraith-Goodhart-a-seicoleg-metrigau/index.md",
             "en-001": "locales/en-001/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
             "en-gb": "locales/en-gb/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/goodharts-law-and-the-psychology-of-metrics/index.md",
@@ -72,6 +84,9 @@
           "slug": "outcomes-over-output",
           "path": "locales/en-001/topics/outcomes-over-output/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/النتائج-قبل-المخرجات-اختيار-ما-نقيسه/index.md",
+            "cy-001": "locales/cy-001/pynciau/Canlyniadau-yn-hytrach-nag-allbwn-dewis-beth-iw-fesur/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Canlyniadau-yn-hytrach-nag-allbwn-dewis-beth-iw-fesur/index.md",
             "en-001": "locales/en-001/topics/outcomes-over-output/index.md",
             "en-gb": "locales/en-gb/topics/outcomes-over-output/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/outcomes-over-output/index.md",
@@ -88,6 +103,9 @@
           "slug": "metrics-governance-and-ownership",
           "path": "locales/en-001/topics/metrics-governance-and-ownership/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/حوكمة-المقاييس-وملكيتها/index.md",
+            "cy-001": "locales/cy-001/pynciau/Llywodraethu-a-pherchnogaeth-metrigau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Llywodraethu-a-pherchnogaeth-metrigau/index.md",
             "en-001": "locales/en-001/topics/metrics-governance-and-ownership/index.md",
             "en-gb": "locales/en-gb/topics/metrics-governance-and-ownership/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metrics-governance-and-ownership/index.md",
@@ -104,6 +122,9 @@
           "slug": "data-sources-and-instrumentation",
           "path": "locales/en-001/topics/data-sources-and-instrumentation/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مصادر-البيانات-والأجهزة-القياسية/index.md",
+            "cy-001": "locales/cy-001/pynciau/Ffynonellau-data-ac-offeryniaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Ffynonellau-data-ac-offeryniaeth/index.md",
             "en-001": "locales/en-001/topics/data-sources-and-instrumentation/index.md",
             "en-gb": "locales/en-gb/topics/data-sources-and-instrumentation/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/data-sources-and-instrumentation/index.md",
@@ -120,6 +141,9 @@
           "slug": "statistical-literacy-for-service-metrics",
           "path": "locales/en-001/topics/statistical-literacy-for-service-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/الإلمام-الإحصائي-لمقاييس-الخدمة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Llythrennedd-ystadegol-ar-gyfer-metrigau-gwasanaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Llythrennedd-ystadegol-ar-gyfer-metrigau-gwasanaeth/index.md",
             "en-001": "locales/en-001/topics/statistical-literacy-for-service-metrics/index.md",
             "en-gb": "locales/en-gb/topics/statistical-literacy-for-service-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/statistical-literacy-for-service-metrics/index.md",
@@ -136,6 +160,9 @@
           "slug": "measurement-frameworks",
           "path": "locales/en-001/topics/measurement-frameworks/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/أطر-القياس/index.md",
+            "cy-001": "locales/cy-001/pynciau/Fframweithiau-mesur/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Fframweithiau-mesur/index.md",
             "en-001": "locales/en-001/topics/measurement-frameworks/index.md",
             "en-gb": "locales/en-gb/topics/measurement-frameworks/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/measurement-frameworks/index.md",
@@ -157,6 +184,9 @@
           "slug": "flow-metrics",
           "path": "locales/en-001/topics/flow-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-2-مقاييس-التدفق-والتسليم-المستمر/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-2-Metrigau-Llif-a-Chyflawni-Parhaus/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-2-Metrigau-Llif-a-Chyflawni-Parhaus/index.md",
             "en-001": "locales/en-001/topics/flow-metrics/index.md",
             "en-gb": "locales/en-gb/topics/flow-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/flow-metrics/index.md",
@@ -173,6 +203,9 @@
           "slug": "flow-measures",
           "path": "locales/en-001/topics/flow-measures/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-التدفق/index.md",
+            "cy-001": "locales/cy-001/pynciau/Mesurau-llif/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Mesurau-llif/index.md",
             "en-001": "locales/en-001/topics/flow-measures/index.md",
             "en-gb": "locales/en-gb/topics/flow-measures/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/flow-measures/index.md",
@@ -189,6 +222,9 @@
           "slug": "lead-time-cycle-time-and-flow-efficiency",
           "path": "locales/en-001/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/زمن-الانتظار-وزمن-الدورة-وكفاءة-التدفق/index.md",
+            "cy-001": "locales/cy-001/pynciau/Amser-arweiniol-amser-cylch-ac-effeithlonrwydd-llif/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Amser-arweiniol-amser-cylch-ac-effeithlonrwydd-llif/index.md",
             "en-001": "locales/en-001/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
             "en-gb": "locales/en-gb/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/lead-time-cycle-time-and-flow-efficiency/index.md",
@@ -205,6 +241,9 @@
           "slug": "work-in-process-and-queueing",
           "path": "locales/en-001/topics/work-in-process-and-queueing/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/العمل-قيد-التنفيذ-وطوابير-الانتظار/index.md",
+            "cy-001": "locales/cy-001/pynciau/Gwaith-ar-y-gweill-a-chiwio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Gwaith-ar-y-gweill-a-chiwio/index.md",
             "en-001": "locales/en-001/topics/work-in-process-and-queueing/index.md",
             "en-gb": "locales/en-gb/topics/work-in-process-and-queueing/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/work-in-process-and-queueing/index.md",
@@ -221,6 +260,9 @@
           "slug": "value-stream-metrics",
           "path": "locales/en-001/topics/value-stream-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-تدفق-القيمة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-ffrwd-werth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-ffrwd-werth/index.md",
             "en-001": "locales/en-001/topics/value-stream-metrics/index.md",
             "en-gb": "locales/en-gb/topics/value-stream-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/value-stream-metrics/index.md",
@@ -237,6 +279,9 @@
           "slug": "delivery-forecasting-and-planning-metrics",
           "path": "locales/en-001/topics/delivery-forecasting-and-planning-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-التنبؤ-بالتسليم-والتخطيط/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-rhagweld-a-chynllunio-cyflawni/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-rhagweld-a-chynllunio-cyflawni/index.md",
             "en-001": "locales/en-001/topics/delivery-forecasting-and-planning-metrics/index.md",
             "en-gb": "locales/en-gb/topics/delivery-forecasting-and-planning-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/delivery-forecasting-and-planning-metrics/index.md",
@@ -253,6 +298,9 @@
           "slug": "backlog-and-refinement-metrics",
           "path": "locales/en-001/topics/backlog-and-refinement-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-قائمة-المهام-والتنقيح/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-ol-groniad-a-mireinio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-ol-groniad-a-mireinio/index.md",
             "en-001": "locales/en-001/topics/backlog-and-refinement-metrics/index.md",
             "en-gb": "locales/en-gb/topics/backlog-and-refinement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/backlog-and-refinement-metrics/index.md",
@@ -269,6 +317,9 @@
           "slug": "pull-request-and-code-review-metrics",
           "path": "locales/en-001/topics/pull-request-and-code-review-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-طلبات-الدمج-ومراجعة-الشيفرة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-ceisiadau-tynnu-ac-adolygu-cod/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-ceisiadau-tynnu-ac-adolygu-cod/index.md",
             "en-001": "locales/en-001/topics/pull-request-and-code-review-metrics/index.md",
             "en-gb": "locales/en-gb/topics/pull-request-and-code-review-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/pull-request-and-code-review-metrics/index.md",
@@ -285,6 +336,9 @@
           "slug": "dora-metrics",
           "path": "locales/en-001/topics/dora-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-DORA/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-DORA/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-DORA/index.md",
             "en-001": "locales/en-001/topics/dora-metrics/index.md",
             "en-gb": "locales/en-gb/topics/dora-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/dora-metrics/index.md",
@@ -301,6 +355,9 @@
           "slug": "operational-work-and-unplanned-work",
           "path": "locales/en-001/topics/operational-work-and-unplanned-work/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/العمل-التشغيلي-والعمل-غير-المخطط/index.md",
+            "cy-001": "locales/cy-001/pynciau/Gwaith-gweithredol-a-gwaith-heb-ei-gynllunio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Gwaith-gweithredol-a-gwaith-heb-ei-gynllunio/index.md",
             "en-001": "locales/en-001/topics/operational-work-and-unplanned-work/index.md",
             "en-gb": "locales/en-gb/topics/operational-work-and-unplanned-work/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/operational-work-and-unplanned-work/index.md",
@@ -322,6 +379,9 @@
           "slug": "service-desk-incident-and-request-metrics",
           "path": "locales/en-001/topics/service-desk-incident-and-request-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-3-مقاييس-مكتب-الخدمة-والحوادث-والطلبات/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-3-Metrigau-Desg-Gwasanaeth-Digwyddiadau-a-Cheisiadau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-3-Metrigau-Desg-Gwasanaeth-Digwyddiadau-a-Cheisiadau/index.md",
             "en-001": "locales/en-001/topics/service-desk-incident-and-request-metrics/index.md",
             "en-gb": "locales/en-gb/topics/service-desk-incident-and-request-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-desk-incident-and-request-metrics/index.md",
@@ -338,6 +398,9 @@
           "slug": "service-desk-metrics",
           "path": "locales/en-001/topics/service-desk-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-مكتب-الخدمة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-desg-gwasanaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-desg-gwasanaeth/index.md",
             "en-001": "locales/en-001/topics/service-desk-metrics/index.md",
             "en-gb": "locales/en-gb/topics/service-desk-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-desk-metrics/index.md",
@@ -354,6 +417,9 @@
           "slug": "incident-volume-and-priority",
           "path": "locales/en-001/topics/incident-volume-and-priority/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/حجم-الحوادث-وأولوياتها/index.md",
+            "cy-001": "locales/cy-001/pynciau/Nifer-a-blaenoriaeth-digwyddiadau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Nifer-a-blaenoriaeth-digwyddiadau/index.md",
             "en-001": "locales/en-001/topics/incident-volume-and-priority/index.md",
             "en-gb": "locales/en-gb/topics/incident-volume-and-priority/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/incident-volume-and-priority/index.md",
@@ -370,6 +436,9 @@
           "slug": "incident-response-and-resolution-time",
           "path": "locales/en-001/topics/incident-response-and-resolution-time/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/زمن-الاستجابة-للحوادث-وحلّها/index.md",
+            "cy-001": "locales/cy-001/pynciau/Amser-ymateb-a-datrys-digwyddiadau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Amser-ymateb-a-datrys-digwyddiadau/index.md",
             "en-001": "locales/en-001/topics/incident-response-and-resolution-time/index.md",
             "en-gb": "locales/en-gb/topics/incident-response-and-resolution-time/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/incident-response-and-resolution-time/index.md",
@@ -386,6 +455,9 @@
           "slug": "major-incident-metrics",
           "path": "locales/en-001/topics/major-incident-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الحوادث-الكبرى/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-digwyddiadau-mawr/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-digwyddiadau-mawr/index.md",
             "en-001": "locales/en-001/topics/major-incident-metrics/index.md",
             "en-gb": "locales/en-gb/topics/major-incident-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/major-incident-metrics/index.md",
@@ -402,6 +474,9 @@
           "slug": "service-request-fulfilment-metrics",
           "path": "locales/en-001/topics/service-request-fulfilment-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-تلبية-طلبات-الخدمة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-cyflawni-ceisiadau-gwasanaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-cyflawni-ceisiadau-gwasanaeth/index.md",
             "en-001": "locales/en-001/topics/service-request-fulfilment-metrics/index.md",
             "en-gb": "locales/en-gb/topics/service-request-fulfilment-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-request-fulfilment-metrics/index.md",
@@ -418,6 +493,9 @@
           "slug": "knowledge-management-metrics",
           "path": "locales/en-001/topics/knowledge-management-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-إدارة-المعرفة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-rheoli-gwybodaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-rheoli-gwybodaeth/index.md",
             "en-001": "locales/en-001/topics/knowledge-management-metrics/index.md",
             "en-gb": "locales/en-gb/topics/knowledge-management-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/knowledge-management-metrics/index.md",
@@ -434,6 +512,9 @@
           "slug": "self-service-and-automation-metrics",
           "path": "locales/en-001/topics/self-service-and-automation-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الخدمة-الذاتية-والأتمتة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-hunanwasanaeth-ac-awtomeiddio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-hunanwasanaeth-ac-awtomeiddio/index.md",
             "en-001": "locales/en-001/topics/self-service-and-automation-metrics/index.md",
             "en-gb": "locales/en-gb/topics/self-service-and-automation-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/self-service-and-automation-metrics/index.md",
@@ -455,6 +536,9 @@
           "slug": "problem-change-and-release-metrics",
           "path": "locales/en-001/topics/problem-change-and-release-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-4-مقاييس-المشكلات-والتغيير-والإصدار/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-4-Metrigau-Problemau-Newid-a-Rhyddhau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-4-Metrigau-Problemau-Newid-a-Rhyddhau/index.md",
             "en-001": "locales/en-001/topics/problem-change-and-release-metrics/index.md",
             "en-gb": "locales/en-gb/topics/problem-change-and-release-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/problem-change-and-release-metrics/index.md",
@@ -471,6 +555,9 @@
           "slug": "problem-management-metrics",
           "path": "locales/en-001/topics/problem-management-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-إدارة-المشكلات/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-rheoli-problemau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-rheoli-problemau/index.md",
             "en-001": "locales/en-001/topics/problem-management-metrics/index.md",
             "en-gb": "locales/en-gb/topics/problem-management-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/problem-management-metrics/index.md",
@@ -487,6 +574,9 @@
           "slug": "postmortem-and-learning-metrics",
           "path": "locales/en-001/topics/postmortem-and-learning-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-تحليل-ما-بعد-الحادثة-والتعلّم/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-adolygu-ol-ddigwyddiad-a-dysgu/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-adolygu-ol-ddigwyddiad-a-dysgu/index.md",
             "en-001": "locales/en-001/topics/postmortem-and-learning-metrics/index.md",
             "en-gb": "locales/en-gb/topics/postmortem-and-learning-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/postmortem-and-learning-metrics/index.md",
@@ -503,6 +593,9 @@
           "slug": "change-enablement-metrics",
           "path": "locales/en-001/topics/change-enablement-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-تمكين-التغيير/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-galluogi-newid/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-galluogi-newid/index.md",
             "en-001": "locales/en-001/topics/change-enablement-metrics/index.md",
             "en-gb": "locales/en-gb/topics/change-enablement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/change-enablement-metrics/index.md",
@@ -519,6 +612,9 @@
           "slug": "change-failure-and-rework",
           "path": "locales/en-001/topics/change-failure-and-rework/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/فشل-التغيير-وإعادة-العمل/index.md",
+            "cy-001": "locales/cy-001/pynciau/Methiant-newid-ac-ailwaith/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Methiant-newid-ac-ailwaith/index.md",
             "en-001": "locales/en-001/topics/change-failure-and-rework/index.md",
             "en-gb": "locales/en-gb/topics/change-failure-and-rework/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/change-failure-and-rework/index.md",
@@ -535,6 +631,9 @@
           "slug": "release-and-deployment-metrics",
           "path": "locales/en-001/topics/release-and-deployment-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الإصدار-والنشر/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-rhyddhau-a-defnyddio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-rhyddhau-a-defnyddio/index.md",
             "en-001": "locales/en-001/topics/release-and-deployment-metrics/index.md",
             "en-gb": "locales/en-gb/topics/release-and-deployment-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/release-and-deployment-metrics/index.md",
@@ -551,6 +650,9 @@
           "slug": "technical-debt-and-known-errors",
           "path": "locales/en-001/topics/technical-debt-and-known-errors/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/الدين-التقني-والأخطاء-المعروفة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Dyled-dechnegol-a-gwallau-hysbys/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Dyled-dechnegol-a-gwallau-hysbys/index.md",
             "en-001": "locales/en-001/topics/technical-debt-and-known-errors/index.md",
             "en-gb": "locales/en-gb/topics/technical-debt-and-known-errors/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/technical-debt-and-known-errors/index.md",
@@ -572,6 +674,9 @@
           "slug": "service-level-availability-and-reliability-metrics",
           "path": "locales/en-001/topics/service-level-availability-and-reliability-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-5-مقاييس-مستوى-الخدمة-والتوافر-والموثوقية/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-5-Metrigau-Lefel-Gwasanaeth-Argaeledd-a-Dibynadwyedd/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-5-Metrigau-Lefel-Gwasanaeth-Argaeledd-a-Dibynadwyedd/index.md",
             "en-001": "locales/en-001/topics/service-level-availability-and-reliability-metrics/index.md",
             "en-gb": "locales/en-gb/topics/service-level-availability-and-reliability-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-level-availability-and-reliability-metrics/index.md",
@@ -588,6 +693,9 @@
           "slug": "sla-ola-and-xla-metrics",
           "path": "locales/en-001/topics/sla-ola-and-xla-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-SLA-وOLA-وXLA/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-SLA-OLA-ac-XLA/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-SLA-OLA-ac-XLA/index.md",
             "en-001": "locales/en-001/topics/sla-ola-and-xla-metrics/index.md",
             "en-gb": "locales/en-gb/topics/sla-ola-and-xla-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/sla-ola-and-xla-metrics/index.md",
@@ -604,6 +712,9 @@
           "slug": "slis-slos-and-error-budgets",
           "path": "locales/en-001/topics/slis-slos-and-error-budgets/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مؤشرات-مستوى-الخدمة-وأهدافها-وميزانيات-الخطأ/index.md",
+            "cy-001": "locales/cy-001/pynciau/SLIau-SLOau-a-chyllidebau-gwallau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/SLIau-SLOau-a-chyllidebau-gwallau/index.md",
             "en-001": "locales/en-001/topics/slis-slos-and-error-budgets/index.md",
             "en-gb": "locales/en-gb/topics/slis-slos-and-error-budgets/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/slis-slos-and-error-budgets/index.md",
@@ -620,6 +731,9 @@
           "slug": "availability-metrics",
           "path": "locales/en-001/topics/availability-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-التوافر/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-argaeledd/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-argaeledd/index.md",
             "en-001": "locales/en-001/topics/availability-metrics/index.md",
             "en-gb": "locales/en-gb/topics/availability-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/availability-metrics/index.md",
@@ -636,6 +750,9 @@
           "slug": "capacity-and-performance-metrics",
           "path": "locales/en-001/topics/capacity-and-performance-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-السعة-والأداء/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-capasiti-a-pherfformiad/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-capasiti-a-pherfformiad/index.md",
             "en-001": "locales/en-001/topics/capacity-and-performance-metrics/index.md",
             "en-gb": "locales/en-gb/topics/capacity-and-performance-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/capacity-and-performance-metrics/index.md",
@@ -652,6 +769,9 @@
           "slug": "monitoring-and-alert-quality-metrics",
           "path": "locales/en-001/topics/monitoring-and-alert-quality-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-جودة-المراقبة-والتنبيهات/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-ansawdd-monitro-a-rhybuddion/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-ansawdd-monitro-a-rhybuddion/index.md",
             "en-001": "locales/en-001/topics/monitoring-and-alert-quality-metrics/index.md",
             "en-gb": "locales/en-gb/topics/monitoring-and-alert-quality-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/monitoring-and-alert-quality-metrics/index.md",
@@ -668,6 +788,9 @@
           "slug": "service-continuity-metrics",
           "path": "locales/en-001/topics/service-continuity-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-استمرارية-الخدمة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-parhad-gwasanaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-parhad-gwasanaeth/index.md",
             "en-001": "locales/en-001/topics/service-continuity-metrics/index.md",
             "en-gb": "locales/en-gb/topics/service-continuity-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-continuity-metrics/index.md",
@@ -684,6 +807,9 @@
           "slug": "toil-and-on-call-metrics",
           "path": "locales/en-001/topics/toil-and-on-call-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-العمل-الروتيني-والمناوبة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-llafur-diwerth-ac-ar-alwad/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-llafur-diwerth-ac-ar-alwad/index.md",
             "en-001": "locales/en-001/topics/toil-and-on-call-metrics/index.md",
             "en-gb": "locales/en-gb/topics/toil-and-on-call-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/toil-and-on-call-metrics/index.md",
@@ -705,6 +831,9 @@
           "slug": "customer-and-experience-metrics",
           "path": "locales/en-001/topics/customer-and-experience-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-6-مقاييس-العملاء-والتجربة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-6-Metrigau-Cwsmeriaid-a-Phrofiad/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-6-Metrigau-Cwsmeriaid-a-Phrofiad/index.md",
             "en-001": "locales/en-001/topics/customer-and-experience-metrics/index.md",
             "en-gb": "locales/en-gb/topics/customer-and-experience-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/customer-and-experience-metrics/index.md",
@@ -721,6 +850,9 @@
           "slug": "customer-satisfaction-metrics",
           "path": "locales/en-001/topics/customer-satisfaction-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-رضا-العملاء/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-bodlonrwydd-cwsmeriaid/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-bodlonrwydd-cwsmeriaid/index.md",
             "en-001": "locales/en-001/topics/customer-satisfaction-metrics/index.md",
             "en-gb": "locales/en-gb/topics/customer-satisfaction-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/customer-satisfaction-metrics/index.md",
@@ -737,6 +869,9 @@
           "slug": "experience-level-agreements",
           "path": "locales/en-001/topics/experience-level-agreements/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/اتفاقيات-مستوى-التجربة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cytundebau-lefel-profiad/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cytundebau-lefel-profiad/index.md",
             "en-001": "locales/en-001/topics/experience-level-agreements/index.md",
             "en-gb": "locales/en-gb/topics/experience-level-agreements/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/experience-level-agreements/index.md",
@@ -753,6 +888,9 @@
           "slug": "service-adoption-and-catalog-metrics",
           "path": "locales/en-001/topics/service-adoption-and-catalog-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-تبنّي-الخدمة-والكتالوج/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-mabwysiadu-gwasanaeth-a-chatalog/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-mabwysiadu-gwasanaeth-a-chatalog/index.md",
             "en-001": "locales/en-001/topics/service-adoption-and-catalog-metrics/index.md",
             "en-gb": "locales/en-gb/topics/service-adoption-and-catalog-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-adoption-and-catalog-metrics/index.md",
@@ -769,6 +907,9 @@
           "slug": "user-and-employee-experience",
           "path": "locales/en-001/topics/user-and-employee-experience/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/تجربة-المستخدمين-والموظفين/index.md",
+            "cy-001": "locales/cy-001/pynciau/Profiad-defnyddwyr-a-gweithwyr/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Profiad-defnyddwyr-a-gweithwyr/index.md",
             "en-001": "locales/en-001/topics/user-and-employee-experience/index.md",
             "en-gb": "locales/en-gb/topics/user-and-employee-experience/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/user-and-employee-experience/index.md",
@@ -785,6 +926,9 @@
           "slug": "value-realization-and-business-outcomes",
           "path": "locales/en-001/topics/value-realization-and-business-outcomes/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/تحقيق-القيمة-ونتائج-الأعمال/index.md",
+            "cy-001": "locales/cy-001/pynciau/Sylweddoli-gwerth-a-chanlyniadau-busnes/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Sylweddoli-gwerth-a-chanlyniadau-busnes/index.md",
             "en-001": "locales/en-001/topics/value-realization-and-business-outcomes/index.md",
             "en-gb": "locales/en-gb/topics/value-realization-and-business-outcomes/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/value-realization-and-business-outcomes/index.md",
@@ -806,6 +950,9 @@
           "slug": "asset-configuration-and-financial-metrics",
           "path": "locales/en-001/topics/asset-configuration-and-financial-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-7-مقاييس-الأصول-والتهيئة-والمالية/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-7-Metrigau-Asedau-Cyfluniad-ac-Ariannol/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-7-Metrigau-Asedau-Cyfluniad-ac-Ariannol/index.md",
             "en-001": "locales/en-001/topics/asset-configuration-and-financial-metrics/index.md",
             "en-gb": "locales/en-gb/topics/asset-configuration-and-financial-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/asset-configuration-and-financial-metrics/index.md",
@@ -822,6 +969,9 @@
           "slug": "it-asset-management-metrics",
           "path": "locales/en-001/topics/it-asset-management-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-إدارة-أصول-تقنية-المعلومات/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-rheoli-asedau-TG/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-rheoli-asedau-TG/index.md",
             "en-001": "locales/en-001/topics/it-asset-management-metrics/index.md",
             "en-gb": "locales/en-gb/topics/it-asset-management-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/it-asset-management-metrics/index.md",
@@ -838,6 +988,9 @@
           "slug": "software-asset-and-license-metrics",
           "path": "locales/en-001/topics/software-asset-and-license-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-أصول-البرمجيات-والتراخيص/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-asedau-meddalwedd-a-thrwyddedau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-asedau-meddalwedd-a-thrwyddedau/index.md",
             "en-001": "locales/en-001/topics/software-asset-and-license-metrics/index.md",
             "en-gb": "locales/en-gb/topics/software-asset-and-license-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/software-asset-and-license-metrics/index.md",
@@ -854,6 +1007,9 @@
           "slug": "hardware-asset-lifecycle-metrics",
           "path": "locales/en-001/topics/hardware-asset-lifecycle-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-دورة-حياة-أصول-الأجهزة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-cylch-oes-asedau-caledwedd/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-cylch-oes-asedau-caledwedd/index.md",
             "en-001": "locales/en-001/topics/hardware-asset-lifecycle-metrics/index.md",
             "en-gb": "locales/en-gb/topics/hardware-asset-lifecycle-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/hardware-asset-lifecycle-metrics/index.md",
@@ -870,6 +1026,9 @@
           "slug": "configuration-and-cmdb-quality-metrics",
           "path": "locales/en-001/topics/configuration-and-cmdb-quality-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-جودة-التهيئة-وقاعدة-بيانات-إدارة-التهيئة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-ansawdd-cyfluniad-a-CMDB/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-ansawdd-cyfluniad-a-CMDB/index.md",
             "en-001": "locales/en-001/topics/configuration-and-cmdb-quality-metrics/index.md",
             "en-gb": "locales/en-gb/topics/configuration-and-cmdb-quality-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/configuration-and-cmdb-quality-metrics/index.md",
@@ -886,6 +1045,9 @@
           "slug": "service-cost-and-unit-economics",
           "path": "locales/en-001/topics/service-cost-and-unit-economics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/تكلفة-الخدمة-واقتصاديات-الوحدة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cost-gwasanaeth-ac-economeg-uned/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cost-gwasanaeth-ac-economeg-uned/index.md",
             "en-001": "locales/en-001/topics/service-cost-and-unit-economics/index.md",
             "en-gb": "locales/en-gb/topics/service-cost-and-unit-economics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/service-cost-and-unit-economics/index.md",
@@ -902,6 +1064,9 @@
           "slug": "finops-and-cloud-cost-metrics",
           "path": "locales/en-001/topics/finops-and-cloud-cost-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-FinOps-وتكاليف-السحابة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-FinOps-a-chostau-cwmwl/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-FinOps-a-chostau-cwmwl/index.md",
             "en-001": "locales/en-001/topics/finops-and-cloud-cost-metrics/index.md",
             "en-gb": "locales/en-gb/topics/finops-and-cloud-cost-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/finops-and-cloud-cost-metrics/index.md",
@@ -918,6 +1083,9 @@
           "slug": "return-on-investment-and-business-case",
           "path": "locales/en-001/topics/return-on-investment-and-business-case/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/العائد-على-الاستثمار-ودراسة-الجدوى/index.md",
+            "cy-001": "locales/cy-001/pynciau/Elw-ar-fuddsoddiad-ar-achos-busnes/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Elw-ar-fuddsoddiad-ar-achos-busnes/index.md",
             "en-001": "locales/en-001/topics/return-on-investment-and-business-case/index.md",
             "en-gb": "locales/en-gb/topics/return-on-investment-and-business-case/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/return-on-investment-and-business-case/index.md",
@@ -939,6 +1107,9 @@
           "slug": "security-risk-compliance-and-supplier-metrics",
           "path": "locales/en-001/topics/security-risk-compliance-and-supplier-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-8-مقاييس-الأمن-والمخاطر-والامتثال-والموردين/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-8-Metrigau-Diogelwch-Risg-Cydymffurfio-a-Chyflenwyr/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-8-Metrigau-Diogelwch-Risg-Cydymffurfio-a-Chyflenwyr/index.md",
             "en-001": "locales/en-001/topics/security-risk-compliance-and-supplier-metrics/index.md",
             "en-gb": "locales/en-gb/topics/security-risk-compliance-and-supplier-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/security-risk-compliance-and-supplier-metrics/index.md",
@@ -955,6 +1126,9 @@
           "slug": "security-incident-and-vulnerability-metrics",
           "path": "locales/en-001/topics/security-incident-and-vulnerability-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الحوادث-الأمنية-والثغرات/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-digwyddiadau-diogelwch-a-gwendidau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-digwyddiadau-diogelwch-a-gwendidau/index.md",
             "en-001": "locales/en-001/topics/security-incident-and-vulnerability-metrics/index.md",
             "en-gb": "locales/en-gb/topics/security-incident-and-vulnerability-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/security-incident-and-vulnerability-metrics/index.md",
@@ -971,6 +1145,9 @@
           "slug": "risk-and-control-metrics",
           "path": "locales/en-001/topics/risk-and-control-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-المخاطر-والضوابط/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-risg-a-rheolaethau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-risg-a-rheolaethau/index.md",
             "en-001": "locales/en-001/topics/risk-and-control-metrics/index.md",
             "en-gb": "locales/en-gb/topics/risk-and-control-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/risk-and-control-metrics/index.md",
@@ -987,6 +1164,9 @@
           "slug": "compliance-and-audit-metrics",
           "path": "locales/en-001/topics/compliance-and-audit-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الامتثال-والتدقيق/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-cydymffurfio-ac-archwilio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-cydymffurfio-ac-archwilio/index.md",
             "en-001": "locales/en-001/topics/compliance-and-audit-metrics/index.md",
             "en-gb": "locales/en-gb/topics/compliance-and-audit-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/compliance-and-audit-metrics/index.md",
@@ -1003,6 +1183,9 @@
           "slug": "supplier-and-contract-metrics",
           "path": "locales/en-001/topics/supplier-and-contract-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الموردين-والعقود/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-cyflenwyr-a-chontractau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-cyflenwyr-a-chontractau/index.md",
             "en-001": "locales/en-001/topics/supplier-and-contract-metrics/index.md",
             "en-gb": "locales/en-gb/topics/supplier-and-contract-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/supplier-and-contract-metrics/index.md",
@@ -1019,6 +1202,9 @@
           "slug": "regulated-and-government-reporting",
           "path": "locales/en-001/topics/regulated-and-government-reporting/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/التقارير-التنظيمية-والحكومية/index.md",
+            "cy-001": "locales/cy-001/pynciau/Adrodd-rheoleiddiedig-a-llywodraethol/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Adrodd-rheoleiddiedig-a-llywodraethol/index.md",
             "en-001": "locales/en-001/topics/regulated-and-government-reporting/index.md",
             "en-gb": "locales/en-gb/topics/regulated-and-government-reporting/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/regulated-and-government-reporting/index.md",
@@ -1040,6 +1226,9 @@
           "slug": "people-teams-and-improvement-metrics",
           "path": "locales/en-001/topics/people-teams-and-improvement-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-9-مقاييس-الأفراد-والفرق-والتحسين/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-9-Metrigau-Pobl-Timau-a-Gwelliant/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-9-Metrigau-Pobl-Timau-a-Gwelliant/index.md",
             "en-001": "locales/en-001/topics/people-teams-and-improvement-metrics/index.md",
             "en-gb": "locales/en-gb/topics/people-teams-and-improvement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/people-teams-and-improvement-metrics/index.md",
@@ -1056,6 +1245,9 @@
           "slug": "team-health-and-developer-experience",
           "path": "locales/en-001/topics/team-health-and-developer-experience/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/صحة-الفريق-وتجربة-المطوّرين/index.md",
+            "cy-001": "locales/cy-001/pynciau/Iechyd-tim-a-phrofiad-datblygwyr/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Iechyd-tim-a-phrofiad-datblygwyr/index.md",
             "en-001": "locales/en-001/topics/team-health-and-developer-experience/index.md",
             "en-gb": "locales/en-gb/topics/team-health-and-developer-experience/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/team-health-and-developer-experience/index.md",
@@ -1072,6 +1264,9 @@
           "slug": "satisfaction-and-well-being-metrics",
           "path": "locales/en-001/topics/satisfaction-and-well-being-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-الرضا-والرفاه/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-boddhad-a-lles/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-boddhad-a-lles/index.md",
             "en-001": "locales/en-001/topics/satisfaction-and-well-being-metrics/index.md",
             "en-gb": "locales/en-gb/topics/satisfaction-and-well-being-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/satisfaction-and-well-being-metrics/index.md",
@@ -1088,6 +1283,9 @@
           "slug": "collaboration-and-handoff-metrics",
           "path": "locales/en-001/topics/collaboration-and-handoff-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-التعاون-والتسليم-بين-الفرق/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-cydweithio-a-throsglwyddo/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-cydweithio-a-throsglwyddo/index.md",
             "en-001": "locales/en-001/topics/collaboration-and-handoff-metrics/index.md",
             "en-gb": "locales/en-gb/topics/collaboration-and-handoff-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/collaboration-and-handoff-metrics/index.md",
@@ -1104,6 +1302,9 @@
           "slug": "skills-and-learning-metrics",
           "path": "locales/en-001/topics/skills-and-learning-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-المهارات-والتعلّم/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-sgiliau-a-dysgu/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-sgiliau-a-dysgu/index.md",
             "en-001": "locales/en-001/topics/skills-and-learning-metrics/index.md",
             "en-gb": "locales/en-gb/topics/skills-and-learning-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/skills-and-learning-metrics/index.md",
@@ -1120,6 +1321,9 @@
           "slug": "continual-improvement-metrics",
           "path": "locales/en-001/topics/continual-improvement-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-التحسين-المستمر/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-gwelliant-parhaus/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-gwelliant-parhaus/index.md",
             "en-001": "locales/en-001/topics/continual-improvement-metrics/index.md",
             "en-gb": "locales/en-gb/topics/continual-improvement-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/continual-improvement-metrics/index.md",
@@ -1136,6 +1340,9 @@
           "slug": "organizational-change-and-adoption-metrics",
           "path": "locales/en-001/topics/organizational-change-and-adoption-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-التغيير-المؤسسي-والتبنّي/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-newid-sefydliadol-a-mabwysiadu/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-newid-sefydliadol-a-mabwysiadu/index.md",
             "en-001": "locales/en-001/topics/organizational-change-and-adoption-metrics/index.md",
             "en-gb": "locales/en-gb/topics/organizational-change-and-adoption-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/organizational-change-and-adoption-metrics/index.md",
@@ -1157,6 +1364,9 @@
           "slug": "metrics-in-the-age-of-ai",
           "path": "locales/en-001/topics/metrics-in-the-age-of-ai/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-10-المقاييس-في-عصر-الذكاء-الاصطناعي/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-10-Metrigau-yn-Oes-AI/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-10-Metrigau-yn-Oes-AI/index.md",
             "en-001": "locales/en-001/topics/metrics-in-the-age-of-ai/index.md",
             "en-gb": "locales/en-gb/topics/metrics-in-the-age-of-ai/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metrics-in-the-age-of-ai/index.md",
@@ -1173,6 +1383,9 @@
           "slug": "ai-in-service-management-measurement",
           "path": "locales/en-001/topics/ai-in-service-management-measurement/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/الذكاء-الاصطناعي-في-قياس-إدارة-الخدمات/index.md",
+            "cy-001": "locales/cy-001/pynciau/AI-mewn-mesur-rheoli-gwasanaethau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/AI-mewn-mesur-rheoli-gwasanaethau/index.md",
             "en-001": "locales/en-001/topics/ai-in-service-management-measurement/index.md",
             "en-gb": "locales/en-gb/topics/ai-in-service-management-measurement/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-in-service-management-measurement/index.md",
@@ -1189,6 +1402,9 @@
           "slug": "measuring-ai-assisted-work",
           "path": "locales/en-001/topics/measuring-ai-assisted-work/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/قياس-العمل-بمساعدة-الذكاء-الاصطناعي/index.md",
+            "cy-001": "locales/cy-001/pynciau/Mesur-gwaith-a-chymorth-AI/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Mesur-gwaith-a-chymorth-AI/index.md",
             "en-001": "locales/en-001/topics/measuring-ai-assisted-work/index.md",
             "en-gb": "locales/en-gb/topics/measuring-ai-assisted-work/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/measuring-ai-assisted-work/index.md",
@@ -1205,6 +1421,9 @@
           "slug": "ai-agent-and-chatbot-metrics",
           "path": "locales/en-001/topics/ai-agent-and-chatbot-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-وكلاء-الذكاء-الاصطناعي-وروبوتات-المحادثة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-asiantau-AI-a-sgwrsfotiau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-asiantau-AI-a-sgwrsfotiau/index.md",
             "en-001": "locales/en-001/topics/ai-agent-and-chatbot-metrics/index.md",
             "en-gb": "locales/en-gb/topics/ai-agent-and-chatbot-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-agent-and-chatbot-metrics/index.md",
@@ -1221,6 +1440,9 @@
           "slug": "metric-inflation-and-quality-dilution",
           "path": "locales/en-001/topics/metric-inflation-and-quality-dilution/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/تضخم-المقاييس-وتخفيف-الجودة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Chwyddiant-metrigau-a-gwanhau-ansawdd/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Chwyddiant-metrigau-a-gwanhau-ansawdd/index.md",
             "en-001": "locales/en-001/topics/metric-inflation-and-quality-dilution/index.md",
             "en-gb": "locales/en-gb/topics/metric-inflation-and-quality-dilution/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metric-inflation-and-quality-dilution/index.md",
@@ -1237,6 +1459,9 @@
           "slug": "ai-governance-and-risk-metrics",
           "path": "locales/en-001/topics/ai-governance-and-risk-metrics/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقاييس-حوكمة-الذكاء-الاصطناعي-ومخاطره/index.md",
+            "cy-001": "locales/cy-001/pynciau/Metrigau-llywodraethu-a-risg-AI/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Metrigau-llywodraethu-a-risg-AI/index.md",
             "en-001": "locales/en-001/topics/ai-governance-and-risk-metrics/index.md",
             "en-gb": "locales/en-gb/topics/ai-governance-and-risk-metrics/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/ai-governance-and-risk-metrics/index.md",
@@ -1258,6 +1483,9 @@
           "slug": "building-a-metrics-program",
           "path": "locales/en-001/topics/building-a-metrics-program/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مقدمة-الجزء-11-بناء-برنامج-المقاييس/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyniad-i-Ran-11-Adeiladu-Rhaglen-Fetrigau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyniad-i-Ran-11-Adeiladu-Rhaglen-Fetrigau/index.md",
             "en-001": "locales/en-001/topics/building-a-metrics-program/index.md",
             "en-gb": "locales/en-gb/topics/building-a-metrics-program/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/building-a-metrics-program/index.md",
@@ -1274,6 +1502,9 @@
           "slug": "designing-a-service-metrics-dashboard",
           "path": "locales/en-001/topics/designing-a-service-metrics-dashboard/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/تصميم-لوحة-مقاييس-الخدمة/index.md",
+            "cy-001": "locales/cy-001/pynciau/Dylunio-dangosfwrdd-metrigau-gwasanaeth/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Dylunio-dangosfwrdd-metrigau-gwasanaeth/index.md",
             "en-001": "locales/en-001/topics/designing-a-service-metrics-dashboard/index.md",
             "en-gb": "locales/en-gb/topics/designing-a-service-metrics-dashboard/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/designing-a-service-metrics-dashboard/index.md",
@@ -1290,6 +1521,9 @@
           "slug": "tooling-landscape",
           "path": "locales/en-001/topics/tooling-landscape/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مشهد-الأدوات/index.md",
+            "cy-001": "locales/cy-001/pynciau/Tirwedd-offer/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Tirwedd-offer/index.md",
             "en-001": "locales/en-001/topics/tooling-landscape/index.md",
             "en-gb": "locales/en-gb/topics/tooling-landscape/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/tooling-landscape/index.md",
@@ -1306,6 +1540,9 @@
           "slug": "rolling-out-metrics-without-breeding-fear",
           "path": "locales/en-001/topics/rolling-out-metrics-without-breeding-fear/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/إطلاق-المقاييس-دون-زرع-الخوف/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyflwyno-metrigau-heb-fagu-ofn/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyflwyno-metrigau-heb-fagu-ofn/index.md",
             "en-001": "locales/en-001/topics/rolling-out-metrics-without-breeding-fear/index.md",
             "en-gb": "locales/en-gb/topics/rolling-out-metrics-without-breeding-fear/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/rolling-out-metrics-without-breeding-fear/index.md",
@@ -1322,6 +1559,9 @@
           "slug": "maturity-model-for-metrics-programs",
           "path": "locales/en-001/topics/maturity-model-for-metrics-programs/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/نموذج-النضج-لبرامج-المقاييس/index.md",
+            "cy-001": "locales/cy-001/pynciau/Model-aeddfedrwydd-ar-gyfer-rhaglenni-metrigau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Model-aeddfedrwydd-ar-gyfer-rhaglenni-metrigau/index.md",
             "en-001": "locales/en-001/topics/maturity-model-for-metrics-programs/index.md",
             "en-gb": "locales/en-gb/topics/maturity-model-for-metrics-programs/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/maturity-model-for-metrics-programs/index.md",
@@ -1338,6 +1578,9 @@
           "slug": "incremental-adoption-roadmap",
           "path": "locales/en-001/topics/incremental-adoption-roadmap/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/خارطة-طريق-للتبنّي-التدريجي/index.md",
+            "cy-001": "locales/cy-001/pynciau/Map-ffordd-mabwysiadu-cynyddol/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Map-ffordd-mabwysiadu-cynyddol/index.md",
             "en-001": "locales/en-001/topics/incremental-adoption-roadmap/index.md",
             "en-gb": "locales/en-gb/topics/incremental-adoption-roadmap/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/incremental-adoption-roadmap/index.md",
@@ -1359,6 +1602,9 @@
           "slug": "appendices",
           "path": "locales/en-001/topics/appendices/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/الملاحق/index.md",
+            "cy-001": "locales/cy-001/pynciau/Atodiadau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Atodiadau/index.md",
             "en-001": "locales/en-001/topics/appendices/index.md",
             "en-gb": "locales/en-gb/topics/appendices/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/appendices/index.md",
@@ -1375,6 +1621,9 @@
           "slug": "glossary",
           "path": "locales/en-001/topics/glossary/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/المسرد/index.md",
+            "cy-001": "locales/cy-001/pynciau/Geirfa/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Geirfa/index.md",
             "en-001": "locales/en-001/topics/glossary/index.md",
             "en-gb": "locales/en-gb/topics/glossary/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/glossary/index.md",
@@ -1391,6 +1640,9 @@
           "slug": "metric-definitions-and-formulas-reference",
           "path": "locales/en-001/topics/metric-definitions-and-formulas-reference/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/مرجع-تعريفات-المقاييس-وصيغها/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyfeirnod-diffiniadau-a-fformiwlau-metrigau/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyfeirnod-diffiniadau-a-fformiwlau-metrigau/index.md",
             "en-001": "locales/en-001/topics/metric-definitions-and-formulas-reference/index.md",
             "en-gb": "locales/en-gb/topics/metric-definitions-and-formulas-reference/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/metric-definitions-and-formulas-reference/index.md",
@@ -1407,6 +1659,9 @@
           "slug": "checklists",
           "path": "locales/en-001/topics/checklists/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/قوائم-التحقق/index.md",
+            "cy-001": "locales/cy-001/pynciau/Rhestri-gwirio/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Rhestri-gwirio/index.md",
             "en-001": "locales/en-001/topics/checklists/index.md",
             "en-gb": "locales/en-gb/topics/checklists/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/checklists/index.md",
@@ -1423,6 +1678,9 @@
           "slug": "templates",
           "path": "locales/en-001/topics/templates/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/القوالب/index.md",
+            "cy-001": "locales/cy-001/pynciau/Templedi/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Templedi/index.md",
             "en-001": "locales/en-001/topics/templates/index.md",
             "en-gb": "locales/en-gb/topics/templates/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/templates/index.md",
@@ -1439,6 +1697,9 @@
           "slug": "maturity-self-assessment",
           "path": "locales/en-001/topics/maturity-self-assessment/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/التقييم-الذاتي-للنضج/index.md",
+            "cy-001": "locales/cy-001/pynciau/Hunanasesiad-aeddfedrwydd/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Hunanasesiad-aeddfedrwydd/index.md",
             "en-001": "locales/en-001/topics/maturity-self-assessment/index.md",
             "en-gb": "locales/en-gb/topics/maturity-self-assessment/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/maturity-self-assessment/index.md",
@@ -1455,6 +1716,9 @@
           "slug": "references-and-further-reading",
           "path": "locales/en-001/topics/references-and-further-reading/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/المراجع-والقراءة-الإضافية/index.md",
+            "cy-001": "locales/cy-001/pynciau/Cyfeiriadau-a-darllen-pellach/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Cyfeiriadau-a-darllen-pellach/index.md",
             "en-001": "locales/en-001/topics/references-and-further-reading/index.md",
             "en-gb": "locales/en-gb/topics/references-and-further-reading/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/references-and-further-reading/index.md",
@@ -1471,6 +1735,9 @@
           "slug": "index",
           "path": "locales/en-001/topics/index/index.md",
           "locales": {
+            "ar-001": "locales/ar-001/المواضيع/الفهرس/index.md",
+            "cy-001": "locales/cy-001/pynciau/Mynegai/index.md",
+            "cy-gb": "locales/cy-gb/pynciau/Mynegai/index.md",
             "en-001": "locales/en-001/topics/index/index.md",
             "en-gb": "locales/en-gb/topics/index/index.md",
             "en-gb-oxendict": "locales/en-gb-oxendict/topics/index/index.md",
