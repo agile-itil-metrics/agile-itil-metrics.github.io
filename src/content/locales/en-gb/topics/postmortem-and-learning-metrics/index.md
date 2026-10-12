@@ -183,7 +183,7 @@ The cost of this practice is mostly time. Authors spend hours on each review and
 
 The return comes from causes that stop recurring and from incidents that are shorter because the team has seen something like them. Fewer repeat incidents release engineering and operations capacity, reduce escalations, and lower the cost of disruption to customers. A shared library of reviews shortens the learning curve of new staff and lowers the dependence on a few experienced people. Do not quote a percentage from another organisation. Measure your own baseline for cause recurrence, open action age, and repeat contact before you start, and compare after two or three quarters.
 
-The honest limit is that learning is hard to attribute: a fall in recurrence may come from a better review, an unrelated architecture change, or luck. For wider treatment see topic 11.6, Return on investment and business case.
+The honest limit is that learning is hard to attribute: a fall in recurrence may come from a better review, an unrelated architecture change, or luck. For wider treatment see topic 7.7, Return on investment and business case.
 
 ## Anti-patterns and pitfalls
 
