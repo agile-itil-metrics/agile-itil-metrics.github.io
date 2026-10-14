@@ -5,6 +5,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "تتبع مقاييس الرشاقة التدفق والتعلّم والبرمجيات العاملة، بينما يقيس ITIL مستويات الخدمة والحوادث والتغييرات والأصول والقيمة المشتركة مع العملاء. يجمع هذا الكتاب بينهما في مجموعة صغيرة متوازنة وإنسانية من المقاييس، مع متجه التلاعب والضابط الواقي لكل مقياس. تصف المقاييس هنا الفرق والخدمات والأنظمة، ولا تُستخدم أبدًا لترتيب الأفراد.",
   "translations": "الترجمات: "
  },
+ "bn-001": {
+  "tagline": "এজাইল আইটি সেবা দলের কাজ পরিমাপের একটি ব্যবহারিক নির্দেশিকা।",
+  "intro": "এজাইল পরিমাপ অনুসরণ করে প্রবাহ, শেখা ও কার্যকর সফটওয়্যার; ITIL মাপে সেবার স্তর, ইনসিডেন্ট, পরিবর্তন, সম্পদ এবং গ্রাহকদের সঙ্গে যৌথভাবে সৃষ্ট মূল্য। এই বই দুটিকে মিলিয়ে পরিমাপের একটি ছোট, সুষম, মানবিক সেট দেয়, প্রতিটি মেট্রিকের কারসাজির উপায় ও রক্ষাবেষ্টনীসহ। এখানকার মেট্রিক দল, সেবা ও ব্যবস্থা বর্ণনা করে, এবং মানুষকে ক্রম দিতে কখনও ব্যবহৃত হয় না।",
+  "translations": "অনুবাদ: "
+ },
  "cy-001": {
   "tagline": "Llawlyfr ymarferol ar gyfer mesur gwaith timau gwasanaethau TG ystwyth.",
   "intro": "Mae mesurau ystwyth yn dilyn llif, dysgu a meddalwedd sy'n gweithio; mae ITIL yn mesur lefelau gwasanaeth, digwyddiadau, newidiadau, asedau a gwerth a gyd-grëir gyda chwsmeriaid. Mae'r llyfr hwn yn eu huno yn un set fach, gytbwys a charedig o fesurau, gyda'r fector chwarae'r system a'r canllaw amddiffynnol ar gyfer pob metrig. Mae'r metrigau yma'n disgrifio timau, gwasanaethau a systemau, ac ni chânt byth eu defnyddio i restru pobl.",
@@ -69,6 +74,7 @@ export const HERO: Record<string, Record<string, string>> = {
 
 export const ENDONYMS: Record<string, string> = {
  "ar-001": "العربية",
+ "bn-001": "বাংলা",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Y Deyrnas Unedig)",
  "en-001": "English",
