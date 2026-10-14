@@ -1,0 +1,29 @@
+# Introducción a la Parte 10: Métricas en la era de la IA
+
+**La IA hace barata y fluida la producción, lo que rompe el viejo vínculo entre lo que se produce y lo que vale la pena tener, así que mide lo que sobrevive, lo que ayuda y lo que permanece bajo control.**
+
+Toda métrica de este libro descansa en un supuesto: que producir aquello que se cuenta requiere un esfuerzo real. Un ticket resuelto reflejaba trabajo. Un artículo escrito reflejaba conocimiento. Un cambio integrado reflejaba cuidado. La IA generativa debilita ese supuesto. Puede redactar una respuesta, un artículo, una prueba o un bloque de código en segundos, y lo que redacta es a menudo verosímil y a veces erróneo. Los recuentos suben. Si las personas atendidas están mejor es una pregunta aparte que los recuentos no pueden responder.
+
+La IA también añade cosas nuevas que medir. Los asistentes conversacionales y los agentes que actúan en nombre de un usuario necesitan medidas de resolución, de traspaso y del daño de las acciones erróneas. La gobernanza de los modelos, de los prompts y de los proveedores necesita medidas de cobertura, de control y de manejo de incidentes. Y las personas que trabajan junto a estas herramientas necesitan que se protejan sus habilidades, su comprensión y su ritmo sostenible. Las medidas de esta parte se nutren del resto del libro, porque las barreras de protección son las mismas: empareja cada métrica con una comprobación de lo que podría ocultar, compara con una línea base, muestrea con personas y mantén los datos sobre las personas fuera de la evaluación (véase el tema 1.2, Ley de Goodhart y psicología de las métricas).
+
+Las formas de trabajo ágiles y de ITIL ofrecen una postura sensata ante todo esto. Trata cada uso de la IA como un pequeño experimento. Declara el beneficio esperado, pruébalo con personas dispuestas, compara con un trabajo similar hecho sin ella y decide con la evidencia. Mantén continuamente implicadas a las partes interesadas, porque son las primeras en notar cuándo se degrada la señal. Apunta a un ritmo sostenible, para que el tiempo ahorrado sea una elección sobre calidad y aprendizaje, no un aumento automático de la demanda. Y recuerda el objetivo de construir en torno a individuos motivados: la IA debe aliviar el trabajo tedioso y respetar el criterio de las personas, y no debe convertirse en una forma de vigilarlas.
+
+Los hechos sobre las herramientas, los productos y las reglas de IA cambian deprisa. Las afirmaciones de esta parte sobre reglamentos, normas y herramientas concretos están fechadas a octubre de 2026, y quien lea debe volver a comprobarlas. Los principios de medición son más duraderos que cualquiera de las tecnologías que describen.
+
+## Temas de esta parte
+
+- **10.1 La IA en la medición de la gestión de servicios**: dónde entra la IA en el trabajo, líneas base antes de la adopción, comparaciones, tiempo hasta un resultado comprobado y costo total.
+- **10.2 Medición del trabajo asistido por IA**: retención, retrabajo, carga de revisión, defectos que escapan, comprensión y habilidades.
+- **10.3 Métricas de agentes de IA y chatbots**: resolución verificada, contactos de retorno, traspasos, tiempo hasta una persona, exactitud de las respuestas y reversión de las acciones del agente.
+- **10.4 Inflación de métricas y dilución de la calidad**: cómo se inflan el volumen y la rapidez, muestreo de utilidad, carga de verificación y ruptura de los ciclos de retroalimentación.
+- **10.5 Métricas de gobernanza y riesgo de la IA**: el registro de usos, las clases de riesgo, el control de cambios de modelos y prompts, la evaluación, la supervisión y los incidentes.
+
+## Cómo se relacionan estos temas
+
+El tema de fundamentos (véase el tema 10.1, La IA en la medición de la gestión de servicios) fija el método: línea base, comparación, muestreo y costo total. Se aplica a todos los demás temas de la parte. El tema del trabajo asistido (véase el tema 10.2, Medición del trabajo asistido por IA) usa ese método con el trabajo que hacen las personas con la IA al lado, y mira qué sobrevive y qué ocurre con la comprensión. El tema de chatbots y agentes (véase el tema 10.3, Métricas de agentes de IA y chatbots) lo aplica a sistemas que se dirigen directamente a los usuarios o actúan en su nombre, donde el costo de una respuesta o acción errónea recae en otra persona.
+
+La inflación y la dilución (véase el tema 10.4, Inflación de métricas y dilución de la calidad) son el compañero de advertencia de todos ellos. Explica por qué suben los números fáciles y con qué emparejarlos, y se conecta con las comprobaciones de utilidad de los demás temas. La gobernanza (véase el tema 10.5, Métricas de gobernanza y riesgo de la IA) es la estructura que sostiene el resto en su sitio: aporta el registro que te dice qué medir, las clases de riesgo que te dicen con qué profundidad, el control de cambios que impide que el comportamiento derive sin ser visto y el proceso de incidentes para cuando algo sale mal.
+
+De aquí se derivan varios emparejamientos de barreras de protección. Una medida de rapidez debe leerse con el tiempo hasta un resultado comprobado y la carga de verificación. Una cifra de contención o de desvío debe leerse con la resolución verificada y los contactos de retorno. Un recuento de usos registrados debe leerse frente al descubrimiento independiente. Una cifra de adopción de una herramienta de IA debe tratarse como descriptiva, y los resultados frente a la comparación cargan con el peso.
+
+La parte se vincula con las anteriores: las medidas de revisión y de flujo de la Parte 2, las medidas de conocimiento y de autoservicio de la Parte 3, las medidas de seguridad y de riesgos de la Parte 8 y las medidas de personas de la Parte 9. Conduce a la última parte de contenido, que trata de construir un programa de métricas, porque un programa que introduce la medición sin cuidado sufrirá las mismas distorsiones que describe esta parte.

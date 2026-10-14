@@ -1,0 +1,27 @@
+# Introducción a la Parte 1: Fundamentos de la medición
+
+**La medición ayuda a un equipo que construye y opera servicios solo cuando se elige con un propósito, tiene un responsable, se basa en datos fiables, se interpreta con cuidado y se impide que doblegue el trabajo que describe.**
+
+Tanto los equipos ágiles como los de gestión de servicios de TI (ITSM) producen un flujo constante de números: tickets cerrados, historias completadas, despliegues realizados, incidentes resueltos. Tener números es fácil. Tener números que ayuden a decidir algo es más difícil, y esa brecha es donde tropiezan la mayoría de los programas de métricas. Esta parte ofrece la base común en la que se apoyan todas las partes posteriores, antes de definir ninguna métrica concreta.
+
+La base abarca seis preguntas, una tras otra. ¿Por qué medir, y qué cuesta no medir nada o medir lo equivocado? ¿Cómo se convierte una medida en un objetivo y deja entonces de decir la verdad? ¿Qué vale la pena medir en primer lugar? ¿Quién define, posee y retira cada métrica? ¿De dónde vienen los datos y hasta qué punto se puede confiar en ellos? ¿Cómo deben leerse los números, dado que los datos de tickets y de flujo son asimétricos y a menudo escasos? Un último tema muestra cómo los marcos establecidos ayudan a organizar las respuestas.
+
+Lee esta parte primero si eres nuevo en el libro, y vuelve a ella siempre que una métrica posterior parezca comportarse mal. La mayoría de los fallos de las métricas en las partes siguientes se remontan a una de las ideas presentadas aquí. Las métricas de este libro describen equipos, servicios y sistemas. Nunca se usan para clasificar a las personas.
+
+## Temas de esta parte
+
+- **1.1 Por qué medir ITIL ágil**: por qué los equipos que construyen y operan servicios necesitan números, qué aporta cada uno de los enfoques ágil e ITIL a la medición, y el costo de no medir nada o de medir lo equivocado.
+- **1.2 Ley de Goodhart y psicología de las métricas**: la barrera de protección que sostiene todos los demás temas, con cómo una medida se convierte en objetivo, cómo ocurre la manipulación en los datos de tickets y de entrega, y los hábitos que la previenen.
+- **1.3 Resultados sobre producción: elegir qué medir**: valor, resultados, producción y actividad, indicadores adelantados y rezagados, y la cocreación de valor de ITIL como prueba de una buena métrica.
+- **1.4 Gobernanza y propiedad de las métricas**: responsables de las métricas, definiciones, cadencia de revisión, retirada y quién puede ver qué.
+- **1.5 Fuentes de datos e instrumentación**: herramientas ITSM, gestores de incidencias, control de versiones, canalizaciones de integración y entrega continuas, monitorización, la base de datos de gestión de la configuración (CMDB) y las encuestas como fuentes, con atención a la calidad de los datos, las marcas de tiempo y los modelos de estado.
+- **1.6 Alfabetización estadística para métricas de servicio**: percentiles en lugar de promedios, distribuciones asimétricas, muestras pequeñas, gráficos de control e incertidumbre honesta para los datos de tickets y de flujo.
+- **1.7 Marcos de medición**: Goal-Question-Metric, objetivos y resultados clave (OKR), el cuadro de mando integral, los factores críticos de éxito y los indicadores clave de desempeño, y cómo se combinan con las prácticas de ITIL.
+
+## Cómo se relacionan estos temas
+
+Los temas forman un bucle y no una escalera. El tema 1.1 (véase el tema 1.1, Por qué medir ITIL ágil) aporta el propósito, y el tema 1.3 (véase el tema 1.3, Resultados sobre producción: elegir qué medir) convierte ese propósito en una elección de qué medir. Una métrica elegida por su enfoque en los resultados sigue necesitando una definición, un responsable y una fecha de revisión, que es el trabajo del tema 1.4 (véase el tema 1.4, Gobernanza y propiedad de las métricas). Marcos como Goal-Question-Metric, tratado en el tema 1.7 (véase el tema 1.7, Marcos de medición), ofrecen una manera repetible de pasar de un objetivo a un conjunto pequeño de medidas, así que se combinan de forma natural con los temas 1.3 y 1.4.
+
+Los datos y la estadística forman una segunda pareja. Una métrica bien elegida vale tanto como los registros que la respaldan, y el tema 1.5 (véase el tema 1.5, Fuentes de datos e instrumentación) explica cómo las marcas de tiempo, los modelos de estado y la configuración de las herramientas determinan lo que un número puede significar. El tema 1.6 (véase el tema 1.6, Alfabetización estadística para métricas de servicio) trata después cómo leer ese número con honestidad, mediante percentiles, gráficos de control y declaraciones claras de incertidumbre. Los datos débiles anulan una buena estadística, y una estadística débil desperdicia buenos datos, así que lo mejor es leer ambos temas juntos.
+
+El tema 1.2 (véase el tema 1.2, Ley de Goodhart y psicología de las métricas) atraviesa todos los demás como barrera de protección. Cualquier métrica elegida según el tema 1.3, gobernada según el tema 1.4 y extraída de las fuentes del tema 1.5 puede seguir manipulándose una vez que se juzga a las personas por ella. La gobernanza limita quién ve qué y cómo se usa una métrica. Las elecciones centradas en los resultados hacen que la manipulación sea menos rentable. Las medidas emparejadas, presentadas aquí y desarrolladas a lo largo del libro, permiten que un número verifique a otro. Por eso cada métrica de las partes posteriores lleva un vector de manipulación y una barrera de protección, y esta parte explica el motivo.
