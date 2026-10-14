@@ -40,6 +40,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Las medidas ágiles siguen el flujo, el aprendizaje y el software que funciona; ITIL mide los niveles de servicio, los incidentes, los cambios, los activos y el valor creado junto con los clientes. Este libro une ambos en un conjunto pequeño, equilibrado y humano de medidas, con el vector de manipulación y la barrera de protección de cada métrica. Las métricas de aquí describen equipos, servicios y sistemas, y nunca se usan para clasificar a las personas.",
   "translations": "Traducciones: "
  },
+ "fr-001": {
+  "tagline": "Un manuel pratique pour mesurer le travail des équipes agiles de services informatiques.",
+  "intro": "Les mesures agiles suivent le flux, l'apprentissage et le logiciel qui fonctionne ; ITIL mesure les niveaux de service, les incidents, les changements, les actifs et la valeur créée avec les clients. Ce livre unit les deux en un petit ensemble équilibré et humain de mesures, avec le vecteur de détournement et le garde-fou de chaque métrique. Les métriques d'ici décrivent des équipes, des services et des systèmes, et ne servent jamais à classer des personnes.",
+  "translations": "Traductions : "
+ },
  "hi-001": {
   "tagline": "एजाइल आईटी सेवा टीमों के काम को मापने की एक व्यावहारिक पुस्तिका।",
   "intro": "एजाइल माप प्रवाह, सीखने और कार्यशील सॉफ़्टवेयर का अनुसरण करते हैं; ITIL सेवा स्तर, घटनाओं, परिवर्तनों, परिसंपत्तियों और ग्राहकों के साथ मिलकर रचे गए मूल्य को मापता है। यह पुस्तक दोनों को हर मीट्रिक के लिए गेमिंग वेक्टर और गार्डरेल के साथ मापों के एक छोटे, संतुलित और मानवीय समूह में जोड़ती है। यहाँ मीट्रिक टीमों, सेवाओं और प्रणालियों का वर्णन करते हैं, और लोगों की रैंकिंग के लिए कभी उपयोग नहीं किए जाते।",
@@ -71,6 +76,7 @@ export const ENDONYMS: Record<string, string> = {
  "en-gb-oxendict": "English (United Kingdom, Oxford spelling)",
  "en-us": "English (United States)",
  "es-001": "Español",
+ "fr-001": "Français",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "zh-001": "中文",
