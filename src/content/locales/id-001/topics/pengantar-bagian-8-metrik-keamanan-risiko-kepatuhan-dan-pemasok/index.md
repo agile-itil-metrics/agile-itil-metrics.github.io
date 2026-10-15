@@ -1,0 +1,27 @@
+# Pengantar Bagian 8: Metrik Keamanan, Risiko, Kepatuhan, dan Pemasok
+
+**Kepercayaan pada sebuah layanan bertumpu pada cara ia menangani ancaman, risiko, kewajiban, dan pihak ketiga di baliknya, dan bukti terbaik kepercayaan itu dihasilkan oleh pekerjaan itu sendiri dan dibagikan secara terbuka.**
+
+Sebuah layanan bisa cepat, murah, dan disukai, namun tetap mengecewakan orang yang bergantung padanya, karena kelemahan yang belum ditambal, risiko yang belum diperiksa, kewajiban yang tak dilacak siapa pun, atau pemasok yang berhenti menyampaikan. Ukuran dalam bagian ini menggambarkan kondisi yang melindungi dari kegagalan itu: berapa lama kelemahan tetap terbuka, apakah kendali berfungsi, apakah bukti ada ketika seseorang memintanya, dan apakah Anda tahu pada apa Anda bergantung dan dapat meninggalkannya.
+
+Praktik agile dan ITIL sama-sama menganggap kekhawatiran ini serius, dari sudut berbeda. ITIL menyumbang manajemen keamanan informasi, manajemen risiko, manajemen pemasok, dan tata kelola, dengan penekanannya pada kebijakan, kepemilikan, dan catatan. Agile dan DevOps menyumbang gagasan bahwa keamanan dan kendali termasuk di dalam pengiriman berkelanjutan: perubahan kecil, umpan balik cepat, pemeriksaan otomatis, dan tanggung jawab bersama antara pengembangan, keamanan, operasi, dan penjaminan. Organisasi paling efektif memadukan keduanya, sehingga kendali dibangun ke dalam pipeline, bukti menjadi hasil sampingan pengiriman, dan auditor, regulator, serta pemasok menjadi mitra dalam percakapan berkelanjutan alih-alih lawan sesekali.
+
+Ukuran ini juga membawa taruhan tertinggi untuk distorsi. Target untuk temuan, risiko merah, atau pelanggaran mengajari orang untuk memalingkan muka, menilai ulang, atau menyembunyikan. Ukuran yang menyentuh perilaku manusia, seperti laporan aktivitas mencurigakan, dapat tergelincir menjadi pengawasan atau menyalahkan. Setiap metrik dalam bagian ini karena itu datang dengan cara ia dimanipulasi dan pagar pembatas, dan bagian ini memperlakukan pelaporan yang aman dan pembelajaran tanpa menyalahkan sebagai kendali tersendiri. Tak satu pun ukuran memeringkat individu. Mereka menggambarkan sistem, layanan, dan hubungan (lihat topik 1.2, Hukum Goodhart dan psikologi metrik).
+
+## Topik dalam bagian ini
+
+- **8.1 Metrik insiden keamanan dan kerentanan**: jendela paparan, kepatuhan penambalan, cakupan pemindaian, waktu menahan, pengecualian, dan budaya pelaporan yang menjaga sinyal tetap mengalir.
+- **8.2 Metrik risiko dan kendali**: register risiko yang pendek dan dimiliki, pengujian kendali, indikator risiko utama, dan persetujuan perubahan berbasis risiko.
+- **8.3 Metrik kepatuhan dan audit**: cakupan kewajiban, otomatisasi bukti, penutupan dan pengulangan temuan, dan bekerja sama dengan auditor.
+- **8.4 Metrik pemasok dan kontrak**: kinerja pemasok terhadap pengalaman, konsentrasi, uji tuntas, tinjauan bersama, dan rencana keluar yang diuji.
+- **8.5 Pelaporan teregulasi dan pemerintah**: kewajiban pelaporan sebagai masukan desain, laporan yang dapat ditelusuri, definisi yang direkonsiliasi, dan informasi publik yang dapat dipakai.
+
+## Bagaimana topik-topik ini saling terkait
+
+Ukuran keamanan (lihat topik 8.1, Metrik insiden keamanan dan kerentanan) menggambarkan ancaman dan kelemahan secara konkret, dan menyediakan sebagian indikator risiko utama terkuat untuk register risiko. Ukuran risiko dan kendali (lihat topik 8.2, Metrik risiko dan kendali) menempatkan indikator itu dalam konteks, memutuskan kendali mana yang penting, dan menguji bahwa kendali itu berfungsi. Ukuran kepatuhan dan audit (lihat topik 8.3, Metrik kepatuhan dan audit) mengubah kendali dan pengujian yang sama menjadi bukti bagi pihak luar, dan menunjukkan seberapa banyak bukti itu dihasilkan sendiri oleh pekerjaan.
+
+Ukuran pemasok (lihat topik 8.4, Metrik pemasok dan kontrak) memperluas masing-masing ini melintasi batas organisasi. Kerentanan, risiko, dan postur kepatuhan pemasok menjadi milik Anda, dan kontrak adalah salah satu kendali. Topik pelaporan (lihat topik 8.5, Pelaporan teregulasi dan pemerintah) menutup bagian ini dengan bertanya apa yang harus dikatakan kepada siapa, dan bagaimana mengatakannya secara akurat tanpa membiarkan pandangan pelaporan mendistorsi pekerjaan yang digambarkannya.
+
+Beberapa pasangan pagar pembatas menyusul. Jendela paparan sebaiknya dibaca bersama cakupan pemindaian, agar angka yang bersih bukan sekadar pemindaian yang sempit. Tingkat efektivitas kendali sebaiknya dibaca bersama tindak lanjut kegagalan, karena tingkat sempurna dapat datang dari pengujian yang lemah. Hitungan temuan audit sebaiknya dibaca bersama tingkat pengulangan dan verifikasi penutupan. Tingkat layanan pemasok sebaiknya dibaca bersama pengalaman pengguna (lihat topik 6.2, Perjanjian tingkat pengalaman). Angka statutori sebaiknya dibaca bersama ukuran pendampingnya dan rekonsiliasi dengan definisi internal.
+
+Bagian ini bersandar pada bagian sebelumnya. Catatan aset, konfigurasi, dan biaya (lihat topik 7.1, Metrik manajemen aset TI, dan topik 7.4, Metrik kualitas konfigurasi dan CMDB) adalah yang memungkinkan pemindaian, pemetaan dependensi, dan analisis pemasok. Ukuran postmortem dan perubahan dari Bagian 4 menyediakan lingkaran pembelajaran yang menjaga pekerjaan ini tetap jujur. Bagian 9 beralih ke orang di balik semuanya: kesehatan mereka, kolaborasi mereka, dan kebiasaan perbaikan yang membuat seluruh sistem lebih baik dari waktu ke waktu.
