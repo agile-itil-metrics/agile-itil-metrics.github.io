@@ -1,0 +1,30 @@
+# Pengantar Bagian 9: Metrik Manusia, Tim, dan Perbaikan
+
+**Setiap layanan bergantung pada orang yang termotivasi, didukung, dan bebas memperbaiki pekerjaan mereka sendiri, jadi ukuran dalam bagian ini menggambarkan kondisi dan kebiasaan, dan tak satu pun merupakan cara untuk memeringkat atau mengawasi siapa pun.**
+
+Delapan bagian pertama buku ini menggambarkan layanan, alur, dan catatan. Bagian ini beralih ke orang yang membangun dan menjalankannya. Di balik setiap metrik berdiri tim yang harus hidup dengannya, dan mutu pekerjaan tak dapat naik melampaui kondisi tempat tim bekerja. Prinsip Manifesto Agile mengatakannya dengan lugas: bangun proyek di sekitar individu yang termotivasi, beri mereka lingkungan dan dukungan yang mereka butuhkan, percayai mereka menyelesaikan pekerjaan, dan biarkan mereka mempertahankan kecepatan konstan tanpa batas. Prinsip itu juga mengatakan bahwa tim sebaiknya merenung secara teratur tentang cara menjadi lebih efektif. Ukuran dalam bagian ini adalah cara pernyataan-pernyataan itu menjadi dapat diperiksa.
+
+Manajemen layanan TI (ITSM), sebagaimana dikodifikasi ITIL, mendekati wilayah yang sama lewat praktik manajemen tenaga kerja dan talenta, manajemen pengetahuan, perubahan organisasi, dan perbaikan berkelanjutan. Kedua tradisi sepakat pada hal-hal esensial: orang butuh tujuan yang jelas, rasa aman untuk bersuara, waktu untuk belajar, dan suara dalam cara pekerjaan diatur. Di mana mereka berbeda, perbedaannya kebanyakan soal kosakata.
+
+Bagian ini memikul beban etis terberat dalam buku. Ukuran yang menyentuh manusia dapat tergelincir menjadi pengawasan, menciptakan ketakutan, dan menghasilkan jawaban palsu. Satu penggunaan keliru, seperti memeringkat individu menurut skor keterlibatan atau melacak jam daring, dapat merusak kepercayaan bertahun-tahun dan membuat setiap ukuran berikutnya tak berguna. Karena itu setiap topik di sini menyatakan aturan privasinya, mengagregasi pada tingkat tim, menetapkan ukuran kelompok minimum, dan melarang pemakaian data dalam evaluasi individu. Setiap metrik tetap datang dengan cara ia dimanipulasi dan pagar pembatas, karena bahkan ukuran tentang manusia yang bermaksud baik terdistorsi ketika menjadi target (lihat topik 1.2, Hukum Goodhart dan psikologi metrik).
+
+## Topik dalam bagian ini
+
+- **9.1 Kesehatan tim dan pengalaman pengembang**: lingkaran umpan balik, beban kognitif, alur, pemeriksaan kesehatan milik tim, dan penyingkiran hambatan.
+- **9.2 Metrik kepuasan dan kesejahteraan**: kecepatan yang berkelanjutan, rasa aman psikologis, tekanan beban kerja, dan cara bertanya tanpa mengorek atau mendiagnosis.
+- **9.3 Metrik kolaborasi dan serah terima**: serah terima, penantian, dependensi, kolaborasi waktu nyata, pengetahuan bersama, dan waktu respons pemangku kepentingan.
+- **9.4 Metrik keterampilan dan pembelajaran**: waktu belajar terlindungi, pelatihan silang, orientasi, komunitas praktik, dan pelajaran yang dibagikan antar-tim.
+- **9.5 Metrik perbaikan berkelanjutan**: tindak lanjut tindakan, pemeriksaan efek, isu berulang, dan kapasitas untuk perbaikan.
+- **9.6 Metrik perubahan organisasi dan adopsi**: kejelasan tujuan, hasil terhadap pembanding, beban perubahan, penerimaan sukarela, dan perbedaan antara praktik dan ritual.
+
+## Bagaimana topik-topik ini saling terkait
+
+Topik 9.1 (lihat topik 9.1, Kesehatan tim dan pengalaman pengembang) menggambarkan kondisi harian: secepat apa umpan balik tiba, seberapa berat beban pada pikiran, dan apakah orang dapat berkonsentrasi. Ia memperkenalkan aturan yang melintasi seluruh bagian, yaitu bahwa tim memiliki pemeriksaan kesehatannya sendiri dan membaca hasilnya lebih dulu. Topik 9.2 (lihat topik 9.2, Metrik kepuasan dan kesejahteraan) menuju pertanyaan lebih dalam tentang apakah kecepatan dapat dipertahankan dan apakah orang merasa aman untuk mengatakannya, dan memberi aturan privasi paling ketat dalam buku.
+
+Topik 9.3 dan 9.4 melihat bagaimana pekerjaan dan pengetahuan berpindah di antara orang. Serah terima dan dependensi (lihat topik 9.3, Metrik kolaborasi dan serah terima) menunjukkan di mana pekerjaan menunggu. Keterampilan dan pembelajaran (lihat topik 9.4, Metrik keterampilan dan pembelajaran) menunjukkan apakah pengetahuan tersebar cukup luas sehingga penantian dan risiko turun. Keduanya bergantung pada kondisi dari dua topik pertama: tim tanpa waktu fokus atau tanpa rasa aman untuk meminta bantuan tidak akan membagikan apa yang diketahuinya.
+
+Topik 9.5 dan 9.6 menutup bagian ini dengan perbaikan dan perubahan. Perbaikan berkelanjutan (lihat topik 9.5, Metrik perbaikan berkelanjutan) bertanya apakah gagasan menjadi perubahan dan apakah perubahan itu diperiksa. Perubahan organisasi (lihat topik 9.6, Metrik perubahan organisasi dan adopsi) bertanya apakah cara kerja baru telah mengakar karena alasan yang dimaksudkan atau hanya menyebar sebagai ritual. Keduanya adalah ujian atas kondisi yang diuraikan sebelumnya: perbaikan butuh waktu terlindungi dan rasa aman, dan perubahan yang mengabaikan kecepatan dan orangnya akan gagal.
+
+Beberapa pasangan pagar pembatas menyusul. Skor kesehatan tim sebaiknya dibaca bersama daftar hambatan dan apa yang dilakukan tentangnya. Denyut kesejahteraan sebaiknya dibaca bersama fakta beban kerja tingkat tim, tidak pernah jam individu. Ukuran pembelajaran sebaiknya dibaca bersama bukti kemampuan yang dipakai, agar kehadiran tidak menggantikan keterampilan. Angka adopsi sebaiknya dibaca bersama hasil terhadap kelompok pembanding, agar bentuk tidak disalahartikan sebagai substansi.
+
+Bagian ini bersandar pada ukuran bagian sebelumnya: alur dan perencanaan (lihat topik 2.5, Metrik perkiraan dan perencanaan pengiriman), beban operasional (lihat topik 2.9, Pekerjaan operasional dan pekerjaan tak terencana), toil dan siaga (lihat topik 5.7, Metrik pekerjaan berulang dan siaga), dan pengalaman pengguna internal (lihat topik 6.4, Pengalaman pengguna dan karyawan). Ia mengarah ke dua bagian terakhir: AI mengubah makna banyak ukuran ini, dan program metrik sendiri adalah perubahan yang perlu diperkenalkan dengan kehati-hatian yang diuraikan bagian ini.

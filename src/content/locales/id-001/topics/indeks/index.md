@@ -1,0 +1,858 @@
+# Indeks
+
+Konsep, kerangka, dan metrik, masing-masing dengan topik tempat muncul. Angka adalah nomor topik; judul ada di daftar isi README dan di [struktur](../../../../spec/structure.md). Untuk definisi singkat dengan topik asal, lihat topik 12.1, Glosarium.
+
+## Kerangka dan model
+
+- **Balanced scorecard**: 1.7, 11.1
+- **DevEx**: 9.1
+- **DORA**: 1.1, 1.3, 1.5, 2.0, 2.1, 2.2, 2.4, 2.7, 2.8, 3.3, 3.4, 3.7, dan lainnya
+- **FinOps**: 5.4, 7.0, 7.5, 7.6, 7.7
+- **Four Keys**: 2.8
+- **GQM**: 1.7
+- **ISO/IEC 20000**: 1.4
+- **ISO/IEC 27001**: 8.1, 8.3
+- **ITIL**: 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 2.0, 2.1, 2.2, 2.3, dan lainnya
+- **Kanban Guide**: 1.6, 2.1, 2.2, 2.5
+- **NIST**: 10.5
+- **OKR**: 1.0, 1.7, 6.5
+- **Pemetaan aliran nilai (Value stream mapping)**: 2.4
+- **Ramping (Lean)**: 2.4
+- **SPACE**: 1.1, 9.1
+- **Teori kendala (Theory of constraints)**: 2.4, 9.5
+- **Tujuan-Pertanyaan-Metrik (Goal-Question-Metric)**: 1.0, 1.7
+
+## Metrik
+
+Nama metrik sebagaimana tampak pada tabel definisi tiap topik. Entri lengkap ada di lampiran 12.2 (lihat topik 12.2, Rujukan definisi dan rumus metrik).
+
+- **Adopsi sukarela**: 11.3
+- **Adopsi swalayan (porsi portal-dahulu)**: 3.7
+- **Akurasi CI**: 7.4
+- **Akurasi estimasi biaya**: 7.7
+- **Akurasi estimasi manfaat**: 7.7
+- **Akurasi inventaris**: 7.1
+- **Akurasi jawaban**: 10.3
+- **Akurasi keluaran yang ditinjau**: 10.1
+- **Aliran masuk backlog terhadap penyelesaian**: 10.4
+- **Alokasi kapasitas**: 2.5
+- **Backlog dan usia permintaan**: 3.5
+- **Backlog layanan melewati target**: 2.6
+- **Beban penilaian**: 11.4
+- **Beban perubahan**: 9.6
+- **Beban tinjauan**: 10.2
+- **Beban verifikasi**: 10.4
+- **Bendera pergeseran metrik**: 10.4
+- **Biaya per layanan**: 7.5
+- **Biaya per tugas berbantuan AI**: 10.1
+- **Biaya perkakas per tim yang didukung**: 11.2
+- **Biaya shelfware**: 7.2
+- **Biaya unit**: 7.5
+- **Biaya unit cloud**: 7.6
+- **Bukti keputusan**: 11.4
+- **Bunga utang**: 4.6
+- **Cakupan alokasi**: 7.5, 7.6
+- **Cakupan CSF-ke-KPI**: 1.7
+- **Cakupan dan kemutakhiran perjanjian**: 5.1
+- **Cakupan dependensi**: 7.4
+- **Cakupan deteksi**: 5.5
+- **Cakupan dimensi**: 9.1
+- **Cakupan feature flag**: 4.5
+- **Cakupan garis dasar**: 1.1, 11.5
+- **Cakupan hasil**: 1.3
+- **Cakupan katalog**: 6.3
+- **Cakupan kendali perubahan**: 10.5
+- **Cakupan kepemilikan**: 1.4
+- **Cakupan keterlacakan**: 8.5
+- **Cakupan kewajiban**: 8.3
+- **Cakupan kewajiban pelaporan**: 8.5
+- **Cakupan komitmen**: 7.6
+- **Cakupan otomatisasi**: 3.7
+- **Cakupan pagar pembatas**: 1.2
+- **Cakupan pelaporan tingkat**: 1.6
+- **Cakupan pemakaian AI**: 10.1
+- **Cakupan pemilik**: 8.2
+- **Cakupan pemindaian**: 8.1
+- **Cakupan pemulihan teruji**: 5.6
+- **Cakupan penemuan**: 7.1
+- **Cakupan pengetahuan**: 9.3
+- **Cakupan pengujian kendali**: 8.2
+- **Cakupan pengukuran**: 5.3
+- **Cakupan penyempurnaan**: 2.6
+- **Cakupan perspektif**: 1.7
+- **Cakupan pertanyaan**: 11.1
+- **Cakupan piagam pemakaian**: 11.3
+- **Cakupan register kontrak**: 8.4
+- **Cakupan register pemakaian AI**: 10.5
+- **Cakupan responden**: 6.1
+- **Cakupan SBOM**: 7.2
+- **Cakupan sertifikasi yang relevan**: 9.4
+- **Cakupan SLO**: 5.2
+- **Cakupan solusi sementara**: 4.6
+- **Cakupan sumber**: 1.5, 11.2
+- **Cakupan tinjauan**: 4.2
+- **Cakupan tinjauan sumber terbuka**: 7.2
+- **Cakupan uji kinerja**: 5.4
+- **Campuran prioritas**: 3.2
+- **CES**: 6.1
+- **CSAT**: 6.1
+- **Cycle time**: 2.1, 2.2
+- **Cycle time tinjauan**: 2.7
+- **Dampak pelanggan**: 3.4
+- **Denyut aman-berbicara**: 4.2
+- **Distribusi level (porsi shift-left)**: 3.7
+- **Distribusi skor hasil kunci**: 1.7
+- **Downtime tak terencana**: 5.3
+- **Durasi insiden besar**: 3.4
+- **Efisiensi alur**: 2.2
+- **Efisiensi proses**: 2.4
+- **Frekuensi dan jarak gangguan**: 5.3
+- **Frekuensi deployment**: 2.8, 4.5
+- **Frekuensi rilis**: 4.5
+- **Galat perkiraan**: 5.4
+- **Hari sejak uji pemulihan sukses terakhir**: 5.6
+- **Hitungan aplikasi tak disahkan**: 7.2
+- **Hitungan flag basi**: 4.5
+- **Hitungan insiden besar**: 3.4
+- **Hitungan pull request basi**: 2.7
+- **Hitungan serah terima**: 9.3
+- **Insiden pemakaian individu**: 11.3
+- **Insiden tertaut pada kesalahan yang diketahui terbuka**: 4.6
+- **Jam dampak bisnis**: 6.5
+- **Jangkauan audiens (deskriptif)**: 11.1
+- **Jangkauan pembelajaran**: 4.2
+- **Jeda deployment-ke-rilis**: 4.5
+- **Jendela paparan**: 8.1
+- **Jumlah penugasan ulang**: 3.3
+- **Jumlah perubahan definisi**: 1.2
+- **Jumlah serah terima**: 2.4
+- **Jurang pengalaman**: 6.2
+- **Jurang semangka**: 5.1
+- **Keandalan komitmen terencana**: 2.9
+- **Keandalan pipeline**: 11.2
+- **Keberhasilan tujuan pengiriman**: 2.5
+- **Kedalaman pekerjaan siap**: 2.6
+- **Kedalaman pelatihan silang**: 9.4
+- **Kedalaman rotasi**: 5.7
+- **Kejelasan tujuan**: 9.6
+- **Kelengkapan catatan perubahan**: 4.3
+- **Kelengkapan CI**: 7.4
+- **Kelengkapan definisi**: 11.1
+- **Kelengkapan garis dasar**: 10.1
+- **Kelengkapan konteks serah terima**: 10.3
+- **Kelengkapan stempel waktu**: 1.5
+- **Kelengkapan tahap siklus hidup**: 7.1
+- **Keluasan adopsi praktik**: 9.6
+- **Keluasan kontribusi**: 3.6
+- **Kemutakhiran aturan peringatan**: 5.5
+- **Kemutakhiran definisi**: 1.4
+- **Kemutakhiran evaluasi**: 10.5
+- **Kemutakhiran penilaian risiko**: 10.5
+- **Kemutakhiran rencana**: 5.6
+- **Kemutakhiran tinjauan akses**: 1.4
+- **Kemutakhiran tinjauan risiko**: 8.2
+- **Kemutakhiran uji tuntas**: 8.4
+- **Kemutakhiran uji tuntas AI pemasok**: 10.5
+- **Kepatuhan alokasi kapasitas**: 2.9
+- **Kepatuhan pada kebijakan anggaran**: 5.2
+- **Kepatuhan penambalan**: 8.1
+- **Kepatuhan pengaman privasi**: 6.4
+- **Kepatuhan SLO**: 5.2
+- **Kepercayaan pada definisi dan data**: 11.4
+- **Kepuasan dan upaya bot**: 10.3
+- **Kepuasan perkakas dan proses**: 9.1
+- **Kesegaran artikel**: 3.6
+- **Kesegaran data**: 1.5, 11.1
+- **Keselarasan definisi**: 8.5
+- **Kesenjangan persepsi**: 1.2
+- **Kesepakatan definisi kegagalan**: 4.4
+- **Kesesuaian aksesibilitas yang diterbitkan**: 8.5
+- **Kesesuaian sumber**: 1.4
+- **Kesiapan keluar**: 8.4, 11.2
+- **Kesiapan pembaruan**: 7.2
+- **Ketepatan waktu komunikasi**: 3.4
+- **Ketepatan waktu laporan**: 8.5
+- **Ketepatan waktu penyelesaian tinjauan**: 3.4
+- **Ketepatan waktu rencana penanganan**: 8.2
+- **Keterkaitan keputusan**: 1.4, 11.1
+- **Keterlacakan tujuan**: 1.7
+- **Keterlambatan dependensi**: 9.3
+- **Ketersediaan berbasis permintaan**: 5.3
+- **Ketersediaan berbasis waktu**: 5.3
+- **Ketersediaan berbobot pengguna**: 5.3
+- **Konflik pemisahan tugas**: 8.3
+- **Konsentrasi**: 8.4
+- **Konsentrasi beban tinjauan**: 2.7
+- **Konsentrasi kategori**: 3.2
+- **Konsentrasi peringatan**: 5.5
+- **Konsentrasi permintaan**: 6.3
+- **Laju interupsi**: 2.9
+- **Laju kedatangan dan keberangkatan**: 2.3
+- **Laju pembakaran**: 5.2
+- **Latensi pembaruan**: 7.4
+- **Lead time**: 2.2
+- **Lead time aliran nilai**: 2.4
+- **Lead time kapasitas**: 5.4
+- **Lead time penggantian**: 7.3
+- **Lead time persetujuan**: 4.3
+- **Lead time perubahan**: 2.8
+- **Lead time rilis**: 4.5
+- **Lebar rentang perkiraan**: 2.5
+- **Lebar selang**: 1.6
+- **Masalah dibuka dan ditutup**: 4.1
+- **Median waktu penyelesaian**: 1.6
+- **Menit gangguan paksa**: 6.4
+- **Mutu dukungan berbantuan**: 10.2
+- **Nilai kini bersih**: 7.7
+- **NPS**: 6.1
+- **Panggilan per shift**: 5.7
+- **Panjang antrean**: 2.3
+- **Partisipasi komunitas**: 9.4
+- **Partisipasi penilaian**: 11.4
+- **Pekan berjam kerja panjang berkepanjangan**: 9.2
+- **Pekerjaan dalam proses**: 2.3
+- **Pekerjaan yang sedang berjalan (WIP)**: 2.1
+- **Pelajaran yang dibagikan lintas tim**: 9.4
+- **Pemanfaatan komitmen**: 7.6
+- **Pembagian menjalankan, mengubah, dan memperbaiki**: 7.5
+- **Pembawaan tindakan retrospektif**: 4.2
+- **Pemenuhan dalam target**: 3.5
+- **Pencapaian SLE**: 2.1
+- **Pencapaian SLI**: 5.2
+- **Pencapaian tingkat layanan pemasok**: 8.4
+- **Pencapaian XLA**: 6.2
+- **Pengembalian investasi**: 7.7
+- **Pengerjaan ulang pasca-penggabungan**: 10.2
+- **Penyelesaian pembuangan aman**: 7.3
+- **Penyelesaian tinjauan tahap**: 11.5
+- **Penyimpangan model status**: 1.5
+- **Perbaikan yang dilacak ke ukuran**: 11.5
+- **Pergantian sukarela dan tema keluar**: 9.2
+- **Pergerakan hasil terhadap pembanding**: 9.6, 10.1
+- **Pergerakan indikator hasil**: 6.5
+- **Pergeseran pekerjaan terencana**: 2.9
+- **Peringkat beban kognitif**: 9.1
+- **Peringkat dukungan kebutuhan**: 9.2
+- **Peringkat kecepatan berkelanjutan**: 9.2
+- **Peringkat keyakinan tanpa bantuan**: 10.2
+- **Peringkat rasa aman psikologis**: 9.2
+- **Peringkat tekanan beban kerja**: 9.2
+- **Periode balik modal**: 7.7
+- **Peristiwa gesekan per pengguna**: 6.2
+- **Perkiraan tingkat deflection**: 3.7
+- **Persen lengkap dan akurat (tahap)**: 2.4
+- **Persen lengkap dan akurat bergulir**: 2.4
+- **Persentil latensi**: 5.4
+- **Perubahan bersih utang**: 4.6
+- **Porsi aset tanpa pemilik**: 7.1
+- **Porsi butir berguna**: 10.4
+- **Porsi degradasi**: 5.3
+- **Porsi deteksi terpantau**: 5.5
+- **Porsi downtime terencana**: 5.3
+- **Porsi gagasan garis depan**: 9.5
+- **Porsi hanya-solusi-sementara**: 4.1
+- **Porsi item basi**: 6.3
+- **Porsi jeda jam**: 2.2, 5.1
+- **Porsi kapasitas perbaikan**: 9.5
+- **Porsi kapasitas terkait hasil**: 6.5
+- **Porsi kapasitas utang**: 4.6
+- **Porsi kepemilikan tim**: 11.3
+- **Porsi metrik yang terkait keputusan**: 1.1
+- **Porsi mutu bukti**: 6.5
+- **Porsi nyaris luput**: 5.1
+- **Porsi otomatisasi**: 3.5
+- **Porsi panggilan di luar jam kerja**: 5.7
+- **Porsi pekerjaan tak terencana berulang**: 2.9
+- **Porsi penantian serah terima**: 9.3
+- **Porsi pendanaan tim yang bertahan**: 7.5
+- **Porsi penerimaan sukarela**: 9.6
+- **Porsi pengetahuan hasil generasi yang ditinjau**: 10.4
+- **Porsi perangkat menganggur**: 7.3
+- **Porsi persetujuan otomatis**: 4.3
+- **Porsi perubahan berbasis risiko**: 8.2
+- **Porsi perubahan darurat**: 4.4
+- **Porsi perubahan standar**: 4.3
+- **Porsi tema komentar**: 6.1
+- **Porsi terdeteksi pemantauan**: 3.2
+- **Porsi toil dari waktu**: 5.7
+- **Porsi upaya manual**: 11.2
+- **Porsi upaya program**: 11.5
+- **Porsi waktu aktif**: 3.3
+- **Porsi waktu belajar terlindungi**: 9.4
+- **Porsi waktu fokus**: 9.1
+- **Porsi waktu terhalang**: 2.1
+- **Posisi lisensi efektif**: 7.2
+- **Prevalensi solusi sementara**: 6.4
+- **Profil menurut dimensi**: 11.4
+- **Profil usia**: 7.3
+- **Putaran tinjauan**: 2.7
+- **Rasa aman pengukuran yang dirasakan (survei)**: 11.3
+- **Rasio beban tim**: 2.3
+- **Rasio keluaran-ke-hasil**: 10.4
+- **Rasio konsistensi hukum Little**: 2.3
+- **Rasio masuk-keluar backlog**: 2.6
+- **Rasio pekerjaan tak terencana**: 2.9
+- **Rasio pemakaian ulang**: 3.6
+- **Rasio takt time**: 2.4
+- **Ruang kosong**: 5.4
+- **Saturasi**: 5.4
+- **Selisih rekonsiliasi**: 1.5
+- **Sinyal keterusterangan**: 11.3
+- **Sisa anggaran kesalahan**: 5.2
+- **Skor denyut alat**: 6.4
+- **Skor mutu tinjauan**: 4.2
+- **Skor pengalaman**: 6.2
+- **Skor pengalaman menurut perjalanan**: 5.1
+- **Stabilitas throughput**: 2.5
+- **Stok utang**: 4.6
+- **Temuan kritis yang terlambat**: 8.1
+- **Throughput**: 2.1
+- **Tim yang aktif memakai ukuran**: 11.5
+- **Tindak lanjut item tindakan**: 3.4
+- **Tindak lanjut perbaikan**: 1.1
+- **Tindakan perbaikan dari penilaian**: 11.4
+- **Tingkat adopsi**: 6.3
+- **Tingkat adopsi fitur**: 1.3
+- **Tingkat aset tak terhitung**: 7.1
+- **Tingkat bukti pengawasan manusia**: 10.5
+- **Tingkat cacat yang lolos**: 10.2
+- **Tingkat CI duplikat**: 7.4
+- **Tingkat efektivitas kendali**: 8.2
+- **Tingkat ekspedit**: 2.9
+- **Tingkat fall-through**: 3.7
+- **Tingkat hotfix**: 4.4
+- **Tingkat insiden AI dan waktu menahan**: 10.5
+- **Tingkat insiden berulang**: 3.2
+- **Tingkat insiden besar berulang**: 3.4
+- **Tingkat insiden ternormalisasi**: 3.2
+- **Tingkat interupsi malam**: 5.7
+- **Tingkat isu berulang**: 9.5
+- **Tingkat keberhasilan pemulihan cadangan**: 5.6
+- **Tingkat keberhasilan pencarian**: 6.3
+- **Tingkat keberhasilan swalayan**: 3.7
+- **Tingkat kebermanfaatan**: 3.6
+- **Tingkat kegagalan dan pengerjaan ulang otomatisasi**: 3.7
+- **Tingkat kegagalan menurut model**: 7.3
+- **Tingkat kegagalan perubahan**: 2.8, 4.4
+- **Tingkat kekambuhan pasca-perbaikan**: 4.1
+- **Tingkat kekambuhan sebab**: 4.2
+- **Tingkat kembali ke semula**: 9.6
+- **Tingkat kesiapan hari pertama**: 6.4
+- **Tingkat ketepatan perkiraan**: 2.5
+- **Tingkat ketepatan prediksi dampak**: 7.4
+- **Tingkat keterlibatan pemangku kepentingan**: 9.6
+- **Tingkat klasifikasi ulang prioritas**: 3.2
+- **Tingkat kontak**: 3.1
+- **Tingkat kontak berulang**: 1.3
+- **Tingkat kontak kembali**: 10.3
+- **Tingkat kontak ulang**: 3.1
+- **Tingkat laporan keamanan**: 8.1
+- **Tingkat lulus pemeriksaan penjelasan**: 10.2
+- **Tingkat otomatisasi bukti**: 8.3
+- **Tingkat panggilan berulang**: 5.7
+- **Tingkat pelanggaran batas WIP**: 2.3
+- **Tingkat pelaporan nyaris celaka**: 4.2
+- **Tingkat pemakaian aktif**: 6.3
+- **Tingkat pemakaian CMDB**: 7.4
+- **Tingkat pemakaian metrik**: 1.2
+- **Tingkat pemakaian ulang dan daur ulang**: 7.3
+- **Tingkat pemakaian ulang kesalahan yang diketahui**: 4.1
+- **Tingkat pemanfaatan lisensi**: 7.2
+- **Tingkat pembalikan tindakan agen**: 10.3
+- **Tingkat pembatalan**: 3.1
+- **Tingkat pemborosan**: 7.6
+- **Tingkat pembuangan backlog**: 2.6
+- **Tingkat pembukaan ulang**: 1.2, 3.2
+- **Tingkat pembukaan ulang permintaan**: 3.5
+- **Tingkat pemensiunan**: 1.4
+- **Tingkat pemeriksaan efek**: 9.5
+- **Tingkat pemeriksaan hipotesis**: 6.5
+- **Tingkat pencapaian OLA**: 5.1
+- **Tingkat pencapaian SLA**: 5.1
+- **Tingkat pencarian tanpa hasil**: 3.6
+- **Tingkat pencatatan mundur**: 1.5
+- **Tingkat penerapan pelatihan**: 9.4
+- **Tingkat penerimaan dan penimpaan saran**: 10.1
+- **Tingkat pengabaian permintaan**: 6.3
+- **Tingkat pengerjaan ulang deployment**: 2.8, 4.4
+- **Tingkat penghentian berbasis bukti**: 7.7
+- **Tingkat pensiun**: 11.1
+- **Tingkat penugasan ulang**: 9.3
+- **Tingkat penutupan temuan latihan**: 5.6
+- **Tingkat penutupan tindakan**: 4.2
+- **Tingkat penutupan tindakan bersama**: 8.4
+- **Tingkat penyegaran tepat waktu**: 7.3
+- **Tingkat penyelesaian kolaboratif**: 9.3
+- **Tingkat penyelesaian pada kontak pertama**: 3.1
+- **Tingkat penyelesaian perjalanan**: 6.2
+- **Tingkat penyelesaian terverifikasi**: 10.3
+- **Tingkat penyelesaian tinjauan manfaat**: 1.3
+- **Tingkat perbaikan pasca-penggabungan**: 2.7
+- **Tingkat peringatan yang dapat ditindak**: 5.5
+- **Tingkat perubahan lingkup**: 2.5
+- **Tingkat positif palsu**: 5.5
+- **Tingkat realisasi manfaat**: 6.5
+- **Tingkat redundansi konten**: 10.4
+- **Tingkat rekonsiliasi**: 7.1, 11.2
+- **Tingkat respons survei**: 1.5, 6.1
+- **Tingkat restatement**: 8.5
+- **Tingkat retensi**: 10.2
+- **Tingkat rollback**: 4.4
+- **Tingkat RPO terpenuhi**: 5.6
+- **Tingkat RTO terpenuhi**: 5.6
+- **Tingkat sengketa showback**: 7.5
+- **Tingkat sinyal bagan kendali**: 1.6
+- **Tingkat tautan insiden-ke-masalah**: 4.1
+- **Tingkat tautan pengetahuan**: 3.6
+- **Tingkat tautan perubahan-ke-insiden**: 4.4
+- **Tingkat temuan berulang**: 8.3
+- **Tingkat tindak lanjut tindakan**: 9.5
+- **Tingkat validasi indikator pendahulu**: 1.3
+- **Toil menurut sumber**: 5.7
+- **Toil yang disingkirkan**: 5.7
+- **Total biaya kepemilikan**: 7.7
+- **Tren pemeriksaan kesehatan tim**: 9.1
+- **Tren sentimen**: 6.2
+- **Ukuran backlog**: 2.6
+- **Ukuran batch rilis**: 4.5
+- **Ukuran dan laporan yang dipensiunkan**: 11.5
+- **Ukuran pull request**: 2.7
+- **Ukuran tampilan**: 11.1
+- **Upaya audit**: 8.3
+- **Upaya pelaporan**: 8.5
+- **Upaya pengukuran**: 1.1
+- **Usia antrean persetujuan**: 4.3
+- **Usia backlog**: 2.6
+- **Usia backlog kesalahan yang diketahui**: 4.6
+- **Usia backlog masalah**: 4.1
+- **Usia backlog perbaikan**: 9.5
+- **Usia data saat tinjauan**: 1.1
+- **Usia insiden terbuka tertua**: 3.3
+- **Usia item kerja**: 2.1
+- **Usia item terbuka tertua**: 1.6
+- **Usia pengecualian risiko**: 8.1
+- **Usia tindakan terbuka**: 4.2
+- **Usia tinjauan indikator**: 1.7
+- **Utilisasi sumber daya**: 5.4
+- **Varians perkiraan**: 7.5, 7.6
+- **Velocity lokal**: 2.5
+- **Volume insiden menurut layanan**: 3.2
+- **Volume kontak**: 3.1
+- **Volume peringatan**: 5.5
+- **Volume permintaan menurut item katalog**: 3.5
+- **Volume perubahan menurut jenis**: 4.3
+- **Waktu antre**: 2.3
+- **Waktu bertindak atas umpan balik kesejahteraan**: 9.2
+- **Waktu dari gagasan ke percobaan**: 9.5
+- **Waktu insiden yang diatribusikan ke pemasok**: 8.4
+- **Waktu ke hasil berguna pertama**: 11.5
+- **Waktu ke kontribusi pertama**: 9.4
+- **Waktu ke manusia**: 10.3
+- **Waktu ke tingkat berikutnya (deskriptif)**: 11.4
+- **Waktu ke tinjauan pertama**: 2.7
+- **Waktu ke ukuran baru**: 11.2
+- **Waktu lingkaran umpan balik**: 9.1
+- **Waktu memulihkan**: 3.3
+- **Waktu menahan**: 8.1
+- **Waktu mencatat**: 7.1
+- **Waktu mendeklarasikan**: 3.4
+- **Waktu mendeteksi**: 3.3
+- **Waktu mendeteksi (TTD)**: 5.5
+- **Waktu menerbitkan**: 3.6
+- **Waktu mengakui**: 3.3
+- **Waktu menjawab**: 3.1
+- **Waktu menuju akar masalah**: 4.1
+- **Waktu menuju nilai pertama**: 6.5
+- **Waktu menuju perbaikan permanen**: 4.1
+- **Waktu menuju produktif**: 6.4
+- **Waktu menyelesaikan**: 3.3
+- **Waktu pemenuhan permintaan**: 3.5
+- **Waktu pemulihan deployment gagal**: 2.8
+- **Waktu penanganan**: 3.1
+- **Waktu pengakuan anomali**: 7.6
+- **Waktu penutupan temuan**: 8.3
+- **Waktu penyampaian bukti**: 8.3
+- **Waktu penyelesaian hambatan**: 9.1
+- **Waktu penyelesaian permintaan aksesibilitas**: 6.4
+- **Waktu penyelesaian persentil tinggi**: 1.6
+- **Waktu penyelesaian tantangan**: 11.3
+- **Waktu proses**: 2.4
+- **Waktu respons pelanggaran KRI**: 8.2
+- **Waktu respons pemangku kepentingan**: 9.3
+- **Waktu respons pertama**: 3.3
+- **Waktu sentuh**: 2.2
+- **Waktu sentuh manual per jenis permintaan**: 3.7
+- **Waktu tindak lanjut detraktor**: 6.1
+- **Waktu tugas terhadap garis dasar**: 10.1
+- **Waktu tunggu**: 2.2, 2.4
+- **Waktu tunggu persetujuan**: 3.5
+- **Waktu tunggu serah terima (persentil ke-85)**: 5.1
+- **Waktu yang hilang karena masalah TI**: 6.2
+
+## Konsep
+
+Konsep diambil dari istilah yang ditautkan topik ke Wikipedia untuk latar belakang. Angka pertama biasanya topik yang menjelaskan konsep itu paling rinci.
+
+- **Accelerate (Accelerate (book)**: 2.8
+- **Akuntabilitas (Accountability)**: 8.5
+- **Penghitungan biaya berbasis aktivitas (Activity-based costing)**: 7.5
+- **Pengembangan perangkat lunak agile (Agile software development)**: 1.1, 1.3, 3.4, 4.2
+- **AI slop**: 10.4
+- **AIOps**: 10.1
+- **Kelelahan alarm (Alarm fatigue)**: 5.5, 5.7
+- **Kelelahan peringatan (Alert fatigue)**: 10.4
+- **Bias algoritmik (Algorithmic bias)**: 10.5
+- **deteksi anomali (Anomaly detection)**: 7.6
+- **antarmuka pemrograman aplikasi (Application programming interface)**: 11.2
+- **Kecerdasan buatan (Artificial intelligence)**: 10.1
+- **Artificial Intelligence Act**: 10.5
+- **pelacakan aset (Asset tracking)**: 7.1
+- **permukaan serangan (Attack surface)**: 8.1
+- **Jejak audit (Audit trail)**: 4.3, 8.3, 10.5
+- **pengambilan keputusan otomatis (Automated decision-making)**: 10.3
+- **distributor panggilan otomatis (Automatic call distributor)**: 3.1
+- **Otomatisasi (Automation)**: 3.7
+- **bias otomatisasi (Automation bias)**: 10.1
+- **Penskalaan otomatis (Autoscaling)**: 5.4, 7.6
+- **Ketersediaan (Availability)**: 5.2
+- **Uji A/B (B testing)**: 6.5
+- **backlog**: 4.1
+- **balanced scorecard**: 1.3, 1.7, 11.1
+- **Manajemen realisasi manfaat (Benefits realisation management)**: 6.5
+- **teori angsa hitam (Black swan theory)**: 8.2
+- **deployment blue-green (Blue-green deployment)**: 4.5
+- **hambatan (Bottleneck (production)**: 2.3, 9.3
+- **hukum Brandolini (Brandolini's law)**: 10.4
+- **Hukum Brooks (Brooks's law)**: 9.3
+- **bus factor**: 3.6, 9.3
+- **Kasus bisnis (Business case)**: 7.7
+- **Perencanaan kelangsungan bisnis (Business continuity planning)**: 5.6
+- **analisis dampak bisnis (Business impact analysis)**: 5.6
+- **pusat panggilan (Call centre)**: 3.1
+- **Hukum Campbell (Campbell's law)**: 1.2, 10.4, 11.3
+- **Canary release**: 2.8, 4.4, 4.5, 5.2
+- **Capability Maturity Model**: 11.4
+- **Perencanaan kapasitas (Capacity planning)**: 2.5, 5.4
+- **Belanja modal (Capital expenditure)**: 7.5
+- **jejak karbon (Carbon footprint)**: 7.6
+- **kultus kargo (Cargo cult)**: 9.6
+- **Pemrograman kultus kargo (Cargo cult programming)**: 9.6
+- **integrasi dan pengiriman berkelanjutan (CI/CD) (CD)**: 1.5, 2.8
+- **rantai penguasaan (Chain of custody)**: 7.1
+- **kelelahan perubahan (Change fatigue)**: 9.6
+- **Manajemen perubahan (Change management)**: 9.6, 11.3, 11.5
+- **manajemen perubahan (Change management (ITSM)**: 4.3
+- **Rekayasa chaos (Chaos engineering)**: 5.6
+- **Chartjunk**: 11.1
+- **chatbot**: 3.7, 10.3
+- **ekonomi sirkular (Circular economy)**: 7.3
+- **kelas layanan (Class of service)**: 2.9
+- **Komputasi awan (Cloud computing)**: 7.6
+- **diciptakan bersama (Co-creation)**: 1.3
+- **Efek kobra (Cobra effect)**: 1.2
+- **Refactoring kode (Code refactoring)**: 4.6
+- **tinjauan kode (Code review)**: 2.7, 4.3, 10.2
+- **Code smell**: 4.6
+- **beban kognitif (Cognitive load)**: 6.4, 9.1
+- **pelepasan beban kognitif (Cognitive offloading)**: 10.2
+- **Analisis kohort (Cohort analysis)**: 6.3
+- **Common Vulnerabilities and Exposures**: 8.1
+- **Common Vulnerability Scoring System**: 8.1
+- **Komunitas praktik (Community of practice)**: 9.4
+- **Manajemen insiden keamanan komputer (Computer security incident management)**: 8.1
+- **pergeseran konsep (Concept drift)**: 10.4
+- **kerucut ketidakpastian (Cone of Uncertainty)**: 2.5
+- **Selang kepercayaan (Confidence interval)**: 1.6, 6.1
+- **Item konfigurasi (Configuration item)**: 7.4
+- **Basis data manajemen konfigurasi (CMDB) (Configuration management database)**: 1.5, 7.4
+- **pengacau (confounding) (Confounding)**: 6.5
+- **Perbaikan berkelanjutan (Continual improvement process)**: 1.4, 9.5, 11.4
+- **Audit berkelanjutan (Continuous auditing)**: 8.3
+- **pengiriman berkelanjutan (Continuous delivery)**: 2.8, 4.4, 4.5
+- **integrasi berkelanjutan (Continuous integration)**: 2.7
+- **bagan kendali (Control chart)**: 1.6, 2.1, 3.2, 11.1
+- **corong konversi (Conversion funnel)**: 6.3
+- **Hukum Conway (Conway's law)**: 9.3
+- **Waktu Universal Terkoordinasi (UTC) (Coordinated Universal Time)**: 1.5
+- **copyleft**: 7.2
+- **Akuntansi biaya (Cost accounting)**: 7.5
+- **Alokasi biaya (Cost allocation)**: 7.5
+- **pendorong biaya (Cost driver)**: 7.5
+- **biaya keterlambatannya (Cost of delay)**: 2.9, 4.6
+- **Faktor keberhasilan kritis (Critical success factor)**: 1.7
+- **Tim lintas fungsi (Cross-functional team)**: 9.3
+- **Pelatihan silang (Cross-training (business)**: 9.4
+- **diagram alur kumulatif (Cumulative flow diagram)**: 2.1, 2.3
+- **pengalaman pelanggan (Customer experience)**: 6.2
+- **kepuasan pelanggan (Customer satisfaction)**: 3.1, 6.1
+- **Cycle time**: 2.2
+- **dark pattern**: 6.3, 10.3
+- **Dasbor (Dashboard (business)**: 11.1
+- **Kamus data (Data dictionary)**: 1.4
+- **Penghapusan data (Data erasure)**: 7.3
+- **tata kelola data (Data governance)**: 1.4, 11.2
+- **integritas data (Data integrity)**: 7.4
+- **minimalisasi data (Data minimization)**: 6.4
+- **pipeline data (Data pipeline)**: 11.2
+- **kualitas data (Data quality)**: 7.1, 11.2, 11.5
+- **Pengurus data (Data steward)**: 1.4
+- **Visualisasi data (Data visualization)**: 11.1
+- **gudang data (Data warehouse)**: 11.2
+- **Dependensi (Dependency (project management)**: 9.3
+- **penyusutan (Depreciation)**: 7.3
+- **hilangnya keterampilan (Deskilling)**: 10.2
+- **Pengalaman pengembang (Developer experience)**: 9.1
+- **DevOps**: 1.1
+- **DevOps Research and Assessment (DORA) (DevOps Research and Assessment)**: 2.8
+- **DevSecOps**: 8.1
+- **selisih-dalam-selisih (Difference in differences)**: 6.5
+- **difusi inovasi (Diffusion of innovations)**: 6.3, 9.6
+- **tempat kerja digital (Digital workplace)**: 6.4
+- **Pembelajaran lingkaran ganda (Double-loop learning)**: 9.5
+- **Downtime**: 5.3
+- **kode duplikat (Duplicate code)**: 10.2
+- **indikator ekonomi (Economic indicator)**: 1.3
+- **skala ekonomi (Economies of scale)**: 7.5
+- **Sampah elektronik (Electronic waste)**: 7.3
+- **keterlibatan karyawan (Employee engagement)**: 9.2
+- **Pengalaman karyawan (Employee experience management)**: 6.4
+- **pemantauan karyawan (Employee monitoring)**: 6.4
+- **resolusi entitas (Entity resolution)**: 7.4
+- **Strategi keluar (Exit strategy)**: 8.4
+- **ekstrak, transformasi, muat (ETL) (Extract, transform, load)**: 1.5, 11.2
+- **Tingkat kegagalan (Failure rate)**: 7.3
+- **positif palsu dan negatif palsu (False positives and false negatives)**: 5.5
+- **feature toggle**: 2.8, 4.4, 4.5, 5.2
+- **penyelesaian pada panggilan pertama (First call resolution)**: 3.1
+- **lima mengapa (Five whys)**: 4.1, 4.2
+- **aset tetap (Fixed asset)**: 7.1
+- **Biaya tetap (Fixed cost)**: 7.5
+- **aliran (flow) (Flow (psychology)**: 6.4, 9.1
+- **peramalan (Forecasting)**: 2.5, 5.4
+- **undang-undang keterbukaan informasi (Freedom of information laws by country)**: 8.5
+- **General Data Protection Regulation**: 8.3
+- **AI generatif (Generative artificial intelligence)**: 10.1
+- **hukum Goodhart (Goodhart's law)**: 1.1, 1.2, 2.5, 2.7, 2.8, 3.4, 3.5, 4.3, 4.4, 4.5, 6.1, 6.2, 6.3, 6.4, 6.5, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 8.1, 8.2, 8.3, 8.4, 8.5, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 10.1, 10.2, 10.3, 10.4, 10.5, 11.1, 11.3
+- **Basis data graf (Graph database)**: 7.4
+- **Halusinasi (Hallucination (artificial intelligence)**: 10.1
+- **Efek Hawthorne (Hawthorne effect)**: 9.6, 11.3
+- **Help desk**: 3.1
+- **Service desk (Help desk software)**: 3.2
+- **ketersediaan tinggi (High availability)**: 5.3
+- **Bias tinjauan balik (Hindsight bias)**: 4.2
+- **Hotfix**: 4.4
+- **desain berpusat pada manusia (Human-centered design)**: 6.2
+- **human-in-the-loop**: 10.1
+- **ISO/IEC 27001 (IEC 27001)**: 8.3
+- **komandan insiden (Incident commander)**: 3.4
+- **Manajemen insiden (Incident management)**: 3.2, 3.3, 5.7
+- **manajemen insiden (Incident management (ITSM)**: 3.4
+- **Kelebihan informasi (Information overload)**: 10.4
+- **Radiator informasi (Information radiator)**: 11.3, 11.5
+- **Audit teknologi informasi (Information technology audit)**: 8.3
+- **manajemen layanan TI (Information technology service management)**: 1.1, 1.5
+- **infrastruktur sebagai kode (Infrastructure as code)**: 3.7, 4.3, 5.6, 7.4
+- **agen cerdas (Intelligent agent)**: 10.3
+- **audit internal (Internal audit)**: 8.3
+- **pengendalian internal (Internal control)**: 8.2
+- **motivasi intrinsik (Intrinsic motivation)**: 9.2
+- **manajemen persediaan (Inventory management)**: 7.1
+- **diagram Ishikawa (Ishikawa diagram)**: 4.1
+- **ISO 22301**: 5.6
+- **Sistem pelacak isu (Issue tracking system)**: 1.5, 2.6
+- **Manajemen aset TI (IT asset management)**: 7.1
+- **manajemen layanan TI (ITSM) (IT service management)**: 3.1, 11.2
+- **ITIL**: 1.1, 1.2, 1.3, 1.5, 1.7, 2.4, 2.6, 2.8, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.2, 4.3, 4.4, 4.6, 5.1, 5.3
+- **Paradoks Jevons (Jevons paradox)**: 10.4
+- **Kepuasan kerja (Job satisfaction)**: 9.2
+- **budaya adil (Just culture)**: 4.2
+- **k-anonimitas (K-anonymity)**: 6.4
+- **Kaizen**: 9.5, 11.4, 11.5
+- **indikator kinerja utama (Key performance indicator)**: 1.2, 1.7, 11.1
+- **Indikator risiko utama (Key risk indicator)**: 8.2
+- **rumus Kingman (Kingman's formula)**: 2.3
+- **basis pengetahuan (Knowledge base)**: 3.6
+- **Manajemen pengetahuan (Knowledge management)**: 3.6
+- **Knowledge-Centered Service (KCS) (Knowledge-centered support)**: 3.6
+- **basis data kesalahan yang diketahui (Known error database)**: 4.1
+- **Indikator tertinggal (Lagging indicator)**: 6.5
+- **model bahasa besar (Large language model)**: 10.1
+- **Latensi (Latency (engineering)**: 5.4
+- **Lead time**: 2.2, 2.4
+- **Indikator pendahulu (Leading indicator)**: 6.5
+- **manufaktur lean (Lean manufacturing)**: 2.4, 9.5
+- **pengembangan perangkat lunak lean (Lean software development)**: 2.1, 2.2, 2.3
+- **Organisasi pembelajar (Learning organization)**: 9.4
+- **Skala Likert (Likert scale)**: 6.1
+- **Baris kode (Lines of code)**: 10.2
+- **Hukum Little (Little's law)**: 2.1, 2.2, 2.3, 2.4, 2.6, 2.9, 5.4
+- **uji beban (Load testing)**: 5.4
+- **distribusi log-normal (Log-normal distribution)**: 1.6, 3.3
+- **model logika (Logic model)**: 6.5
+- **pembelajaran mesin (Machine learning)**: 10.1
+- **Margin galat (Margin of error)**: 6.1
+- **Rata-rata waktu antarkegagalan (Mean time between failures)**: 5.3, 7.3
+- **Artikel Wikipedia tentang mean time to repair (Mean time to repair)**: 3.3, 5.3
+- **Median**: 1.6, 3.3
+- **Mentoring (Mentorship)**: 9.4
+- **produk minimum yang layak (Minimum viable product)**: 11.5
+- **Manajemen perangkat seluler (Mobile device management)**: 7.3
+- **keruntuhan model (Model collapse)**: 10.4
+- **metode Monte Carlo (Monte Carlo method)**: 2.5
+- **multisourcing**: 8.4
+- **Nilai kini bersih (Net present value)**: 7.7
+- **Net promoter score**: 6.1
+- **tujuan dan hasil kunci (Objectives and key results)**: 1.3, 6.5
+- **observabilitas (Observability (software)**: 1.5, 11.2
+- **Kelelahan kerja (burnout) (Occupational burnout)**: 5.7, 9.2
+- **tujuan dan hasil kunci (OKR)**: 1.7
+- **siaga (On-call)**: 5.5, 5.7
+- **data terbuka (Open data)**: 8.5
+- **pemerintahan terbuka (Open government)**: 8.5
+- **Perangkat lunak sumber terbuka (Open-source software)**: 7.2
+- **Perjanjian tingkat operasional (OLA) (Operational-level agreement)**: 5.1
+- **Biaya peluang (Opportunity cost)**: 4.6, 7.7
+- **Bias optimisme (Optimism bias)**: 7.7
+- **perubahan organisasi (Organizational change)**: 9.6
+- **Budaya organisasi (Organizational culture)**: 9.6
+- **Alih daya (Outsourcing)**: 8.4
+- **Pemrograman berpasangan (Pair programming)**: 2.7, 9.4
+- **bagan Pareto (Pareto chart)**: 4.1, 5.7
+- **prinsip Pareto (Pareto principle)**: 3.2, 6.3
+- **bayar sesuai pemakaian (Pay as you go)**: 7.6
+- **Periode balik modal (Payback period)**: 7.7
+- **Plan-Do-Check-Act (PDCA)**: 9.5
+- **Persentil (Percentile)**: 1.6, 2.1, 2.2, 2.6, 3.1, 3.3, 3.4, 3.5, 5.1, 5.2, 5.4
+- **audit kinerja (Performance audit)**: 8.5
+- **Kontrak berbasis kinerja (Performance-based contracting)**: 8.4
+- **insentif perversi (Perverse incentive)**: 1.2
+- **Proyek percontohan (Pilot project)**: 9.6, 11.3, 11.5
+- **Kekeliruan perencanaan (Planning fallacy)**: 2.5
+- **Postmortem (Postmortem documentation)**: 3.4, 4.2
+- **presisi dan recall (Precision and recall)**: 5.5
+- **Prinsip hak istimewa terkecil (Principle of least privilege)**: 1.4
+- **otomatisasi proses (Process automation)**: 3.5
+- **backlog produk (Product backlog)**: 2.6, 6.3
+- **siklus hidup produk (Product lifecycle)**: 7.1
+- **produktivitas (Productivity)**: 9.1
+- **Sertifikasi profesional (Professional certification)**: 9.4
+- **Injeksi prompt (Prompt injection)**: 10.5
+- **pseudonimisasi (Pseudonymization)**: 6.4
+- **Keamanan psikologis (Psychological safety)**: 1.2, 4.2, 9.1, 9.2, 11.3
+- **pengadaan publik (Public procurement)**: 8.5
+- **Sektor publik (Public sector)**: 8.5
+- **Pull request**: 2.7, 10.2
+- **teori antrean (Queueing theory)**: 2.1, 2.3, 3.1, 5.4
+- **Matriks RACI (RACI matrix)**: 1.4
+- **Pemantauan pengguna nyata (Real user monitoring)**: 5.3, 6.2
+- **rekonsiliasi (Reconciliation (accounting)**: 7.1
+- **manajemen arsip (Records management)**: 8.5
+- **Sasaran titik pemulihan (Recovery point objective)**: 5.6
+- **Sasaran waktu pemulihan (Recovery time objective)**: 5.6
+- **peramalan kelas acuan (Reference class forecasting)**: 7.7
+- **pengujian regresi (Regression testing)**: 4.4, 10.2
+- **regresi ke arah rata-rata (Regression toward the mean)**: 1.6
+- **regulasi kecerdasan buatan (Regulation of artificial intelligence)**: 10.5
+- **Kepatuhan regulasi (Regulatory compliance)**: 8.3
+- **manajemen rilis (Release management)**: 4.5
+- **Resistensi terhadap perubahan (Resistance to change)**: 9.6
+- **bias respons (Response bias)**: 6.1
+- **AI yang bertanggung jawab (Responsible AI)**: 10.5
+- **pengembalian investasi (Return on investment)**: 1.1, 7.7
+- **Pengerjaan ulang (Rework)**: 4.4
+- **Manajemen risiko (Risk management)**: 8.2
+- **Matriks risiko (Risk matrix)**: 8.2
+- **Register risiko (Risk register)**: 8.2
+- **melakukan rollback (Rollback (data management)**: 2.8, 4.4
+- **hasil throughput bergulir (Rolled throughput yield)**: 2.4
+- **analisis akar masalah (Root cause analysis)**: 3.2, 3.4, 4.1, 4.2, 4.6, 9.5
+- **bagan lari (Run chart)**: 2.1, 11.1, 11.5
+- **Runbook**: 3.6, 3.7
+- **Sarbanes–Oxley Act**: 8.3
+- **musiman (Seasonality)**: 3.2, 5.4
+- **pemisahan tugas (Segregation of duties)**: 8.3
+- **bias seleksi (Selection bias)**: 1.5
+- **Teori determinasi diri (Self-determination theory)**: 9.2
+- **Swalayan (Self-service)**: 10.3
+- **Swalayan (Self-service software)**: 3.7
+- **Analisis sensitivitas (Sensitivity analysis)**: 7.7
+- **analisis sentimen (Sentiment analysis)**: 6.2
+- **pemisahan tugas (Separation of duties)**: 4.3
+- **Komputasi tanpa server (Serverless computing)**: 7.6
+- **katalog layanan (Service catalog)**: 3.5, 6.3
+- **service desk**: 3.6
+- **Penemuan layanan (Service discovery)**: 7.4
+- **integrasi dan manajemen layanan (Service integration and management)**: 8.4
+- **Indikator tingkat layanan (SLI) (Service level indicator)**: 5.1, 5.2
+- **Tujuan tingkat layanan (SLO) (Service level objective)**: 5.1
+- **logika dominan layanan (Service-dominant logic)**: 1.3
+- **perjanjian tingkat layanan (Service-level agreement)**: 2.1, 2.9, 3.1, 3.3, 3.5, 5.1, 5.2, 5.3, 6.2, 8.4
+- **Tujuan tingkat layanan (SLO) (Service-level objective)**: 5.2, 5.3, 5.5
+- **Shadow IT**: 6.4, 7.2, 10.5
+- **Rasio sinyal terhadap derau (Signal-to-noise ratio)**: 5.5, 10.4
+- **Sumber kebenaran tunggal (Single source of truth)**: 1.4
+- **Rekayasa keandalan situs (Site reliability engineering)**: 1.1, 3.3, 3.4, 4.2, 5.1, 5.2, 5.4, 5.5, 5.6, 5.7
+- **miring (Skewness)**: 1.6
+- **Kurang tidur (Sleep deprivation)**: 5.7
+- **SOC 2**: 8.3
+- **bias keinginan sosial (Social desirability bias)**: 9.2
+- **Perangkat lunak sebagai layanan (Software as a service)**: 7.2
+- **Manajemen aset perangkat lunak (Software asset management)**: 7.2
+- **Audit perangkat lunak (Software audit)**: 7.2
+- **Software bill of materials**: 7.2
+- **Bug perangkat lunak (Software bug)**: 4.6
+- **analisis komposisi perangkat lunak (Software composition analysis)**: 7.2
+- **deployment perangkat lunak (Software deployment)**: 4.5
+- **lisensi perangkat lunak (Software license)**: 7.2
+- **Rantai pasok perangkat lunak (Software supply chain)**: 8.1
+- **pengujian perangkat lunak (Software testing)**: 10.2
+- **Sparkline**: 11.1
+- **Analisis program statis (Static program analysis)**: 2.7, 4.6
+- **pengendalian proses statistik (Statistical process control)**: 1.6
+- **poin cerita (Story point)**: 2.5
+- **Peta strategi (Strategy map)**: 1.7
+- **Biaya tenggelam (Sunk cost)**: 7.7
+- **Serangan rantai pasok (Supply chain attack)**: 8.4
+- **Surogasi (Surrogation)**: 1.2
+- **metodologi survei (Survey methodology)**: 6.1
+- **Bias penyintas (Survivorship bias)**: 6.5
+- **Pemantauan sintetis (Synthetic monitoring)**: 5.3
+- **Pemantauan sistem (System monitoring)**: 5.5
+- **Keterampilan berbentuk T (T-shaped skills)**: 9.4
+- **Pengetahuan tasit (Tacit knowledge)**: 3.6, 9.4
+- **Latensi ekor (Tail latency)**: 5.4
+- **pergantian tugas (Task switching (psychology)**: 2.9
+- **utang teknis (Technical debt)**: 2.9, 4.1, 4.6, 10.2
+- **Siklus hidup adopsi teknologi (Technology adoption life cycle)**: 11.3
+- **Teori perubahan (Theory of change)**: 6.5
+- **teori kendala (Theory of constraints)**: 2.3, 2.4, 9.5
+- **Throughput**: 5.4
+- **Nilai waktu uang (Time value of money)**: 7.7
+- **total biaya kepemilikan (Total cost of ownership)**: 7.3, 7.7, 11.2
+- **triase (Triage)**: 2.9
+- **pengembangan berbasis trunk (Trunk-based development)**: 2.7
+- **Kepercayaan (Trust (social science)**: 11.3
+- **Biaya unit (Unit cost)**: 7.5
+- **Kegunaan (usability) (Usability)**: 6.2
+- **Pengalaman pengguna (User experience)**: 6.2
+- **cerita pengguna (User story)**: 2.6
+- **Nilai uang (Value for money)**: 8.5
+- **Aliran nilai (Value stream)**: 2.4
+- **Pemetaan aliran nilai (Value-stream mapping)**: 2.4
+- **Metrik pajangan (Vanity metric)**: 1.3, 1.7, 10.4, 11.1, 11.4
+- **biaya variabel (Variable cost)**: 7.5
+- **analisis varians (Variance analysis)**: 7.6
+- **Velocity (Velocity (software development)**: 1.2, 2.5
+- **Keterkuncian vendor (Vendor lock-in)**: 7.2, 8.4, 11.2
+- **Manajemen vendor (Vendor management)**: 8.4
+- **Kontrol versi (Version control)**: 1.5, 2.7
+- **Victor Basili**: 1.7
+- **asisten virtual (Virtual assistant)**: 10.3
+- **diskon volume (Volume discount)**: 7.6
+- **Kerentanan (Vulnerability (computing)**: 8.1
+- **Ward Cunningham**: 4.6
+- **garansi (Warranty)**: 7.3
+- **aksesibilitas web (Web accessibility)**: 6.4
+- **analitik web (Web analytics)**: 6.3
+- **pekerjaan dalam proses (Work in process)**: 2.3
+- **Solusi sementara (Workaround)**: 4.1
