@@ -100,6 +100,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Agile metingen volgen stroom, leren en werkende software; ITIL meet serviceniveaus, incidenten, wijzigingen, assets en waarde die samen met klanten wordt gecreëerd. Dit boek voegt de twee samen tot één kleine, evenwichtige, menselijke set metingen, met voor elke metriek de manipulatievector en de vangrail. De metrieken hier beschrijven teams, diensten en systemen en worden nooit gebruikt om mensen te rangschikken.",
   "translations": "Vertalingen: "
  },
+ "pt-001": {
+  "tagline": "Um manual prático para medir o trabalho das equipes ágeis de serviços de TI.",
+  "intro": "As medidas ágeis acompanham o fluxo, o aprendizado e o software funcionando; o ITIL mede níveis de serviço, incidentes, mudanças, ativos e o valor cocriado com os clientes. Este livro une os dois em um conjunto pequeno, equilibrado e humano de medidas, com o vetor de manipulação e a barreira de proteção de cada métrica. As métricas aqui descrevem equipes, serviços e sistemas, e nunca são usadas para classificar pessoas.",
+  "translations": "Traduções: "
+ },
  "ru-001": {
   "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
   "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
@@ -168,6 +173,7 @@ export const ENDONYMS: Record<string, string> = {
  "ko-kr": "한국어(대한민국)",
  "nl-001": "Nederlands",
  "nl-nl": "Nederlands (Nederland)",
+ "pt-001": "Português",
  "ru-001": "Русский",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
