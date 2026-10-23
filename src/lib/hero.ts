@@ -85,6 +85,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "애자일 측정은 흐름, 학습, 동작하는 소프트웨어를 따르고, ITIL은 서비스 수준, 인시던트, 변경, 자산, 그리고 고객과 함께 만든 가치를 측정합니다. 이 책은 둘을 작고 균형 잡힌 사람 중심의 지표 모음으로 묶고, 모든 지표에 악용 경로와 방호책을 덧붙입니다. 여기서 지표는 팀, 서비스, 시스템을 설명하며 개인의 순위를 매기는 데 쓰이지 않습니다.",
   "translations": "번역: "
  },
+ "nl-001": {
+  "tagline": "Een praktisch handboek voor het meten van het werk van agile it-dienstenteams.",
+  "intro": "Agile metingen volgen stroom, leren en werkende software; ITIL meet serviceniveaus, incidenten, wijzigingen, assets en waarde die samen met klanten wordt gecreëerd. Dit boek voegt de twee samen tot één kleine, evenwichtige, menselijke set metingen, met voor elke metriek de manipulatievector en de vangrail. De metrieken hier beschrijven teams, diensten en systemen en worden nooit gebruikt om mensen te rangschikken.",
+  "translations": "Vertalingen: "
+ },
+ "nl-nl": {
+  "tagline": "Een praktisch handboek voor het meten van het werk van agile it-dienstenteams.",
+  "intro": "Agile metingen volgen stroom, leren en werkende software; ITIL meet serviceniveaus, incidenten, wijzigingen, assets en waarde die samen met klanten wordt gecreëerd. Dit boek voegt de twee samen tot één kleine, evenwichtige, menselijke set metingen, met voor elke metriek de manipulatievector en de vangrail. De metrieken hier beschrijven teams, diensten en systemen en worden nooit gebruikt om mensen te rangschikken.",
+  "translations": "Vertalingen: "
+ },
  "ru-001": {
   "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
   "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
@@ -140,6 +150,8 @@ export const ENDONYMS: Record<string, string> = {
  "ja-jp": "日本語（日本）",
  "ko-001": "한국어",
  "ko-kr": "한국어(대한민국)",
+ "nl-001": "Nederlands",
+ "nl-nl": "Nederlands (Nederland)",
  "ru-001": "Русский",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
