@@ -20,6 +20,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Mae mesurau ystwyth yn dilyn llif, dysgu a meddalwedd sy'n gweithio; mae ITIL yn mesur lefelau gwasanaeth, digwyddiadau, newidiadau, asedau a gwerth a gyd-grëir gyda chwsmeriaid. Mae'r llyfr hwn yn eu huno yn un set fach, gytbwys a charedig o fesurau, gyda'r fector chwarae'r system a'r canllaw amddiffynnol ar gyfer pob metrig. Mae'r metrigau yma'n disgrifio timau, gwasanaethau a systemau, ac ni chânt byth eu defnyddio i restru pobl.",
   "translations": "Cyfieithiadau: "
  },
+ "da-001": {
+  "tagline": "En praktisk håndbog til at måle arbejdet i agile it-serviceteams.",
+  "intro": "Agile mål følger flow, læring og fungerende software; ITIL måler serviceniveauer, hændelser, ændringer, aktiver og værdi skabt sammen med kunderne. Denne bog samler de to i ét lille, afbalanceret og menneskeligt sæt målinger, med manipulationsvektoren og autoværnet for hver måling. Målingerne her beskriver teams, tjenester og systemer og bruges aldrig til at rangordne mennesker.",
+  "translations": "Oversættelser: "
+ },
  "de-001": {
   "tagline": "Ein praktisches Handbuch zum Messen der Arbeit agiler IT-Service-Teams.",
   "intro": "Agile Messgrößen folgen dem Fluss, dem Lernen und funktionierender Software; ITIL misst Servicelevel, Incidents, Changes, Assets und den gemeinsam mit Kunden geschaffenen Wert. Dieses Buch verbindet beides zu einem kleinen, ausgewogenen, menschlichen Satz von Messgrößen, mit Manipulationsvektor und Leitplanke für jede Kennzahl. Die Kennzahlen hier beschreiben Teams, Services und Systeme und dienen nie dazu, Menschen in eine Rangfolge zu bringen.",
@@ -162,6 +167,7 @@ export const ENDONYMS: Record<string, string> = {
  "bn-001": "বাংলা",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
+ "da-001": "Dansk",
  "de-001": "Deutsch",
  "en-001": "English",
  "en-gb": "English (Great Britain)",
