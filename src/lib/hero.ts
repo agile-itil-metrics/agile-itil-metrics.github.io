@@ -65,6 +65,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Ukuran agile mengikuti alur, pembelajaran, dan perangkat lunak yang berfungsi; ITIL mengukur tingkat layanan, insiden, perubahan, aset, dan nilai yang diciptakan bersama pelanggan. Buku ini menggabungkan keduanya menjadi satu himpunan ukuran yang kecil, seimbang, dan manusiawi, dengan vektor manipulasi dan pagar pembatas untuk setiap metrik. Metrik di sini menggambarkan tim, layanan, dan sistem, dan tidak pernah dipakai untuk memeringkat orang.",
   "translations": "Terjemahan: "
  },
+ "ru-001": {
+  "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
+  "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
+  "translations": "Переводы: "
+ },
  "zh-001": {
   "tagline": "一本衡量敏捷IT服务团队工作的实用手册。",
   "intro": "敏捷度量关注流动、学习和可运行的软件；ITIL则衡量服务水平、事件、变更、资产以及与客户共同创造的价值。本书把两者整合为一套小而均衡、以人为本的度量，并为每个指标给出被钻空子的方式和防护栏。这里的指标描述的是团队、服务和系统，绝不用来给个人排名。",
@@ -91,6 +96,7 @@ export const ENDONYMS: Record<string, string> = {
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
+ "ru-001": "Русский",
  "zh-001": "中文",
  "zh-cn": "简体中文"
 };
