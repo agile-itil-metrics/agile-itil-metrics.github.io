@@ -120,6 +120,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Vipimo vya uchapuchapu hufuata mtiririko, kujifunza na programu inayofanya kazi; ITIL hupima viwango vya huduma, matukio, mabadiliko, mali na thamani inayoundwa pamoja na wateja. Kitabu hiki kinaviunganisha kuwa seti moja ndogo, yenye uwiano na ya kibinadamu ya vipimo, pamoja na njia ya kupotosha na kizuizi cha kila kipimo. Vipimo hapa vinaelezea timu, huduma na mifumo, na havitumiki kamwe kupanga watu kwa vyeo.",
   "translations": "Tafsiri: "
  },
+ "vi-001": {
+  "tagline": "Cẩm nang thực hành để đo lường công việc của các đội dịch vụ CNTT linh hoạt.",
+  "intro": "Các thước đo linh hoạt theo dõi dòng chảy, việc học và phần mềm chạy được; ITIL đo mức dịch vụ, sự cố, thay đổi, tài sản và giá trị cùng tạo ra với khách hàng. Cuốn sách này gộp hai điều đó thành một bộ thước đo nhỏ gọn, cân bằng và nhân văn, kèm vectơ lợi dụng và rào chắn cho từng chỉ số. Các chỉ số ở đây mô tả đội nhóm, dịch vụ và hệ thống, và không bao giờ được dùng để xếp hạng con người.",
+  "translations": "Bản dịch: "
+ },
+ "vi-vn": {
+  "tagline": "Cẩm nang thực hành để đo lường công việc của các đội dịch vụ CNTT linh hoạt.",
+  "intro": "Các thước đo linh hoạt theo dõi dòng chảy, việc học và phần mềm chạy được; ITIL đo mức dịch vụ, sự cố, thay đổi, tài sản và giá trị cùng tạo ra với khách hàng. Cuốn sách này gộp hai điều đó thành một bộ thước đo nhỏ gọn, cân bằng và nhân văn, kèm vectơ lợi dụng và rào chắn cho từng chỉ số. Các chỉ số ở đây mô tả đội nhóm, dịch vụ và hệ thống, và không bao giờ được dùng để xếp hạng con người.",
+  "translations": "Bản dịch: "
+ },
  "zh-001": {
   "tagline": "一本衡量敏捷IT服务团队工作的实用手册。",
   "intro": "敏捷度量关注流动、学习和可运行的软件；ITIL则衡量服务水平、事件、变更、资产以及与客户共同创造的价值。本书把两者整合为一套小而均衡、以人为本的度量，并为每个指标给出被钻空子的方式和防护栏。这里的指标描述的是团队、服务和系统，绝不用来给个人排名。",
@@ -157,6 +167,8 @@ export const ENDONYMS: Record<string, string> = {
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
+ "vi-001": "Tiếng Việt",
+ "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
  "zh-cn": "简体中文"
 };
