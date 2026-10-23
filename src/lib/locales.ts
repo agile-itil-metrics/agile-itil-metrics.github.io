@@ -12,6 +12,7 @@ export const LOCALES: Locale[] = [
   { slug: 'bn-001', label: 'বাংলা - বিশ্ব' },
   { slug: 'cy-001', label: 'Cymraeg - Byd' },
   { slug: 'cy-gb', label: 'Cymraeg - Prydain Fawr' },
+  { slug: 'de-001', label: 'Deutsch - Welt' },
   { slug: 'en-001', label: 'English - World' },
   { slug: 'en-gb', label: 'English - Great Britain' },
   { slug: 'en-gb-oxendict', label: 'English - Great Britain - Oxford' },
