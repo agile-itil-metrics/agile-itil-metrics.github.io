@@ -65,6 +65,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Ukuran agile mengikuti alur, pembelajaran, dan perangkat lunak yang berfungsi; ITIL mengukur tingkat layanan, insiden, perubahan, aset, dan nilai yang diciptakan bersama pelanggan. Buku ini menggabungkan keduanya menjadi satu himpunan ukuran yang kecil, seimbang, dan manusiawi, dengan vektor manipulasi dan pagar pembatas untuk setiap metrik. Metrik di sini menggambarkan tim, layanan, dan sistem, dan tidak pernah dipakai untuk memeringkat orang.",
   "translations": "Terjemahan: "
  },
+ "ja-001": {
+  "tagline": "アジャイルなITサービスチームの仕事を測定するための実践ハンドブック。",
+  "intro": "アジャイルの指標はフロー、学習、動くソフトウェアを追い、ITILはサービスレベル、インシデント、変更、資産、そして顧客と共に創る価値を測ります。本書はこの二つを、小さくバランスのとれた人にやさしい指標の集合にまとめ、各メトリクスに悪用の経路と防護柵を添えています。ここでのメトリクスはチーム、サービス、システムを記述するものであり、個人の順位付けには決して使いません。",
+  "translations": "翻訳： "
+ },
+ "ja-jp": {
+  "tagline": "アジャイルなITサービスチームの仕事を測定するための実践ハンドブック。",
+  "intro": "アジャイルの指標はフロー、学習、動くソフトウェアを追い、ITILはサービスレベル、インシデント、変更、資産、そして顧客と共に創る価値を測ります。本書はこの二つを、小さくバランスのとれた人にやさしい指標の集合にまとめ、各メトリクスに悪用の経路と防護柵を添えています。ここでのメトリクスはチーム、サービス、システムを記述するものであり、個人の順位付けには決して使いません。",
+  "translations": "翻訳： "
+ },
  "ru-001": {
   "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
   "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
@@ -96,6 +106,8 @@ export const ENDONYMS: Record<string, string> = {
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
+ "ja-001": "日本語",
+ "ja-jp": "日本語（日本）",
  "ru-001": "Русский",
  "zh-001": "中文",
  "zh-cn": "简体中文"
