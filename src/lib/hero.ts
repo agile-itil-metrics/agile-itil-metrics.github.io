@@ -130,6 +130,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Vipimo vya uchapuchapu hufuata mtiririko, kujifunza na programu inayofanya kazi; ITIL hupima viwango vya huduma, matukio, mabadiliko, mali na thamani inayoundwa pamoja na wateja. Kitabu hiki kinaviunganisha kuwa seti moja ndogo, yenye uwiano na ya kibinadamu ya vipimo, pamoja na njia ya kupotosha na kizuizi cha kila kipimo. Vipimo hapa vinaelezea timu, huduma na mifumo, na havitumiki kamwe kupanga watu kwa vyeo.",
   "translations": "Tafsiri: "
  },
+ "ur-001": {
+  "tagline": "ایجائل آئی ٹی سروس ٹیموں کے کام کو ناپنے کے لیے ایک عملی رہنما۔",
+  "intro": "ایجائل پیمائشیں بہاؤ، سیکھنے اور چلتے ہوئے سافٹ ویئر کی پیروی کرتی ہیں؛ آئی ٹی آئی ایل خدمات کی سطحوں، واقعات، تبدیلیوں، اثاثوں اور صارفین کے ساتھ مل کر تخلیق کی گئی قدر کو ناپتا ہے۔ یہ کتاب دونوں کو پیمائشوں کے ایک چھوٹے، متوازن اور انسان دوست مجموعے میں جوڑتی ہے، ہر میٹرک کے بگاڑ کے راستے اور حفاظتی حد کے ساتھ۔ یہاں میٹرکس ٹیموں، خدمات اور نظاموں کو بیان کرتے ہیں، اور لوگوں کی درجہ بندی کے لیے کبھی استعمال نہیں ہوتے۔",
+  "translations": "تراجم: "
+ },
  "vi-001": {
   "tagline": "Cẩm nang thực hành để đo lường công việc của các đội dịch vụ CNTT linh hoạt.",
   "intro": "Các thước đo linh hoạt theo dõi dòng chảy, việc học và phần mềm chạy được; ITIL đo mức dịch vụ, sự cố, thay đổi, tài sản và giá trị cùng tạo ra với khách hàng. Cuốn sách này gộp hai điều đó thành một bộ thước đo nhỏ gọn, cân bằng và nhân văn, kèm vectơ lợi dụng và rào chắn cho từng chỉ số. Các chỉ số ở đây mô tả đội nhóm, dịch vụ và hệ thống, và không bao giờ được dùng để xếp hạng con người.",
@@ -179,6 +184,7 @@ export const ENDONYMS: Record<string, string> = {
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
+ "ur-001": "اردو",
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
