@@ -90,6 +90,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
   "translations": "Переводы: "
  },
+ "sv-001": {
+  "tagline": "En praktisk handbok för att mäta arbetet i agila it-tjänsteteam.",
+  "intro": "Agila mått följer flöde, lärande och fungerande programvara; ITIL mäter servicenivåer, incidenter, ändringar, tillgångar och värde som skapas tillsammans med kunderna. Den här boken förenar de två i en liten, balanserad och human uppsättning mått, med manipuleringsvektorn och skyddsräcket för varje mätetal. Mätetalen här beskriver team, tjänster och system, och används aldrig för att rangordna människor.",
+  "translations": "Översättningar: "
+ },
+ "sv-se": {
+  "tagline": "En praktisk handbok för att mäta arbetet i agila it-tjänsteteam.",
+  "intro": "Agila mått följer flöde, lärande och fungerande programvara; ITIL mäter servicenivåer, incidenter, ändringar, tillgångar och värde som skapas tillsammans med kunderna. Den här boken förenar de två i en liten, balanserad och human uppsättning mått, med manipuleringsvektorn och skyddsräcket för varje mätetal. Mätetalen här beskriver team, tjänster och system, och används aldrig för att rangordna människor.",
+  "translations": "Översättningar: "
+ },
  "sw-001": {
   "tagline": "Mwongozo wa vitendo wa kupima kazi ya timu za huduma za TEHAMA chapuchapu.",
   "intro": "Vipimo vya uchapuchapu hufuata mtiririko, kujifunza na programu inayofanya kazi; ITIL hupima viwango vya huduma, matukio, mabadiliko, mali na thamani inayoundwa pamoja na wateja. Kitabu hiki kinaviunganisha kuwa seti moja ndogo, yenye uwiano na ya kibinadamu ya vipimo, pamoja na njia ya kupotosha na kizuizi cha kila kipimo. Vipimo hapa vinaelezea timu, huduma na mifumo, na havitumiki kamwe kupanga watu kwa vyeo.",
@@ -131,6 +141,8 @@ export const ENDONYMS: Record<string, string> = {
  "ko-001": "한국어",
  "ko-kr": "한국어(대한민국)",
  "ru-001": "Русский",
+ "sv-001": "Svenska",
+ "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
  "zh-001": "中文",
