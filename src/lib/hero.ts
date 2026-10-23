@@ -90,6 +90,16 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
   "translations": "Переводы: "
  },
+ "sw-001": {
+  "tagline": "Mwongozo wa vitendo wa kupima kazi ya timu za huduma za TEHAMA chapuchapu.",
+  "intro": "Vipimo vya uchapuchapu hufuata mtiririko, kujifunza na programu inayofanya kazi; ITIL hupima viwango vya huduma, matukio, mabadiliko, mali na thamani inayoundwa pamoja na wateja. Kitabu hiki kinaviunganisha kuwa seti moja ndogo, yenye uwiano na ya kibinadamu ya vipimo, pamoja na njia ya kupotosha na kizuizi cha kila kipimo. Vipimo hapa vinaelezea timu, huduma na mifumo, na havitumiki kamwe kupanga watu kwa vyeo.",
+  "translations": "Tafsiri: "
+ },
+ "sw-tz": {
+  "tagline": "Mwongozo wa vitendo wa kupima kazi ya timu za huduma za TEHAMA chapuchapu.",
+  "intro": "Vipimo vya uchapuchapu hufuata mtiririko, kujifunza na programu inayofanya kazi; ITIL hupima viwango vya huduma, matukio, mabadiliko, mali na thamani inayoundwa pamoja na wateja. Kitabu hiki kinaviunganisha kuwa seti moja ndogo, yenye uwiano na ya kibinadamu ya vipimo, pamoja na njia ya kupotosha na kizuizi cha kila kipimo. Vipimo hapa vinaelezea timu, huduma na mifumo, na havitumiki kamwe kupanga watu kwa vyeo.",
+  "translations": "Tafsiri: "
+ },
  "zh-001": {
   "tagline": "一本衡量敏捷IT服务团队工作的实用手册。",
   "intro": "敏捷度量关注流动、学习和可运行的软件；ITIL则衡量服务水平、事件、变更、资产以及与客户共同创造的价值。本书把两者整合为一套小而均衡、以人为本的度量，并为每个指标给出被钻空子的方式和防护栏。这里的指标描述的是团队、服务和系统，绝不用来给个人排名。",
@@ -121,6 +131,8 @@ export const ENDONYMS: Record<string, string> = {
  "ko-001": "한국어",
  "ko-kr": "한국어(대한민국)",
  "ru-001": "Русский",
+ "sw-001": "Kiswahili",
+ "sw-tz": "Kiswahili (Tanzania)",
  "zh-001": "中文",
  "zh-cn": "简体中文"
 };
