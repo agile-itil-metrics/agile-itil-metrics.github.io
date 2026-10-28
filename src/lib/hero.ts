@@ -75,6 +75,11 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "Ukuran agile mengikuti alur, pembelajaran, dan perangkat lunak yang berfungsi; ITIL mengukur tingkat layanan, insiden, perubahan, aset, dan nilai yang diciptakan bersama pelanggan. Buku ini menggabungkan keduanya menjadi satu himpunan ukuran yang kecil, seimbang, dan manusiawi, dengan vektor manipulasi dan pagar pembatas untuk setiap metrik. Metrik di sini menggambarkan tim, layanan, dan sistem, dan tidak pernah dipakai untuk memeringkat orang.",
   "translations": "Terjemahan: "
  },
+ "id-id": {
+  "tagline": "Buku panduan praktis untuk mengukur pekerjaan tim layanan TI agile.",
+  "intro": "Ukuran agile mengikuti alur, pembelajaran, dan perangkat lunak yang berfungsi; ITIL mengukur tingkat layanan, insiden, perubahan, aset, dan nilai yang diciptakan bersama pelanggan. Buku ini menggabungkan keduanya menjadi satu himpunan ukuran yang kecil, seimbang, dan manusiawi, dengan vektor manipulasi dan pagar pembatas untuk setiap metrik. Metrik di sini menggambarkan tim, layanan, dan sistem, dan tidak pernah dipakai untuk memeringkat orang.",
+  "translations": "Terjemahan: "
+ },
  "ja-001": {
   "tagline": "アジャイルなITサービスチームの仕事を測定するための実践ハンドブック。",
   "intro": "アジャイルの指標はフロー、学習、動くソフトウェアを追い、ITILはサービスレベル、インシデント、変更、資産、そして顧客と共に創る価値を測ります。本書はこの二つを、小さくバランスのとれた人にやさしい指標の集合にまとめ、各メトリクスに悪用の経路と防護柵を添えています。ここでのメトリクスはチーム、サービス、システムを記述するものであり、個人の順位付けには決して使いません。",
@@ -178,6 +183,7 @@ export const ENDONYMS: Record<string, string> = {
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
+ "id-id": "Bahasa Indonesia (Indonesia)",
  "ja-001": "日本語",
  "ja-jp": "日本語（日本）",
  "ko-001": "한국어",
