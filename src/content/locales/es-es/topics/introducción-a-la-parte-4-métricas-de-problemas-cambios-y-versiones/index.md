@@ -1,0 +1,32 @@
+# Introducción a la Parte 4: Métricas de problemas, cambios y versiones
+
+**Las métricas de problemas, cambios y versiones muestran si la manera en que un equipo cambia sus servicios y aprende de los fallos los hace a la vez más rápidos de mejorar y más estables de operar.**
+
+Cada cambio en un servicio en vivo es una apuesta. Puede entregar valor antes, o puede romper algo de lo que dependen los usuarios. La Parte 3 midió lo bien que funcionan el soporte y el restablecimiento cuando las cosas salen mal (véase el tema 3.0, Introducción a la Parte 3: Métricas del centro de servicios, incidentes y solicitudes). Esta parte mira la otra cara de la misma moneda: cómo entra el cambio en el entorno, con qué frecuencia causa problemas y lo bien que aprende la organización para que los mismos problemas no vuelvan.
+
+La entrega continua e ITIL abordan este terreno desde direcciones distintas. La práctica ágil favorece la entrega continua de software en cambios pequeños y trata la retroalimentación rápida como una medida de seguridad. Las prácticas de ITIL como la gestión de problemas, la habilitación de cambios y la gestión de versiones existen para proteger la estabilidad y para encontrar y eliminar las causas de los incidentes. Las métricas de esta parte permiten comprobar ambas visiones con la misma evidencia. Si el cambio frecuente es seguro, las medidas de fallos y de retrabajo lo mostrarán. Si un control frena la entrega sin reducir el riesgo, lo mostrarán en su lugar las medidas de aprobación y de plazo de entrega.
+
+Dos cautelas recorren toda la parte. La velocidad y la estabilidad deben leerse juntas, porque un número que mejora una dañando en silencio la otra es un mal trato. Las medidas de tiempo también deben leerse como distribuciones con percentiles, como se expone en la Parte 1 (véase el tema 1.6, Alfabetización estadística para métricas de servicio). Cada métrica aquí describe un equipo, un servicio o un sistema. Ninguna clasifica a un individuo, y ninguna es una meta que deba empujarse de forma aislada (véase el tema 1.2, Ley de Goodhart y psicología de las métricas).
+
+## Temas de esta parte
+
+- **4.1 Métricas de gestión de problemas**: problemas abiertos y cerrados, reutilización de errores conocidos, repetición y tiempo hasta la corrección permanente.
+- **4.2 Métricas de análisis posteriores y aprendizaje**: finalización de las revisiones, cierre de las acciones de seguimiento, repetición de las causas y señales de aprendizaje sin culpa.
+- **4.3 Métricas de habilitación de cambios**: volumen de cambios por tipo, plazo de aprobación, proporción de cambios estándar y automatización de la aprobación.
+- **4.4 Fallos de cambio y retrabajo**: tasa de fallos de cambio, proporción de cambios de emergencia, tasas de reversión y de correcciones urgentes, y definiciones coherentes de fallo.
+- **4.5 Métricas de versiones y despliegues**: frecuencia de despliegue, frecuencia de versiones, uso de interruptores de funcionalidad, plazo de entrega de versiones y separación entre despliegue y versión.
+- **4.6 Deuda técnica y errores conocidos**: lista de pendientes de errores conocidos, existencias e intereses de la deuda, y priorización de las correcciones frente al trabajo de funcionalidades.
+
+## Cómo se relacionan estos temas
+
+La parte se divide en dos mitades que dependen una de la otra. Los temas 4.1 y 4.2 tratan del aprendizaje: cómo se rastrean los incidentes hasta sus causas y cómo las revisiones se convierten en correcciones que se completan. Los temas 4.3, 4.4 y 4.5 tratan del cambio: cómo se aprueba, con qué frecuencia falla y cómo llega a los usuarios. El tema 4.6 une las mitades, porque la deuda y los errores conocidos que descubre el aprendizaje son los mismos elementos que compiten con las funcionalidades nuevas por el tiempo del equipo.
+
+El emparejamiento más importante es el de la velocidad con el fallo. La frecuencia de despliegue y de versiones del tema 4.5 (véase el tema 4.5, Métricas de versiones y despliegues) describe con qué frecuencia llega el cambio a producción, y el programa de investigación DORA empareja esas medidas de rendimiento con medidas de estabilidad (véase el tema 2.8, Métricas DORA). El tema 4.4 (véase el tema 4.4, Fallos de cambio y retrabajo) aporta ese lado de la estabilidad. Un equipo que despliega con más frecuencia mientras sus tasas de fallos y de retrabajo se mantienen planas o bajan está mejorando. Un equipo cuya frecuencia sube mientras suben con ella las reversiones y las correcciones urgentes está trasladando el costo a otra parte.
+
+La habilitación de cambios se sitúa entre ambos. El tema 4.3 (véase el tema 4.3, Métricas de habilitación de cambios) mide el lado del control: cuánto tarda la aprobación, cuánto cambio está preautorizado como estándar y cuánto de la aprobación está automatizado. El plazo de aprobación es el costo de un control, y la tasa de fallos de cambio del tema 4.4 es la evidencia de si ese control funciona. Leídos juntos, muestran si un paso de aprobación pesado compra seguridad o solo añade retraso, y si una aprobación más ligera y automatizada ha mantenido estable el fallo.
+
+Los temas de aprendizaje protegen a los demás. La gestión de problemas del tema 4.1 (véase el tema 4.1, Métricas de gestión de problemas) mide la repetición y el tiempo hasta la corrección permanente, que es la prueba a largo plazo de si el manejo de incidentes de la Parte 3 elimina causas o solo restablece el servicio. El tema 4.2 (véase el tema 4.2, Métricas de análisis posteriores y aprendizaje) comprueba que las revisiones realmente se hacen y que sus acciones se cierran, ya que una revisión completada sin seguimiento no cambia nada. Contar revisiones o problemas cerrados es fácil de manipular, así que estos recuentos deben leerse junto a la repetición de las mismas causas, que es más difícil de falsear.
+
+Por último, el tema 4.6 (véase el tema 4.6, Deuda técnica y errores conocidos) explica por qué derivan las demás medidas. Los errores conocidos sin atender y la deuda acumulada aumentan la probabilidad de fallo y el costo de cada cambio posterior. Leer la lista de pendientes de errores conocidos junto a la tasa de fallos de cambio muestra cuándo el aplazamiento de las correcciones ha empezado a frenar la entrega.
+
+Las partes posteriores se apoyan en estas medidas. Los objetivos de nivel de servicio y los presupuestos de errores de la Parte 5 dan un límite de fiabilidad frente al cual puede juzgarse el ritmo del cambio, y la Parte 11 muestra cómo introducir estas medidas sin sembrar miedo.

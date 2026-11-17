@@ -6,7 +6,31 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "الترجمات: ",
   "language": "اللغة: "
  },
+ "ar-eg": {
+  "tagline": "دليل عملي لقياس عمل فرق خدمات تقنية المعلومات الرشيقة.",
+  "intro": "تتبع مقاييس الرشاقة التدفق والتعلّم والبرمجيات العاملة، بينما يقيس ITIL مستويات الخدمة والحوادث والتغييرات والأصول والقيمة المشتركة مع العملاء. يجمع هذا الكتاب بينهما في مجموعة صغيرة متوازنة وإنسانية من المقاييس، مع متجه التلاعب والضابط الواقي لكل مقياس. تصف المقاييس هنا الفرق والخدمات والأنظمة، ولا تُستخدم أبدًا لترتيب الأفراد.",
+  "translations": "الترجمات: ",
+  "language": "اللغة: "
+ },
+ "ar-dz": {
+  "tagline": "دليل عملي لقياس عمل فرق خدمات تقنية المعلومات الرشيقة.",
+  "intro": "تتبع مقاييس الرشاقة التدفق والتعلّم والبرمجيات العاملة، بينما يقيس ITIL مستويات الخدمة والحوادث والتغييرات والأصول والقيمة المشتركة مع العملاء. يجمع هذا الكتاب بينهما في مجموعة صغيرة متوازنة وإنسانية من المقاييس، مع متجه التلاعب والضابط الواقي لكل مقياس. تصف المقاييس هنا الفرق والخدمات والأنظمة، ولا تُستخدم أبدًا لترتيب الأفراد.",
+  "translations": "الترجمات: ",
+  "language": "اللغة: "
+ },
  "bn-001": {
+  "tagline": "এজাইল আইটি সেবা দলের কাজ পরিমাপের একটি ব্যবহারিক নির্দেশিকা।",
+  "intro": "এজাইল পরিমাপ অনুসরণ করে প্রবাহ, শেখা ও কার্যকর সফটওয়্যার; ITIL মাপে সেবার স্তর, ইনসিডেন্ট, পরিবর্তন, সম্পদ এবং গ্রাহকদের সঙ্গে যৌথভাবে সৃষ্ট মূল্য। এই বই দুটিকে মিলিয়ে পরিমাপের একটি ছোট, সুষম, মানবিক সেট দেয়, প্রতিটি মেট্রিকের কারসাজির উপায় ও রক্ষাবেষ্টনীসহ। এখানকার মেট্রিক দল, সেবা ও ব্যবস্থা বর্ণনা করে, এবং মানুষকে ক্রম দিতে কখনও ব্যবহৃত হয় না।",
+  "translations": "অনুবাদ: ",
+  "language": "ভাষা: "
+ },
+ "bn-bd": {
+  "tagline": "এজাইল আইটি সেবা দলের কাজ পরিমাপের একটি ব্যবহারিক নির্দেশিকা।",
+  "intro": "এজাইল পরিমাপ অনুসরণ করে প্রবাহ, শেখা ও কার্যকর সফটওয়্যার; ITIL মাপে সেবার স্তর, ইনসিডেন্ট, পরিবর্তন, সম্পদ এবং গ্রাহকদের সঙ্গে যৌথভাবে সৃষ্ট মূল্য। এই বই দুটিকে মিলিয়ে পরিমাপের একটি ছোট, সুষম, মানবিক সেট দেয়, প্রতিটি মেট্রিকের কারসাজির উপায় ও রক্ষাবেষ্টনীসহ। এখানকার মেট্রিক দল, সেবা ও ব্যবস্থা বর্ণনা করে, এবং মানুষকে ক্রম দিতে কখনও ব্যবহৃত হয় না।",
+  "translations": "অনুবাদ: ",
+  "language": "ভাষা: "
+ },
+ "bn-in": {
   "tagline": "এজাইল আইটি সেবা দলের কাজ পরিমাপের একটি ব্যবহারিক নির্দেশিকা।",
   "intro": "এজাইল পরিমাপ অনুসরণ করে প্রবাহ, শেখা ও কার্যকর সফটওয়্যার; ITIL মাপে সেবার স্তর, ইনসিডেন্ট, পরিবর্তন, সম্পদ এবং গ্রাহকদের সঙ্গে যৌথভাবে সৃষ্ট মূল্য। এই বই দুটিকে মিলিয়ে পরিমাপের একটি ছোট, সুষম, মানবিক সেট দেয়, প্রতিটি মেট্রিকের কারসাজির উপায় ও রক্ষাবেষ্টনীসহ। এখানকার মেট্রিক দল, সেবা ও ব্যবস্থা বর্ণনা করে, এবং মানুষকে ক্রম দিতে কখনও ব্যবহৃত হয় না।",
   "translations": "অনুবাদ: ",
@@ -66,7 +90,31 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Traducciones: ",
   "language": "Idioma: "
  },
+ "es-es": {
+  "tagline": "Un manual práctico para medir el trabajo de los equipos ágiles de servicios de TI.",
+  "intro": "Las medidas ágiles siguen el flujo, el aprendizaje y el software que funciona; ITIL mide los niveles de servicio, los incidentes, los cambios, los activos y el valor creado junto con los clientes. Este libro une ambos en un conjunto pequeño, equilibrado y humano de medidas, con el vector de manipulación y la barrera de protección de cada métrica. Las métricas de aquí describen equipos, servicios y sistemas, y nunca se usan para clasificar a las personas.",
+  "translations": "Traducciones: ",
+  "language": "Idioma: "
+ },
+ "es-mx": {
+  "tagline": "Un manual práctico para medir el trabajo de los equipos ágiles de servicios de TI.",
+  "intro": "Las medidas ágiles siguen el flujo, el aprendizaje y el software que funciona; ITIL mide los niveles de servicio, los incidentes, los cambios, los activos y el valor creado junto con los clientes. Este libro une ambos en un conjunto pequeño, equilibrado y humano de medidas, con el vector de manipulación y la barrera de protección de cada métrica. Las métricas de aquí describen equipos, servicios y sistemas, y nunca se usan para clasificar a las personas.",
+  "translations": "Traducciones: ",
+  "language": "Idioma: "
+ },
  "fr-001": {
+  "tagline": "Un manuel pratique pour mesurer le travail des équipes agiles de services informatiques.",
+  "intro": "Les mesures agiles suivent le flux, l'apprentissage et le logiciel qui fonctionne ; ITIL mesure les niveaux de service, les incidents, les changements, les actifs et la valeur créée avec les clients. Ce livre unit les deux en un petit ensemble équilibré et humain de mesures, avec le vecteur de détournement et le garde-fou de chaque métrique. Les métriques d'ici décrivent des équipes, des services et des systèmes, et ne servent jamais à classer des personnes.",
+  "translations": "Traductions : ",
+  "language": "Langue: "
+ },
+ "fr-fr": {
+  "tagline": "Un manuel pratique pour mesurer le travail des équipes agiles de services informatiques.",
+  "intro": "Les mesures agiles suivent le flux, l'apprentissage et le logiciel qui fonctionne ; ITIL mesure les niveaux de service, les incidents, les changements, les actifs et la valeur créée avec les clients. Ce livre unit les deux en un petit ensemble équilibré et humain de mesures, avec le vecteur de détournement et le garde-fou de chaque métrique. Les métriques d'ici décrivent des équipes, des services et des systèmes, et ne servent jamais à classer des personnes.",
+  "translations": "Traductions : ",
+  "language": "Langue: "
+ },
+ "fr-ca": {
   "tagline": "Un manuel pratique pour mesurer le travail des équipes agiles de services informatiques.",
   "intro": "Les mesures agiles suivent le flux, l'apprentissage et le logiciel qui fonctionne ; ITIL mesure les niveaux de service, les incidents, les changements, les actifs et la valeur créée avec les clients. Ce livre unit les deux en un petit ensemble équilibré et humain de mesures, avec le vecteur de détournement et le garde-fou de chaque métrique. Les métriques d'ici décrivent des équipes, des services et des systèmes, et ne servent jamais à classer des personnes.",
   "translations": "Traductions : ",
@@ -91,6 +139,12 @@ export const HERO: Record<string, Record<string, string>> = {
   "language": "Bahasa: "
  },
  "id-id": {
+  "tagline": "Buku panduan praktis untuk mengukur pekerjaan tim layanan TI agile.",
+  "intro": "Ukuran agile mengikuti alur, pembelajaran, dan perangkat lunak yang berfungsi; ITIL mengukur tingkat layanan, insiden, perubahan, aset, dan nilai yang diciptakan bersama pelanggan. Buku ini menggabungkan keduanya menjadi satu himpunan ukuran yang kecil, seimbang, dan manusiawi, dengan vektor manipulasi dan pagar pembatas untuk setiap metrik. Metrik di sini menggambarkan tim, layanan, dan sistem, dan tidak pernah dipakai untuk memeringkat orang.",
+  "translations": "Terjemahan: ",
+  "language": "Bahasa: "
+ },
+ "id-my": {
   "tagline": "Buku panduan praktis untuk mengukur pekerjaan tim layanan TI agile.",
   "intro": "Ukuran agile mengikuti alur, pembelajaran, dan perangkat lunak yang berfungsi; ITIL mengukur tingkat layanan, insiden, perubahan, aset, dan nilai yang diciptakan bersama pelanggan. Buku ini menggabungkan keduanya menjadi satu himpunan ukuran yang kecil, seimbang, dan manusiawi, dengan vektor manipulasi dan pagar pembatas untuk setiap metrik. Metrik di sini menggambarkan tim, layanan, dan sistem, dan tidak pernah dipakai untuk memeringkat orang.",
   "translations": "Terjemahan: ",
@@ -138,7 +192,31 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Traduções: ",
   "language": "Idioma: "
  },
+ "pt-pt": {
+  "tagline": "Um manual prático para medir o trabalho das equipes ágeis de serviços de TI.",
+  "intro": "As medidas ágeis acompanham o fluxo, o aprendizado e o software funcionando; o ITIL mede níveis de serviço, incidentes, mudanças, ativos e o valor cocriado com os clientes. Este livro une os dois em um conjunto pequeno, equilibrado e humano de medidas, com o vetor de manipulação e a barreira de proteção de cada métrica. As métricas aqui descrevem equipes, serviços e sistemas, e nunca são usadas para classificar pessoas.",
+  "translations": "Traduções: ",
+  "language": "Idioma: "
+ },
+ "pt-br": {
+  "tagline": "Um manual prático para medir o trabalho das equipes ágeis de serviços de TI.",
+  "intro": "As medidas ágeis acompanham o fluxo, o aprendizado e o software funcionando; o ITIL mede níveis de serviço, incidentes, mudanças, ativos e o valor cocriado com os clientes. Este livro une os dois em um conjunto pequeno, equilibrado e humano de medidas, com o vetor de manipulação e a barreira de proteção de cada métrica. As métricas aqui descrevem equipes, serviços e sistemas, e nunca são usadas para classificar pessoas.",
+  "translations": "Traduções: ",
+  "language": "Idioma: "
+ },
  "ru-001": {
+  "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
+  "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
+  "translations": "Переводы: ",
+  "language": "Язык: "
+ },
+ "ru-ru": {
+  "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
+  "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
+  "translations": "Переводы: ",
+  "language": "Язык: "
+ },
+ "ru-by": {
   "tagline": "Практическое руководство по измерению работы гибких команд ИТ-услуг.",
   "intro": "Гибкие метрики отслеживают поток, обучение и работающее программное обеспечение; ITIL измеряет уровни услуг, инциденты, изменения, активы и ценность, создаваемую совместно с клиентами. Эта книга объединяет их в один небольшой, сбалансированный и человечный набор метрик, с вектором манипуляции и ограждением для каждой метрики. Метрики здесь описывают команды, услуги и системы и никогда не используются для ранжирования людей.",
   "translations": "Переводы: ",
@@ -202,7 +280,11 @@ export const HERO: Record<string, Record<string, string>> = {
 
 export const ENDONYMS: Record<string, string> = {
  "ar-001": "العربية",
+ "ar-eg": "العربية - مصر",
+ "ar-dz": "العربية - الجزائر",
  "bn-001": "বাংলা",
+ "bn-bd": "বাংলা - বাংলাদেশ",
+ "bn-in": "বাংলা - ভারত",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
  "da-001": "Dansk",
@@ -212,11 +294,16 @@ export const ENDONYMS: Record<string, string> = {
  "en-gb-oxendict": "English (Great Britain, Oxford)",
  "en-us": "English (United States)",
  "es-001": "Español",
+ "es-es": "Español - España",
+ "es-mx": "Español - México",
  "fr-001": "Français",
+ "fr-fr": "Français - France",
+ "fr-ca": "Français - Canada",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
  "id-id": "Bahasa Indonesia (Indonesia)",
+ "id-my": "Bahasa Indonesia - Malaysia",
  "ja-001": "日本語",
  "ja-jp": "日本語（日本）",
  "ko-001": "한국어",
@@ -224,7 +311,11 @@ export const ENDONYMS: Record<string, string> = {
  "nl-001": "Nederlands",
  "nl-nl": "Nederlands (Nederland)",
  "pt-001": "Português",
+ "pt-pt": "Português - Portugal",
+ "pt-br": "Português - Brasil",
  "ru-001": "Русский",
+ "ru-ru": "Русский - Россия",
+ "ru-by": "Русский - Беларусь",
  "sv-001": "Svenska",
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
