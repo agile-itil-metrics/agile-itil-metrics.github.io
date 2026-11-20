@@ -1,0 +1,144 @@
+{
+  "locale": {
+    "label": "Italiano (Italia)"
+  },
+  "siteTitle": "Metriche ITIL agili",
+  "skipToContent": "Vai al contenuto",
+  "nav": {
+    "contents": "Indice",
+    "skills": "Skill",
+    "source": "Sorgente"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Lingua",
+    "textSize": "Dimensione del testo",
+    "share": "Condividi",
+    "search": "Cerca",
+    "searchInput": "Cerca nel libro",
+    "searchSubmit": "Cerca"
+  },
+  "share": {
+    "emailLink": "Invia il link per email",
+    "shareOnLinkedIn": "Condividi su LinkedIn",
+    "shareOnReddit": "Condividi su Reddit",
+    "shareOnBluesky": "Condividi su Bluesky",
+    "shareOnMastodon": "Condividi su Mastodon",
+    "copyLink": "Copia il link",
+    "copied": "Copiato",
+    "copyFailed": "Impossibile copiare"
+  },
+  "links": {
+    "label": "Link",
+    "llms": "llms.txt (per gli agenti IA)",
+    "skills": "Skill IA su GitHub",
+    "issues": "Tracker delle segnalazioni"
+  },
+  "footer": {
+    "tagline": "Misura i servizi IT agili senza distorcere il lavoro.",
+    "sourceAndContributions": "Sorgente e contributi:",
+    "builtWith": "Realizzato con",
+    "ledBy": "Creato da"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "contents": "Indice",
+    "skills": "Skill",
+    "label": "Percorso di navigazione"
+  },
+  "contents": {
+    "pageTitle": "Indice",
+    "lead": "Dodici parti e 88 argomenti per misurare bene la gestione agile dei servizi IT, ciascuno con vettori di manipolazione e protezioni, domande di discussione, prompt IA e skill IA.",
+    "readingIn": "Lettura in {$language}",
+    "part": "Parte {$number}",
+    "reference": "Riferimento",
+    "comingSoon": "in arrivo"
+  },
+  "topic": {
+    "eyebrow": "Argomento {$number}",
+    "paginationLabel": "Navigazione tra gli argomenti",
+    "previous": "Precedente",
+    "next": "Successivo"
+  },
+  "parts": {
+    "1": {
+      "tagline": "Perché, cosa e come misurare senza distorcere il lavoro.",
+      "title": "Fondamenti della misurazione"
+    },
+    "2": {
+      "tagline": "Come il lavoro scorre nei team agili che gestiscono anche servizi.",
+      "title": "Metriche di flusso e di consegna continua"
+    },
+    "3": {
+      "tagline": "Quanto funzionano bene il supporto e il ripristino per gli utenti.",
+      "title": "Metriche di service desk, incidenti e richieste"
+    },
+    "4": {
+      "tagline": "Come le modifiche e l'apprendimento influiscono su stabilità e velocità.",
+      "title": "Metriche di problemi, modifiche e rilasci"
+    },
+    "5": {
+      "tagline": "Su che cosa possono contare gli utenti.",
+      "title": "Metriche di livello di servizio, disponibilità e affidabilità"
+    },
+    "6": {
+      "tagline": "Se gli utenti stanno meglio.",
+      "title": "Metriche di cliente ed esperienza"
+    },
+    "7": {
+      "tagline": "Sapere che cosa si possiede e quanto costa.",
+      "title": "Metriche di asset, configurazione e finanza"
+    },
+    "8": {
+      "tagline": "Fiducia, controllo e terze parti dietro il servizio.",
+      "title": "Metriche di sicurezza, rischio, conformità e fornitori"
+    },
+    "9": {
+      "tagline": "La salute delle persone e l'abitudine a migliorare.",
+      "title": "Metriche di persone, team e miglioramento"
+    },
+    "10": {
+      "tagline": "Che cosa cambia l'IA generativa nei numeri.",
+      "title": "Metriche nell'era dell'IA"
+    },
+    "11": {
+      "tagline": "Da una manciata di misure a un'abitudine.",
+      "title": "Costruire un programma di metriche"
+    },
+    "12": {
+      "tagline": "Materiale di riferimento.",
+      "title": "Appendici"
+    }
+  },
+  "results": {
+    "button": "Cerca",
+    "label": "Risultati della ricerca",
+    "heading": "Risultati della ricerca per {$query}",
+    "failed": "Impossibile caricare l'indice di ricerca. Riprova più tardi.",
+    "searching": "Ricerca in corso…",
+    "none": "Nessun risultato per {$query}.",
+    "browse": "Sfoglia invece l'indice.",
+    "count": "{$count} risultati.",
+    "limited": "Vengono mostrati i migliori {$count} risultati."
+  },
+  "skillsPage": {
+    "title": "Skill IA",
+    "lead": "Skill in formato Claude Code a cui rimandano gli argomenti. Ciascuna è un file SKILL.md che puoi copiare nella tua cartella delle skill.",
+    "viewSource": "Vedi su GitHub",
+    "backToList": "Tutte le skill"
+  },
+  "error": {
+    "label": "Errore {$status}",
+    "notFound": "Questa pagina non esiste",
+    "generic": "Qualcosa è andato storto",
+    "unknown": "Errore sconosciuto",
+    "try": "Prova con l'indice."
+  },
+  "home": {
+    "continue": "Continua su Metriche ITIL agili"
+  },
+  "topicWords": [
+    "argomento",
+    "argomenti"
+  ]
+}

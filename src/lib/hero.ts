@@ -150,6 +150,18 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Terjemahan: ",
   "language": "Bahasa: "
  },
+ "it-001": {
+  "tagline": "Un manuale pratico per misurare il lavoro dei team di servizi IT agili.",
+  "intro": "Le misure agili seguono il flusso, l'apprendimento e il software funzionante; ITIL misura livelli di servizio, incidenti, modifiche, asset e valore co-creato con i clienti. Questo libro li riunisce in un insieme piccolo, equilibrato e a misura d'uomo di misure, con il vettore di manipolazione e la protezione per ogni metrica. Le metriche qui descrivono team, servizi e sistemi e non vengono mai usate per classificare le persone.",
+  "translations": "Traduzioni: ",
+  "language": "Lingua: "
+ },
+ "it-it": {
+  "tagline": "Un manuale pratico per misurare il lavoro dei team di servizi IT agili.",
+  "intro": "Le misure agili seguono il flusso, l'apprendimento e il software funzionante; ITIL misura livelli di servizio, incidenti, modifiche, asset e valore co-creato con i clienti. Questo libro li riunisce in un insieme piccolo, equilibrato e a misura d'uomo di misure, con il vettore di manipolazione e la protezione per ogni metrica. Le metriche qui descrivono team, servizi e sistemi e non vengono mai usate per classificare le persone.",
+  "translations": "Traduzioni: ",
+  "language": "Lingua: "
+ },
  "ja-001": {
   "tagline": "アジャイルなITサービスチームの仕事を測定するための実践ハンドブック。",
   "intro": "アジャイルの指標はフロー、学習、動くソフトウェアを追い、ITILはサービスレベル、インシデント、変更、資産、そして顧客と共に創る価値を測ります。本書はこの二つを、小さくバランスのとれた人にやさしい指標の集合にまとめ、各メトリクスに悪用の経路と防護柵を添えています。ここでのメトリクスはチーム、サービス、システムを記述するものであり、個人の順位付けには決して使いません。",
@@ -246,6 +258,30 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Tafsiri: ",
   "language": "Lugha: "
  },
+ "th-001": {
+  "tagline": "คู่มือปฏิบัติสำหรับการวัดงานของทีมบริการไอทีแบบคล่องตัว",
+  "intro": "การวัดแบบคล่องตัวติดตามการไหลของงาน การเรียนรู้ และซอฟต์แวร์ที่ใช้งานได้ ส่วน ITIL วัดระดับบริการ เหตุขัดข้อง การเปลี่ยนแปลง สินทรัพย์ และคุณค่าที่สร้างร่วมกับลูกค้า หนังสือเล่มนี้รวมทั้งสองไว้ในชุดตัวชี้วัดที่เล็ก สมดุล และเป็นมิตรกับผู้คน โดยระบุวิธีที่ตัวชี้วัดอาจถูกบิดเบือนและมาตรการป้องกันสำหรับทุกตัว ตัวชี้วัดในที่นี้อธิบายทีม บริการ และระบบ และไม่เคยใช้จัดอันดับบุคคล",
+  "translations": "คำแปล: ",
+  "language": "ภาษา: "
+ },
+ "th-th": {
+  "tagline": "คู่มือปฏิบัติสำหรับการวัดงานของทีมบริการไอทีแบบคล่องตัว",
+  "intro": "การวัดแบบคล่องตัวติดตามการไหลของงาน การเรียนรู้ และซอฟต์แวร์ที่ใช้งานได้ ส่วน ITIL วัดระดับบริการ เหตุขัดข้อง การเปลี่ยนแปลง สินทรัพย์ และคุณค่าที่สร้างร่วมกับลูกค้า หนังสือเล่มนี้รวมทั้งสองไว้ในชุดตัวชี้วัดที่เล็ก สมดุล และเป็นมิตรกับผู้คน โดยระบุวิธีที่ตัวชี้วัดอาจถูกบิดเบือนและมาตรการป้องกันสำหรับทุกตัว ตัวชี้วัดในที่นี้อธิบายทีม บริการ และระบบ และไม่เคยใช้จัดอันดับบุคคล",
+  "translations": "คำแปล: ",
+  "language": "ภาษา: "
+ },
+ "tr-001": {
+  "tagline": "Çevik BT hizmet takımlarının işini ölçmek için uygulamalı bir el kitabı.",
+  "intro": "Çevik ölçümler akışı, öğrenmeyi ve çalışan yazılımı izler; ITIL ise hizmet düzeylerini, olayları, değişiklikleri, varlıkları ve müşterilerle birlikte yaratılan değeri ölçer. Bu kitap ikisini küçük, dengeli ve insani bir ölçüm kümesinde birleştirir; her metrik için manipülasyon yolunu ve koruma önlemini verir. Buradaki metrikler takımları, hizmetleri ve sistemleri tanımlar, insanları sıralamak için asla kullanılmaz.",
+  "translations": "Çeviriler: ",
+  "language": "Dil: "
+ },
+ "tr-tr": {
+  "tagline": "Çevik BT hizmet takımlarının işini ölçmek için uygulamalı bir el kitabı.",
+  "intro": "Çevik ölçümler akışı, öğrenmeyi ve çalışan yazılımı izler; ITIL ise hizmet düzeylerini, olayları, değişiklikleri, varlıkları ve müşterilerle birlikte yaratılan değeri ölçer. Bu kitap ikisini küçük, dengeli ve insani bir ölçüm kümesinde birleştirir; her metrik için manipülasyon yolunu ve koruma önlemini verir. Buradaki metrikler takımları, hizmetleri ve sistemleri tanımlar, insanları sıralamak için asla kullanılmaz.",
+  "translations": "Çeviriler: ",
+  "language": "Dil: "
+ },
  "ur-001": {
   "tagline": "ایجائل آئی ٹی سروس ٹیموں کے کام کو ناپنے کے لیے ایک عملی رہنما۔",
   "intro": "ایجائل پیمائشیں بہاؤ، سیکھنے اور چلتے ہوئے سافٹ ویئر کی پیروی کرتی ہیں؛ آئی ٹی آئی ایل خدمات کی سطحوں، واقعات، تبدیلیوں، اثاثوں اور صارفین کے ساتھ مل کر تخلیق کی گئی قدر کو ناپتا ہے۔ یہ کتاب دونوں کو پیمائشوں کے ایک چھوٹے، متوازن اور انسان دوست مجموعے میں جوڑتی ہے، ہر میٹرک کے بگاڑ کے راستے اور حفاظتی حد کے ساتھ۔ یہاں میٹرکس ٹیموں، خدمات اور نظاموں کو بیان کرتے ہیں، اور لوگوں کی درجہ بندی کے لیے کبھی استعمال نہیں ہوتے۔",
@@ -304,6 +340,8 @@ export const ENDONYMS: Record<string, string> = {
  "id-001": "Bahasa Indonesia",
  "id-id": "Bahasa Indonesia (Indonesia)",
  "id-my": "Bahasa Indonesia - Malaysia",
+ "it-001": "Italiano",
+ "it-it": "Italiano (Italia)",
  "ja-001": "日本語",
  "ja-jp": "日本語（日本）",
  "ko-001": "한국어",
@@ -320,6 +358,10 @@ export const ENDONYMS: Record<string, string> = {
  "sv-se": "Svenska (Sverige)",
  "sw-001": "Kiswahili",
  "sw-tz": "Kiswahili (Tanzania)",
+ "th-001": "ไทย",
+ "th-th": "ไทย (ประเทศไทย)",
+ "tr-001": "Türkçe",
+ "tr-tr": "Türkçe (Türkiye)",
  "ur-001": "اردو",
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",

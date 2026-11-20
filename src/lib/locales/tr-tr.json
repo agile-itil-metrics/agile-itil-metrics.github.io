@@ -1,0 +1,144 @@
+{
+  "locale": {
+    "label": "Türkçe (Türkiye)"
+  },
+  "siteTitle": "Çevik ITIL Metrikleri",
+  "skipToContent": "İçeriğe geç",
+  "nav": {
+    "contents": "İçindekiler",
+    "skills": "Beceriler",
+    "source": "Kaynak"
+  },
+  "picker": {
+    "theme": "Tema",
+    "locale": "Dil",
+    "textSize": "Yazı boyutu",
+    "share": "Paylaş",
+    "search": "Ara",
+    "searchInput": "Kitapta ara",
+    "searchSubmit": "Ara"
+  },
+  "share": {
+    "emailLink": "Bağlantıyı e-postayla gönder",
+    "shareOnLinkedIn": "LinkedIn'de paylaş",
+    "shareOnReddit": "Reddit'te paylaş",
+    "shareOnBluesky": "Bluesky'da paylaş",
+    "shareOnMastodon": "Mastodon'da paylaş",
+    "copyLink": "Bağlantıyı kopyala",
+    "copied": "Kopyalandı",
+    "copyFailed": "Kopyalanamadı"
+  },
+  "links": {
+    "label": "Bağlantılar",
+    "llms": "llms.txt (yapay zekâ ajanları için)",
+    "skills": "GitHub'daki yapay zekâ becerileri",
+    "issues": "Sorun izleyici"
+  },
+  "footer": {
+    "tagline": "Çevik BT hizmetlerini işi bozmadan ölçün.",
+    "sourceAndContributions": "Kaynak ve katkılar:",
+    "builtWith": "Şununla yapıldı",
+    "ledBy": "Oluşturan"
+  },
+  "breadcrumb": {
+    "home": "Ana sayfa",
+    "contents": "İçindekiler",
+    "skills": "Beceriler",
+    "label": "Gezinti yolu"
+  },
+  "contents": {
+    "pageTitle": "İçindekiler",
+    "lead": "Çevik BT hizmet yönetimini iyi ölçmek için on iki bölüm ve 88 konu. Her konuda manipülasyon yolları ve koruma önlemleri, tartışma soruları, yapay zekâ istemleri ve yapay zekâ becerileri bulunur.",
+    "readingIn": "{$language} dilinde okunuyor",
+    "part": "Bölüm {$number}",
+    "reference": "Başvuru",
+    "comingSoon": "yakında"
+  },
+  "topic": {
+    "eyebrow": "Konu {$number}",
+    "paginationLabel": "Konu gezintisi",
+    "previous": "Önceki",
+    "next": "Sonraki"
+  },
+  "parts": {
+    "1": {
+      "tagline": "İşi bozmadan neden, neyi ve nasıl ölçeceğiniz.",
+      "title": "Ölçümün Temelleri"
+    },
+    "2": {
+      "tagline": "Aynı zamanda hizmet de yürüten çevik takımlarda işin akışı.",
+      "title": "Akış ve Sürekli Teslimat Metrikleri"
+    },
+    "3": {
+      "tagline": "Destek ve geri getirmenin kullanıcılar için ne kadar iyi çalıştığı.",
+      "title": "Hizmet Masası, Olay ve Talep Metrikleri"
+    },
+    "4": {
+      "tagline": "Değişikliğin ve öğrenmenin kararlılığı ve hızı nasıl etkilediği.",
+      "title": "Sorun, Değişiklik ve Yayın Metrikleri"
+    },
+    "5": {
+      "tagline": "Kullanıcıların güvenebilecekleri şeyler.",
+      "title": "Hizmet Düzeyi, Kullanılabilirlik ve Güvenilirlik Metrikleri"
+    },
+    "6": {
+      "tagline": "Kullanıcıların durumunun daha iyi olup olmadığı.",
+      "title": "Müşteri ve Deneyim Metrikleri"
+    },
+    "7": {
+      "tagline": "Neye sahip olduğunuzu ve maliyetini bilmek.",
+      "title": "Varlık, Yapılandırma ve Finansal Metrikler"
+    },
+    "8": {
+      "tagline": "Güven, kontrol ve hizmetin arkasındaki üçüncü taraflar.",
+      "title": "Güvenlik, Risk, Uyum ve Tedarikçi Metrikleri"
+    },
+    "9": {
+      "tagline": "İnsanların sağlığı ve iyileştirme alışkanlığı.",
+      "title": "İnsan, Takım ve İyileştirme Metrikleri"
+    },
+    "10": {
+      "tagline": "Üretken yapay zekânın sayılarda neyi değiştirdiği.",
+      "title": "Yapay Zekâ Çağında Metrikler"
+    },
+    "11": {
+      "tagline": "Bir avuç ölçümden bir alışkanlığa.",
+      "title": "Metrik Programı Kurmak"
+    },
+    "12": {
+      "tagline": "Başvuru malzemesi.",
+      "title": "Ekler"
+    }
+  },
+  "results": {
+    "button": "Ara",
+    "label": "Arama sonuçları",
+    "heading": "{$query} için arama sonuçları",
+    "failed": "Arama dizini yüklenemedi. Daha sonra tekrar deneyin.",
+    "searching": "Aranıyor…",
+    "none": "{$query} ile eşleşen bir şey yok.",
+    "browse": "Bunun yerine içindekilere göz atın.",
+    "count": "{$count} sonuç.",
+    "limited": "En iyi {$count} sonuç gösteriliyor."
+  },
+  "skillsPage": {
+    "title": "Yapay zekâ becerileri",
+    "lead": "Konuların bağlantı verdiği Claude Code biçimindeki beceriler. Her biri, kendi beceri klasörünüze kopyalayabileceğiniz bir SKILL.md dosyasıdır.",
+    "viewSource": "GitHub'da görüntüle",
+    "backToList": "Tüm beceriler"
+  },
+  "error": {
+    "label": "Hata {$status}",
+    "notFound": "Bu sayfa burada yok",
+    "generic": "Bir şeyler ters gitti",
+    "unknown": "Bilinmeyen hata",
+    "try": "İçindekileri deneyin."
+  },
+  "home": {
+    "continue": "Çevik ITIL Metrikleri'ne devam et"
+  },
+  "topicWords": [
+    "konu",
+    "konular"
+  ]
+}
