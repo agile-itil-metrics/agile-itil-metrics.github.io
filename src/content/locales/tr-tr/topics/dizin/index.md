@@ -1,0 +1,854 @@
+# Dizin
+
+Kavramlar, çerçeveler ve metrikler; her biri göründüğü konularla birlikte. Sayılar konu numaralarıdır; başlıklar README'deki içindekiler tablosunda ve [yapıda](../../../../spec/structure.md) yer alır. Kaynak konulu kısa tanımlar için bkz. Konu 12.1, Sözlük.
+
+## Çerçeveler ve modeller
+
+- **DevEx**: 9.1
+- **DORA**: 1.1, 1.3, 1.5, 2.0, 2.1, 2.2, 2.4, 2.7, 2.8, 3.3, 3.4, 3.7, ve diğerleri
+- **FinOps**: 5.4, 7.0, 7.5, 7.6, 7.7
+- **Four Keys**: 2.8
+- **GQM**: 1.7
+- **ISO/IEC 20000**: 1.4
+- **ISO/IEC 27001**: 8.1, 8.3
+- **ITIL**: 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 2.0, 2.1, 2.2, 2.3, ve diğerleri
+- **NIST**: 10.5
+- **OKR**: 1.0, 1.7, 6.5
+- **SPACE**: 1.1, 9.1
+
+## Metrikler
+
+Her konunun tanım tablosunda göründüğü haliyle metrik adları. Tam girdiler Ek 12.2'dedir (bkz. Konu 12.2, Metrik tanımları ve formülleri başvurusu).
+
+- **Acil değişiklik payı**: 4.4
+- **Acil yama oranı**: 4.4
+- **Ajan eylemi geri alma oranı**: 10.3
+- **Aktif süre payı**: 3.3
+- **Akış verimliliği**: 2.2
+- **Algı farkı**: 1.2
+- **Algılama kapsamı**: 5.5
+- **Algılama süresi (TTD)**: 5.5
+- **Amaç netliği**: 9.6
+- **Anahtar sonuç puan dağılımı**: 1.7
+- **Anket yanıt oranı**: 1.5, 6.1
+- **Anlaşma kapsamı ve güncelliği**: 5.1
+- **Anomali kabul süresi**: 7.6
+- **Aralık genişliği**: 1.6
+- **Arama başarı oranı**: 6.3
+- **Araç nabız puanı**: 6.4
+- **Araç ve süreç memnuniyeti**: 9.1
+- **Atıl aygıt payı**: 7.3
+- **Atıl lisans (shelfware) maliyeti**: 7.2
+- **Açık bilinen hatalara bağlı olaylar**: 4.6
+- **Açık eylem yaşı**: 4.2
+- **Açık kaynak inceleme kapsamı**: 7.2
+- **Açıklama kontrolü geçme oranı**: 10.2
+- **Açıklık sinyali**: 11.3
+- **Açılan ve kapatılan sorunlar**: 4.1
+- **Aşama gözden geçirme tamamlanması**: 11.5
+- **Bayat kalem payı**: 6.3
+- **Bayat çekme isteği sayısı**: 2.7
+- **Bağımlılık gecikmesi**: 9.3
+- **Bağımlılık kapsamı**: 7.4
+- **Başarısız dağıtımdan kurtarma süresi**: 2.8
+- **Başarısızlık tanımı uzlaşması**: 4.4
+- **Bekleme süresi**: 2.2, 2.4
+- **Benimsenme oranı**: 6.3
+- **Bilgi bağlantı oranı**: 3.6
+- **Bilgi kapsamı**: 9.3
+- **Bilinen hata birikim listesi yaşı**: 4.6
+- **Bilinen hata yeniden kullanım oranı**: 4.1
+- **Bilişsel yük derecesi**: 9.1
+- **Bireysel kullanım olayları**: 11.3
+- **Birikim listesi boyutu**: 2.6
+- **Birikim listesi eleme oranı**: 2.6
+- **Birikim listesi giriş-çıkış oranı**: 2.6
+- **Birikim listesi yaşı**: 2.6
+- **Birim maliyet**: 7.5
+- **Birleştirme sonrası düzeltme oranı**: 2.7
+- **Birleştirme sonrası yeniden iş**: 10.2
+- **Borç faizi**: 4.6
+- **Borç kapasite payı**: 4.6
+- **Borç net değişimi**: 4.6
+- **Borç stoku**: 4.6
+- **Bot memnuniyeti ve çaba**: 10.3
+- **Boyut kapsamı**: 9.1
+- **Boyuta göre profil**: 11.4
+- **Bozulma payı**: 5.3
+- **BT sorunlarına kaybedilen zaman**: 6.2
+- **Bulgu kapatma süresi**: 8.3
+- **Bulut birim maliyeti**: 7.6
+- **Bütçe politikasına uyum**: 5.2
+- **Büyük olay sayısı**: 3.4
+- **Büyük olay süresi**: 3.4
+- **CES**: 6.1
+- **CI bütünlüğü**: 7.4
+- **CI doğruluğu**: 7.4
+- **CMDB kullanım oranı**: 7.4
+- **CSAT**: 6.1
+- **CSF'den KPI'a kapsam**: 1.7
+- **Dağıtım kapsamı**: 7.5, 7.6
+- **Dağıtım sıklığı**: 2.8, 4.5
+- **Dağıtım yeniden iş oranı**: 2.8, 4.4
+- **Dağıtımdan yayına boşluk**: 4.5
+- **Denetim emeği**: 8.3
+- **Deneyim farkı**: 6.2
+- **Deneyim puanı**: 6.2
+- **Desteklenen takım başına araç maliyeti**: 11.2
+- **Destekli destek kalitesi**: 10.2
+- **Desteksiz güven derecelendirmesi**: 10.2
+- **Devam eden iş**: 2.3
+- **Devam eden iş (WIP)**: 2.1
+- **Devir bağlamı bütünlüğü**: 10.3
+- **Devir bekleme süresi (85. yüzdelik dilim)**: 5.1
+- **Devir teslim bekleme payı**: 9.3
+- **Devir teslim sayısı**: 2.4, 9.3
+- **Değer akışı teslim süresi**: 2.4
+- **Değerlendirme güncelliği**: 10.5
+- **Değerlendirme katılımı**: 11.4
+- **Değerlendirme yükü**: 11.4
+- **Değerlendirmelerden gelen iyileştirme eylemleri**: 11.4
+- **Değişiklik başarısızlık oranı**: 2.8, 4.4
+- **Değişiklik kaydı bütünlüğü**: 4.3
+- **Değişiklik kontrolü kapsamı**: 10.5
+- **Değişiklik teslim süresi**: 2.8
+- **Değişiklik-olay bağlantı oranı**: 4.4
+- **Değişim yükü**: 9.6
+- **Değiştirme teslim süresi**: 7.3
+- **Dokunma süresi**: 2.2
+- **Doygunluk**: 5.4
+- **Doğrulama yükü**: 10.4
+- **Doğrulanmış çözüm oranı**: 10.3
+- **Durum modeli kayması**: 1.5
+- **Durum tespiti güncelliği**: 8.4
+- **Duygu eğilimi**: 6.2
+- **Döngülenmiş tamamlanmış ve doğru yüzdesi**: 2.4
+- **Düzeltme (yeniden beyan) oranı**: 8.5
+- **Düşme oranı**: 3.7
+- **Ekran boyutu**: 11.1
+- **Ele alma planı zamanındalığı**: 8.2
+- **Ele alma süresi**: 3.1
+- **Eleştirmen takip süresi**: 6.1
+- **Elle çalışma payı**: 11.2
+- **Emeklilik oranı**: 11.1
+- **Emekliye ayrılan ölçümler ve raporlar**: 11.5
+- **Emekliye ayırma oranı**: 1.4
+- **En eski açık olayın yaşı**: 3.3
+- **En eski açık öğe yaşı**: 1.6
+- **Engel çözüm süresi**: 9.1
+- **Engellenmiş süre payı**: 2.1
+- **Envanter doğruluğu**: 7.1
+- **Erişilebilirlik talebi çözüm süresi**: 6.4
+- **Erişim gözden geçirme güncelliği**: 1.4
+- **Eskimiş bayrak sayısı**: 4.5
+- **Etki denetimi oranı**: 9.5
+- **Etki tahmini isabet oranı**: 7.4
+- **Etkin kullanım oranı**: 6.3
+- **Etkin lisans konumu**: 7.2
+- **Eylem kapatma oranı**: 4.2
+- **Eylem maddesi takibi**: 3.4
+- **Eylem takip oranı**: 9.5
+- **Eyleme dönüştürülebilir uyarı oranı**: 5.5
+- **Eğitimi uygulama oranı**: 9.4
+- **Fayda gerçekleşme oranı**: 6.5
+- **Fayda gözden geçirmesi tamamlama oranı**: 1.3
+- **Fayda tahmini doğruluğu**: 7.7
+- **Faydalılık oranı**: 3.6
+- **Fikirden denemeye kadar geçen süre**: 9.5
+- **Gece kesinti oranı**: 5.7
+- **Gecikme yüzdelik dilimi**: 5.4
+- **Gecikmiş kritik bulgular**: 8.1
+- **Geri alma oranı**: 4.4
+- **Geri bildirim döngüsü süresi**: 9.1
+- **Geri dönüş oranı**: 9.6
+- **Geri dönüş teması oranı**: 10.3
+- **Geri getirme süresi**: 3.3
+- **Geri ödeme süresi**: 7.7
+- **Geriye tarihleme oranı**: 1.5
+- **Geçici çözüm kapsamı**: 4.6
+- **Geçici çözüm yaygınlığı**: 6.4
+- **Giderilen angarya**: 5.7
+- **Gizlilik güvencesi uyumu**: 6.4
+- **Gönüllü benimseme**: 11.3
+- **Gönüllü benimseme payı**: 9.6
+- **Gönüllü işten ayrılma ve çıkış temaları**: 9.2
+- **Görevler ayrılığı çatışmaları**: 8.3
+- **Gösterge gözden geçirme yaşı**: 1.7
+- **Gözden geçirme tamamlama zamanındalığı**: 3.4
+- **Gözden geçirmede veri yaşı**: 1.1
+- **Güncelleme gecikmesi**: 7.4
+- **Güvenli imha tamamlanması**: 7.3
+- **Güvenlik bildirim oranı**: 8.1
+- **Hazır iş derinliği**: 2.6
+- **Hedef izlenebilirliği**: 1.7
+- **Hedef içinde karşılama**: 3.5
+- **Hedef kitle erişimi (betimleyici)**: 11.1
+- **Hedefi aşmış hizmet birikim listesi**: 2.6
+- **Hesabı bulunmayan varlık oranı**: 7.1
+- **Hipotez kontrol oranı**: 6.5
+- **Hizmet başına maliyet**: 7.5
+- **Hizmete göre olay hacmi**: 3.2
+- **Hızlandırma oranı**: 2.9
+- **İhtiyaç desteği derecesi**: 9.2
+- **İlan süresi**: 3.4
+- **İletişim hacmi**: 3.1
+- **İletişim oranı**: 3.1
+- **İletişim zamanındalığı**: 3.4
+- **İlgili sertifika kapsamı**: 9.4
+- **İlk değere kadar geçen süre**: 6.5
+- **İlk gün hazırlık oranı**: 6.4
+- **İlk incelemeye kadar süre**: 2.7
+- **İlk katkıya kadar geçen süre**: 9.4
+- **İlk temasta çözüm oranı**: 3.1
+- **İlk yanıt süresi**: 3.3
+- **İlk yararlı sonuca geçen süre**: 11.5
+- **İnceleme kalite puanı**: 4.2
+- **İnceleme kapsamı**: 4.2
+- **İnceleme turları**: 2.7
+- **İnceleme yükü**: 10.2
+- **İnceleme yükü yoğunlaşması**: 2.7
+- **İnceleme çevrim süresi**: 2.7
+- **İncelenmiş çıktı doğruluğu**: 10.1
+- **İnsan gözetimi kanıt oranı**: 10.5
+- **İnsana ulaşma süresi**: 10.3
+- **İsraf oranı**: 7.6
+- **İstek tabanlı kullanılabilirlik**: 5.3
+- **İtiraz yanıt süresi**: 11.3
+- **İyi oluş geri bildirimine yanıt süresi**: 9.2
+- **İyileştirme birikim listesi yaşı**: 9.5
+- **İyileştirme kapasitesi payı**: 9.5
+- **İyileştirme kapsamı**: 2.6
+- **İyileştirme takibi**: 1.1
+- **İzlemeyle algılanan pay**: 5.5
+- **İzlemeyle tespit edilen pay**: 3.2
+- **İzlenebilirlik kapsamı**: 8.5
+- **İçerik yinelenme oranı**: 10.4
+- **İş etkisi saatleri**: 6.5
+- **İş yükü gerginliği derecesi**: 9.2
+- **İş öğesi yaşı**: 2.1
+- **İşlem süresi**: 2.4
+- **İşletme, değişiklik ve iyileştirme dağılımı**: 7.5
+- **Kabul süresi**: 3.3
+- **Kalan hata bütçesi**: 5.2
+- **Kalıcı takım finansman payı**: 7.5
+- **Kalıcı çözüme kadar geçen süre**: 4.1
+- **Kalıcılık oranı**: 10.2
+- **Kanıt kalitesi payı**: 6.5
+- **Kanıt otomasyon oranı**: 8.3
+- **Kanıt yanıt süresi**: 8.3
+- **Kanıta dayalı durdurma oranı**: 7.7
+- **Kapasite dağılımı**: 2.5
+- **Kapasite dağılımı uyumu**: 2.9
+- **Kapasite hazırlık süresi**: 5.4
+- **Kapsam değişim oranı**: 2.5
+- **Karar bağlantısı**: 1.4, 11.1
+- **Karar kanıtı**: 11.4
+- **Karara bağlı metrik payı**: 1.1
+- **Karpuz açığı**: 5.1
+- **Karşılaştırmaya göre sonuç hareketi**: 9.6, 10.1
+- **Katalog kalemine göre talep hacmi**: 3.5
+- **Katalog kapsamı**: 6.3
+- **Kategori yoğunlaşması**: 3.2
+- **Katkı genişliği**: 3.6
+- **Kayda geçirme süresi**: 7.1
+- **Kaynak kapsamı**: 1.5, 11.2
+- **Kaynak kullanımı**: 5.4
+- **Kaynak uyumu**: 1.4
+- **Kaynağa göre angarya**: 5.7
+- **Kaçan kusur oranı**: 10.2
+- **Kesinti oranı**: 2.9
+- **Kesinti sıklığı ve aralığı**: 5.3
+- **Keşif kapsamı**: 7.1
+- **Kontrol etkinliği oranı**: 8.2
+- **Kontrol grafiği sinyal oranı**: 1.6
+- **Kontrol testi kapsamı**: 8.2
+- **Konuşmaya güvenli hissetme nabzı**: 4.2
+- **Korunan öğrenme zamanı payı**: 9.4
+- **Koruyucu önlem kapsamı**: 1.2
+- **KRI ihlali yanıt süresi**: 8.2
+- **Kullanıcı ağırlıklı kullanılabilirlik**: 5.3
+- **Kullanıcı başına sürtünme olayı**: 6.2
+- **Kullanım tüzüğü kapsamı**: 11.3
+- **Kuyruk süresi**: 2.3
+- **Kuyruk uzunluğu**: 2.3
+- **Kök nedene kadar geçen süre**: 4.1
+- **Lisans kullanım oranı**: 7.2
+- **Little yasası tutarlılık oranı**: 2.3
+- **Makale güncelliği**: 3.6
+- **Maliyet görünürlüğü (showback) itiraz oranı**: 7.5
+- **Maliyet tahmini doğruluğu**: 7.7
+- **Maruz kalma penceresi**: 8.1
+- **Medyan çözüm süresi**: 1.6
+- **Mesai dışı çağrı payı**: 5.7
+- **Metrik kayma işaretleri**: 10.4
+- **Metrik kullanım oranı**: 1.2
+- **Modele göre arıza oranı**: 7.3
+- **Mutabakat oranı**: 7.1, 11.2
+- **Müşteri etkisi**: 3.4
+- **Neden tekrar oranı**: 4.2
+- **Net bugünkü değer**: 7.7
+- **Normalleştirilmiş olay oranı**: 3.2
+- **NPS**: 6.1
+- **Odaklanma süresi payı**: 9.1
+- **OLA karşılama oranı**: 5.1
+- **Olay-sorun bağlantı oranı**: 4.1
+- **Onay bekleme süresi**: 3.5
+- **Onay kuyruğu yaşı**: 4.3
+- **Onay teslim süresi**: 4.3
+- **Onaysız uygulama sayısı**: 7.2
+- **Oran raporlama kapsamı**: 1.6
+- **Ortak eylem kapatma oranı**: 8.4
+- **Ortak çözüm oranı**: 9.3
+- **Otomasyon başarısızlık ve yeniden iş oranı**: 3.7
+- **Otomasyon kapsamı**: 3.7
+- **Otomasyon payı**: 3.5
+- **Otomatik onay payı**: 4.3
+- **Paydaş katılım oranı**: 9.6
+- **Paydaş yanıt süresi**: 9.3
+- **Performans testi kapsamı**: 5.4
+- **Perspektif kapsamı**: 1.7
+- **Plan güncelliği**: 5.6
+- **Planlı iş yer değiştirmesi**: 2.9
+- **Planlı kesinti süresi payı**: 5.3
+- **Planlı taahhüt güvenilirliği**: 2.9
+- **Plansız iş oranı**: 2.9
+- **Plansız kesinti süresi**: 5.3
+- **Program emek payı**: 11.5
+- **Psikolojik güvenlik derecesi**: 9.2
+- **Ramak kala bildirim oranı**: 4.2
+- **Ramak kalan payı**: 5.1
+- **Rapor zamanındalığı**: 8.5
+- **Raporlama emeği**: 8.5
+- **Raporlama yükümlülüğü kapsamı**: 8.5
+- **Referans değer bütünlüğü**: 10.1
+- **Referans değer kapsamı**: 11.5
+- **Referans değere göre görev süresi**: 10.1
+- **Retrospektif eylem devri**: 4.2
+- **Risk değerlendirmesi güncelliği**: 10.5
+- **Risk inceleme güncelliği**: 8.2
+- **Risk istisnası yaşı**: 8.1
+- **Riske dayalı değişiklik payı**: 8.2
+- **Rotasyon derinliği**: 5.7
+- **RPO karşılama oranı**: 5.6
+- **RTO karşılama oranı**: 5.6
+- **Saat duraklatma payı**: 2.2, 5.1
+- **Sahadaki fikir payı**: 9.5
+- **Sahip kapsamı**: 8.2
+- **Sahiplik kapsamı**: 1.4
+- **Sahipsiz varlık payı**: 7.1
+- **SBOM kapsamı**: 7.2
+- **Self servis başarı oranı**: 3.7
+- **Self servis benimsenmesi (önce portal payı)**: 3.7
+- **Seviye dağılımı (sola kaydırma payı)**: 3.7
+- **SLA karşılama oranı**: 5.1
+- **SLE tutturma**: 2.1
+- **SLI karşılama**: 5.2
+- **SLO kapsamı**: 5.2
+- **SLO uyumu**: 5.2
+- **Son başarılı kurtarma testinden bu yana geçen gün**: 5.6
+- **Sonraki düzeye geçme süresi (betimleyici)**: 11.4
+- **Sonuca bağlı kapasite payı**: 6.5
+- **Sonuç göstergesi hareketi**: 6.5
+- **Sonuç kapsamı**: 1.3
+- **Soru kapsamı**: 11.1
+- **Sorun birikim listesi yaşı**: 4.1
+- **Standart değişiklik payı**: 4.3
+- **Sözleşme kaydı kapsamı**: 8.4
+- **Sürdürülebilir tempo derecesi**: 9.2
+- **Süregelen uzatılmış mesai haftaları**: 9.2
+- **Süreç verimliliği**: 2.4
+- **Sıfır sonuçlu arama oranı**: 3.6
+- **Sınırlama süresi**: 8.1
+- **Taahhüt kapsamı**: 7.6
+- **Taahhüt kullanımı**: 7.6
+- **Tahmin aralığı genişliği**: 2.5
+- **Tahmin hatası**: 5.4
+- **Tahmin isabet oranı**: 2.5
+- **Tahmin sapması**: 7.5, 7.6
+- **Tahmini yönlendirmeyle önleme oranı**: 3.7
+- **Takt süresi oranı**: 2.4
+- **Takım sahipliği payı**: 11.3
+- **Takım sağlığı kontrolü eğilimi**: 9.1
+- **Takım yük oranı**: 2.3
+- **Takımlar arasında paylaşılan dersler**: 9.4
+- **Talep birikimi ve yaşı**: 3.5
+- **Talep karşılama süresi**: 3.5
+- **Talep terk oranı**: 6.3
+- **Talep türü başına elle dokunma süresi**: 3.7
+- **Talep yeniden açılma oranı**: 3.5
+- **Talep yoğunlaşması**: 6.3
+- **Tamamlanmış ve doğru yüzdesi (aşama)**: 2.4
+- **Tampon kapasite**: 5.4
+- **Tanım bütünlüğü**: 11.1
+- **Tanım değişikliği sayısı**: 1.2
+- **Tanım güncelliği**: 1.4
+- **Tanım uyumu**: 8.5
+- **Tanım ve veri güveni**: 11.4
+- **Tarama kapsamı**: 8.1
+- **Tatbikat bulgusu kapatma oranı**: 5.6
+- **Tedarikçi hizmet düzeyi gerçekleşmesi**: 8.4
+- **Tedarikçi yapay zekâ durum tespiti güncelliği**: 10.5
+- **Tedarikçiye atfedilen olay süresi**: 8.4
+- **Tekrar temas oranı**: 1.3
+- **Tekrarlayan bulgu oranı**: 8.3
+- **Tekrarlayan büyük olay oranı**: 3.4
+- **Tekrarlayan olay oranı**: 3.2
+- **Tekrarlayan sorun oranı**: 9.5
+- **Tekrarlayan çağrı oranı**: 5.7
+- **Temel değer kapsamı**: 1.1
+- **Terk oranı**: 3.1
+- **Teslim süresi**: 2.2
+- **Teslimat hedefi başarısı**: 2.5
+- **Tespit süresi**: 3.3
+- **Test edilmiş kurtarma kapsamı**: 5.6
+- **Toplam sahip olma maliyeti**: 7.7
+- **Topluluk katılımı**: 9.4
+- **Türe göre değişiklik hacmi**: 4.3
+- **Uyarı hacmi**: 5.5
+- **Uyarı kuralı güncelliği**: 5.5
+- **Uyarı yoğunlaşması**: 5.5
+- **Uygulama benimseme genişliği**: 9.6
+- **Uzlaştırma varyansı**: 1.5
+- **Vardiya başına çağrı**: 5.7
+- **Varış ve çıkış hızı**: 2.3
+- **Veri güncelliği**: 11.1
+- **Veri hattı güvenilirliği**: 11.2
+- **Veri tazeliği**: 1.5
+- **WIP sınırı aşım oranı**: 2.3
+- **XLA gerçekleşmesi**: 6.2
+- **Yalnızca geçici çözümle korunan sorun payı**: 4.1
+- **Yama uyumu**: 8.1
+- **Yanlış pozitif oranı**: 5.5
+- **Yanma hızı**: 5.2
+- **Yanıt doğruluğu**: 10.3
+- **Yanıtlama süresi**: 3.1
+- **Yanıtlayan kapsamı**: 6.1
+- **Yapay zekâ destekli görev başına maliyet**: 10.1
+- **Yapay zekâ kullanım kapsamı**: 10.1
+- **Yapay zekâ kullanımı kayıt kapsamı**: 10.5
+- **Yapay zekâ olay oranı ve sınırlama süresi**: 10.5
+- **Yararlı öğe payı**: 10.4
+- **Yatırım getirisi**: 7.7
+- **Yayımlama süresi**: 3.6
+- **Yayımlanan erişilebilirlik uyumu**: 8.5
+- **Yayın parti büyüklüğü**: 4.5
+- **Yayın sıklığı**: 4.5
+- **Yayın teslim süresi**: 4.5
+- **Yaş profili**: 7.3
+- **Yaşam döngüsü aşaması bütünlüğü**: 7.1
+- **Yedekten geri yükleme başarı oranı**: 5.6
+- **Yeni ölçüme geçen süre**: 11.2
+- **Yeniden atama oranı**: 9.3
+- **Yeniden atama sayısı**: 3.3
+- **Yeniden açılma oranı**: 1.2, 3.2
+- **Yeniden iletişim oranı**: 3.1
+- **Yeniden kullanım oranı**: 3.6
+- **Yeniden kullanım ve geri dönüşüm oranı**: 7.3
+- **Yenileme hazırlığı**: 7.2
+- **Yerel hız**: 2.5
+- **Yinelenen CI oranı**: 7.4
+- **Yinelenen plansız iş payı**: 2.9
+- **Yolculuk tamamlama oranı**: 6.2
+- **Yolculuğa göre deneyim puanı**: 5.1
+- **Yorum tema payı**: 6.1
+- **Yoğunlaşma**: 8.4
+- **Yüksek yüzdelikte çözüm süresi**: 1.6
+- **Yükümlülük kapsamı**: 8.3
+- **Zaman damgası bütünlüğü**: 1.5
+- **Zamana dayalı kullanılabilirlik**: 5.3
+- **Zamanın angarya payı**: 5.7
+- **Zamanında yenileme oranı**: 7.3
+- **Zorunlu kesinti dakikaları**: 6.4
+- **Çapraz eğitim derinliği**: 9.4
+- **Çekme isteği boyutu**: 2.7
+- **Çevrim süresi**: 2.1, 2.2
+- **Çözüm sonrası tekrar oranı**: 4.1
+- **Çözüm süresi**: 3.3
+- **Çözüme karşı birikim girişi**: 10.4
+- **Çıktı hızı**: 2.1
+- **Çıktı hızı kararlılığı**: 2.5
+- **Çıktı-sonuç oranı**: 10.4
+- **Çıkış hazırlığı**: 8.4
+- **Çıkışa hazırlık**: 11.2
+- **Ölçüm eforu**: 1.1
+- **Ölçüm kapsamı**: 5.3
+- **Ölçümlere bağlanan iyileştirmeler**: 11.5
+- **Ölçümleri aktif kullanan takımlar**: 11.5
+- **Ölçümün algılanan güvenliği (anket)**: 11.3
+- **Öncelik karışımı**: 3.2
+- **Öncelik yeniden sınıflandırma oranı**: 3.2
+- **Öncü gösterge doğrulama oranı**: 1.3
+- **Öneri kabul ve geçersiz kılma oranı**: 10.1
+- **Özellik bayrağı kapsamı**: 4.5
+- **Özellik benimseme oranı**: 1.3
+- **Öğrenme erişimi**: 4.2
+- **Üretilmiş bilginin incelenmiş payı**: 10.4
+- **Üretken olma süresi**: 6.4
+
+## Kavramlar
+
+Kavramlar, konuların bağlam olarak Vikipedi'ye bağladığı terimlerdir. İlk numara genellikle kavramı en ayrıntılı açıklayan konudur.
+
+- **Accelerate (Accelerate (book)**: 2.8
+- **hesap verebilirlik (Accountability)**: 8.5
+- **Faaliyet tabanlı maliyetleme (Activity-based costing)**: 7.5
+- **Çevik yazılım geliştirme (Agile software development)**: 1.1, 1.3, 3.4, 4.2
+- **yapay zekâ çöpü (AI slop) (AI slop)**: 10.4
+- **AIOps**: 10.1
+- **Alarm yorgunluğu (Alarm fatigue)**: 5.5, 5.7
+- **Uyarı yorgunluğu (Alert fatigue)**: 10.4
+- **Algoritmik yanlılık (Algorithmic bias)**: 10.5
+- **Anomali saptama (Anomaly detection)**: 7.6
+- **uygulama programlama arayüzü (Application programming interface)**: 11.2
+- **Yapay zekâ (Artificial intelligence)**: 10.1
+- **Yapay Zekâ Yasası (Artificial Intelligence Act)**: 10.5
+- **varlık izleme (Asset tracking)**: 7.1
+- **saldırı yüzeyini (Attack surface)**: 8.1
+- **denetim izi (Audit trail)**: 4.3, 8.3, 10.5
+- **otomatik karar alma (Automated decision-making)**: 10.3
+- **otomatik çağrı dağıtıcısı (Automatic call distributor)**: 3.1
+- **Otomasyon (Automation)**: 3.7
+- **otomasyon yanlılığı (Automation bias)**: 10.1
+- **Otomatik ölçekleme (Autoscaling)**: 5.4, 7.6
+- **Kullanılabilirlik (Availability)**: 5.2
+- **A/B testi (B testing)**: 6.5
+- **birikim listesinden (Backlog)**: 4.1
+- **Dengeli puan kartı (Balanced scorecard)**: 1.3, 1.7, 11.1
+- **Fayda gerçekleştirme yönetimi (Benefits realisation management)**: 6.5
+- **kara kuğu kuramı (Black swan theory)**: 8.2
+- **mavi-yeşil dağıtım (Blue-green deployment)**: 4.5
+- **darboğaz (Bottleneck (production)**: 2.3, 9.3
+- **Brandolini yasası (Brandolini's law)**: 10.4
+- **Brooks yasası (Brooks's law)**: 9.3
+- **otobüs faktörü (Bus factor)**: 3.6, 9.3
+- **İş gerekçesi (Business case)**: 7.7
+- **İş sürekliliği planlaması (Business continuity planning)**: 5.6
+- **iş etki analizinden (Business impact analysis)**: 5.6
+- **çağrı merkezi (Call centre)**: 3.1
+- **Campbell yasası (Campbell's law)**: 1.2, 10.4, 11.3
+- **kanarya yayını (Canary release)**: 2.8, 4.4, 4.5, 5.2
+- **Yetkinlik Olgunluk Modeli'dir (Capability Maturity Model)**: 11.4
+- **Kapasite planlaması (Capacity planning)**: 2.5, 5.4
+- **Sermaye harcaması (Capital expenditure)**: 7.5
+- **karbon ayak izi (Carbon footprint)**: 7.6
+- **Kargo kültü (Cargo cult)**: 9.6
+- **Kargo kültü programlama (Cargo cult programming)**: 9.6
+- **sürekli entegrasyon ve sürekli teslimat (CI/CD) (CD)**: 1.5, 2.8
+- **gözetim zinciri (Chain of custody)**: 7.1
+- **değişim yorgunluğu (Change fatigue)**: 9.6
+- **Değişim yönetimi (Change management)**: 9.6, 11.3, 11.5
+- **değişiklik yönetimi (Change management (ITSM)**: 4.3
+- **Kaos mühendisliği (Chaos engineering)**: 5.6
+- **Grafik süsü (Chartjunk)**: 11.1
+- **sohbet botu (Chatbot)**: 3.7, 10.3
+- **Döngüsel ekonomi (Circular economy)**: 7.3
+- **hizmet sınıfıdır (Class of service)**: 2.9
+- **Bulut bilişim (Cloud computing)**: 7.6
+- **birlikte yaratılır (Co-creation)**: 1.3
+- **Kobra etkisi (Cobra effect)**: 1.2
+- **Kod yeniden düzenleme (Code refactoring)**: 4.6
+- **kod inceleme (Code review)**: 2.7, 4.3, 10.2
+- **Kod kokusu (Code smell)**: 4.6
+- **bilişsel yük (Cognitive load)**: 6.4, 9.1
+- **bilişsel yük aktarımı (Cognitive offloading)**: 10.2
+- **kohort analizi (Cohort analysis)**: 6.3
+- **Common Vulnerabilities and Exposures**: 8.1
+- **Ortak Zafiyet Puanlama Sistemi (Common Vulnerability Scoring System)**: 8.1
+- **Uygulama topluluğu (Community of practice)**: 9.4
+- **Bilgisayar güvenliği olay yönetimi (Computer security incident management)**: 8.1
+- **kavram kaymasına (concept drift) (Concept drift)**: 10.4
+- **Belirsizlik konisi (Cone of Uncertainty)**: 2.5
+- **Güven aralığı (Confidence interval)**: 1.6, 6.1
+- **yapılandırma öğesi (Configuration item)**: 7.4
+- **yapılandırma yönetim veritabanı (CMDB) (Configuration management database)**: 1.5, 7.4
+- **Karıştırıcı (Confounding)**: 6.5
+- **Sürekli iyileştirme (Continual improvement process)**: 1.4, 9.5, 11.4
+- **Sürekli denetim (Continuous auditing)**: 8.3
+- **sürekli teslimat (Continuous delivery)**: 2.8, 4.4, 4.5
+- **sürekli tümleştirme (Continuous integration)**: 2.7
+- **kontrol grafiğini (Control chart)**: 1.6, 2.1, 3.2, 11.1
+- **dönüşüm hunisi (Conversion funnel)**: 6.3
+- **Conway yasası (Conway's law)**: 9.3
+- **Eş Güdümlü Evrensel Zaman (UTC) (Coordinated Universal Time)**: 1.5
+- **Copyleft**: 7.2
+- **Maliyet muhasebesi (Cost accounting)**: 7.5
+- **Maliyet dağıtımı (Cost allocation)**: 7.5
+- **maliyet sürücüsünü (Cost driver)**: 7.5
+- **gecikme maliyeti (Cost of delay)**: 2.9, 4.6
+- **Kritik başarı faktörü (Critical success factor)**: 1.7
+- **çapraz işlevli takımlar (Cross-functional team)**: 9.3
+- **Çapraz eğitim (Cross-training (business)**: 9.4
+- **kümülatif akış diyagramına (Cumulative flow diagram)**: 2.1, 2.3
+- **müşteri deneyimi (Customer experience)**: 6.2
+- **müşteri memnuniyeti (Customer satisfaction)**: 3.1, 6.1
+- **Çevrim süresi (Cycle time)**: 2.2
+- **karanlık kalıplardan (Dark pattern)**: 6.3, 10.3
+- **Pano (Dashboard (business)**: 11.1
+- **Veri sözlüğü (Data dictionary)**: 1.4
+- **veri silme (Data erasure)**: 7.3
+- **veri yönetişiminin (Data governance)**: 1.4, 11.2
+- **veri bütünlüğü (Data integrity)**: 7.4
+- **Veri minimizasyonu (Data minimization)**: 6.4
+- **veri hattıdır (Data pipeline)**: 11.2
+- **veri kalitesinin (Data quality)**: 7.1, 11.2, 11.5
+- **Veri sorumlusu (data steward) (Data steward)**: 1.4
+- **Veri görselleştirme (Data visualization)**: 11.1
+- **veri ambarı (Data warehouse)**: 11.2
+- **Bağımlılık (Dependency (project management)**: 9.3
+- **Amortisman (Depreciation)**: 7.3
+- **beceri kaybına (Deskilling)**: 10.2
+- **Geliştirici deneyimi (Developer experience)**: 9.1
+- **DevOps**: 1.1
+- **DevOps Research and Assessment (DORA) (DevOps Research and Assessment)**: 2.8
+- **DevSecOps**: 8.1
+- **Farkların farkı (Difference in differences)**: 6.5
+- **yeniliklerin yayılması (Diffusion of innovations)**: 6.3, 9.6
+- **dijital iş yeri (Digital workplace)**: 6.4
+- **çift döngülü öğrenme (Double-loop learning)**: 9.5
+- **Kesinti süresi (Downtime)**: 5.3
+- **yinelenen kod (Duplicate code)**: 10.2
+- **ekonomik göstergeyi (Economic indicator)**: 1.3
+- **ölçek ekonomileriyle (Economies of scale)**: 7.5
+- **Elektronik atık (Electronic waste)**: 7.3
+- **çalışan bağlılığı (Employee engagement)**: 9.2
+- **Çalışan deneyimi (Employee experience management)**: 6.4
+- **Çalışan izleme (Employee monitoring)**: 6.4
+- **varlık çözümleme (Entity resolution)**: 7.4
+- **çıkış stratejisi (Exit strategy)**: 8.4
+- **çıkar, dönüştür, yükle (ETL) (Extract, transform, load)**: 1.5, 11.2
+- **arıza oranı (Failure rate)**: 7.3
+- **yanlış pozitifler ve yanlış negatifler (False positives and false negatives)**: 5.5
+- **özellik anahtarları (Feature toggle)**: 2.8, 4.4, 4.5, 5.2
+- **ilk temasta çözüm (First call resolution)**: 3.1
+- **beş neden (Five whys)**: 4.1, 4.2
+- **sabit varlıkların (Fixed asset)**: 7.1
+- **Sabit maliyet (Fixed cost)**: 7.5
+- **akış (Flow (psychology)**: 6.4, 9.1
+- **öngörüsüdür (Forecasting)**: 2.5, 5.4
+- **bilgi edinme özgürlüğü yasaları (Freedom of information laws by country)**: 8.5
+- **Genel Veri Koruma Tüzüğü (General Data Protection Regulation)**: 8.3
+- **üretken yapay zekâ (Generative artificial intelligence)**: 10.1
+- **Goodhart yasası (Goodhart's law)**: 1.1, 1.2, 2.5, 2.7, 2.8, 3.4, 3.5, 4.3, 4.4, 4.5, 6.1, 6.2, 6.3, 6.4, 6.5, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 8.1, 8.2, 8.3, 8.4, 8.5, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 10.1, 10.2, 10.3, 10.4, 10.5, 11.1, 11.3
+- **Çizge veri tabanı (Graph database)**: 7.4
+- **Halüsinasyon (Hallucination (artificial intelligence)**: 10.1
+- **Hawthorne etkisi (Hawthorne effect)**: 9.6, 11.3
+- **Yardım masası (Help desk)**: 3.1
+- **Hizmet masası (Help desk software)**: 3.2
+- **yüksek kullanılabilirlik (High availability)**: 5.3
+- **Geriye dönük yanlılık (Hindsight bias)**: 4.2
+- **acil yama (Hotfix)**: 4.4
+- **İnsan merkezli tasarım (Human-centered design)**: 6.2
+- **Döngüde insan (Human-in-the-loop)**: 10.1
+- **ISO/IEC 27001 (IEC 27001)**: 8.3
+- **olay komutanı (Incident commander)**: 3.4
+- **Olay yönetimi (Incident management)**: 3.2, 3.3, 5.7
+- **olay yönetimini (Incident management (ITSM)**: 3.4
+- **Bilgi aşırı yüklenmesi (Information overload)**: 10.4
+- **Bilgi radyatörü (Information radiator)**: 11.3, 11.5
+- **Bilgi teknolojisi denetimi (Information technology audit)**: 8.3
+- **BT hizmet yönetimi (Information technology service management)**: 1.1, 1.5
+- **kod olarak altyapı (Infrastructure as code)**: 3.7, 4.3, 5.6, 7.4
+- **Akıllı ajan (Intelligent agent)**: 10.3
+- **iç denetim (Internal audit)**: 8.3
+- **iç kontrol (Internal control)**: 8.2
+- **içsel motivasyonunun (Intrinsic motivation)**: 9.2
+- **envanter yönetimi (Inventory management)**: 7.1
+- **Ishikawa diyagramı (Ishikawa diagram)**: 4.1
+- **ISO 22301**: 5.6
+- **iş takip sistemi (Issue tracking system)**: 1.5, 2.6
+- **BT varlık yönetimi (IT asset management)**: 7.1
+- **BT hizmet yönetimi (ITSM) (IT service management)**: 3.1, 11.2
+- **ITIL**: 1.1, 1.2, 1.3, 1.5, 1.7, 2.4, 2.6, 2.8, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.2, 4.3, 4.4, 4.6, 5.1, 5.3
+- **Jevons paradoksu (Jevons paradox)**: 10.4
+- **İş tatmini (Job satisfaction)**: 9.2
+- **adil kültür (Just culture)**: 4.2
+- **k-anonimlik (K-anonymity)**: 6.4
+- **Kaizen**: 9.5, 11.4, 11.5
+- **Temel performans göstergesi (Key performance indicator)**: 1.2, 1.7, 11.1
+- **Temel risk göstergesi (Key risk indicator)**: 8.2
+- **Kingman formülü (Kingman's formula)**: 2.3
+- **bilgi tabanında (Knowledge base)**: 3.6
+- **Bilgi yönetimi (Knowledge management)**: 3.6
+- **Bilgi Merkezli Hizmettir (Knowledge-Centered Service, KCS) (Knowledge-centered support)**: 3.6
+- **bilinen hata veri tabanında (Known error database)**: 4.1
+- **Gecikmeli gösterge (Lagging indicator)**: 6.5
+- **büyük dil modelleri (Large language model)**: 10.1
+- **Gecikme (Latency (engineering)**: 5.4
+- **Teslim süresi (Lead time)**: 2.2, 2.4
+- **Öncü gösterge (Leading indicator)**: 6.5
+- **yalın imalat (Lean manufacturing)**: 2.4, 9.5
+- **yalın yazılım geliştirmeye (Lean software development)**: 2.1, 2.2, 2.3
+- **öğrenen kuruluş (Learning organization)**: 9.4
+- **Likert ölçeği (Likert scale)**: 6.1
+- **Kod satırı sayısı (Lines of code)**: 10.2
+- **Little yasası (Little's law)**: 2.1, 2.2, 2.3, 2.4, 2.6, 2.9, 5.4
+- **yük testi (Load testing)**: 5.4
+- **log-normal dağılımla (Log-normal distribution)**: 1.6, 3.3
+- **mantık modeli (Logic model)**: 6.5
+- **makine öğrenmesi (Machine learning)**: 10.1
+- **hata payı (Margin of error)**: 6.1
+- **Arızalar arası ortalama süre (Mean time between failures)**: 5.3, 7.3
+- **Ortalama onarım süresine ilişkin Wikipedia makalesi (Mean time to repair)**: 3.3, 5.3
+- **medyan (Median)**: 1.6, 3.3
+- **Mentorluk (Mentorship)**: 9.4
+- **asgari uygulanabilir ürün (Minimum viable product)**: 11.5
+- **Mobil aygıt yönetimi (Mobile device management)**: 7.3
+- **model çöküşünü (Model collapse)**: 10.4
+- **Monte Carlo yöntemi (Monte Carlo method)**: 2.5
+- **çoklu kaynak kullanımı (Multisourcing)**: 8.4
+- **Net bugünkü değer (Net present value)**: 7.7
+- **Net tavsiye puanı (Net promoter score)**: 6.1
+- **hedefler ve anahtar sonuçlar (Objectives and key results)**: 1.3, 6.5
+- **gözlemlenebilirlik (Observability (software)**: 1.5, 11.2
+- **Mesleki tükenmişlik (Occupational burnout)**: 5.7, 9.2
+- **hedefler ve anahtar sonuçlardır (OKR) (OKR)**: 1.7
+- **nöbet (On-call)**: 5.5, 5.7
+- **açık veri (Open data)**: 8.5
+- **Açık hükümet (Open government)**: 8.5
+- **Açık kaynak yazılım (Open-source software)**: 7.2
+- **Operasyonel düzey anlaşması (OLA) (Operational-level agreement)**: 5.1
+- **Fırsat maliyeti (Opportunity cost)**: 4.6, 7.7
+- **İyimserlik yanlılığı (Optimism bias)**: 7.7
+- **kurumsal değişim (Organizational change)**: 9.6
+- **kurum kültürü (Organizational culture)**: 9.6
+- **Dış kaynak kullanımı (Outsourcing)**: 8.4
+- **Eşli programlama (Pair programming)**: 2.7, 9.4
+- **Pareto grafiği (Pareto chart)**: 4.1, 5.7
+- **Pareto ilkesini (Pareto principle)**: 3.2, 6.3
+- **kullandıkça öde (Pay as you go)**: 7.6
+- **Geri ödeme süresi (Payback period)**: 7.7
+- **Planla-Uygula-Kontrol Et-Önlem Al (PDCA)**: 9.5
+- **yüzdelik (Percentile)**: 1.6, 2.1, 2.2, 2.6, 3.1, 3.3, 3.4, 3.5, 5.1, 5.2, 5.4
+- **performans denetimleri (Performance audit)**: 8.5
+- **Performansa dayalı sözleşme (Performance-based contracting)**: 8.4
+- **sapkın teşvik (Perverse incentive)**: 1.2
+- **Pilot proje (Pilot project)**: 9.6, 11.3, 11.5
+- **Planlama yanılgısı (Planning fallacy)**: 2.5
+- **olay sonrası inceleme (Postmortem documentation)**: 3.4, 4.2
+- **Kesinlik ve duyarlılık (Precision and recall)**: 5.5
+- **En az ayrıcalık ilkesi (Principle of least privilege)**: 1.4
+- **süreç otomasyonu (Process automation)**: 3.5
+- **ürün birikim listesidir (Product backlog)**: 2.6, 6.3
+- **Ürün yaşam döngüsü (Product lifecycle)**: 7.1
+- **verimliliğinin (Productivity)**: 9.1
+- **mesleki sertifika (Professional certification)**: 9.4
+- **İstem enjeksiyonu (prompt injection) (Prompt injection)**: 10.5
+- **takma adlandırma (Pseudonymization)**: 6.4
+- **Psikolojik güvenlik (Psychological safety)**: 1.2, 4.2, 9.1, 9.2, 11.3
+- **Kamu alımları (Public procurement)**: 8.5
+- **Kamu sektörünün (Public sector)**: 8.5
+- **Çekme isteği (pull request) (Pull request)**: 2.7, 10.2
+- **kuyruk kuramından (Queueing theory)**: 2.1, 2.3, 3.1, 5.4
+- **RACI matrisi (RACI matrix)**: 1.4
+- **Gerçek kullanıcı izleme (Real user monitoring)**: 5.3, 6.2
+- **mutabakat (Reconciliation (accounting)**: 7.1
+- **kayıt yönetimi (Records management)**: 8.5
+- **Kurtarma noktası hedefi (Recovery point objective)**: 5.6
+- **Kurtarma süresi hedefi (Recovery time objective)**: 5.6
+- **referans sınıfı tahminidir (Reference class forecasting)**: 7.7
+- **regresyon testi (Regression testing)**: 4.4, 10.2
+- **ortalamaya dönüş (regression toward the mean) (Regression toward the mean)**: 1.6
+- **yapay zekânın düzenlenmesinin (Regulation of artificial intelligence)**: 10.5
+- **Mevzuata uyum (Regulatory compliance)**: 8.3
+- **yayın yönetimi (Release management)**: 4.5
+- **Değişime direnç (Resistance to change)**: 9.6
+- **yanıt yanlılığı (Response bias)**: 6.1
+- **sorumlu yapay zekâ (Responsible AI)**: 10.5
+- **yatırım getirisi (Return on investment)**: 1.1, 7.7
+- **Yeniden iş (Rework)**: 4.4
+- **Risk yönetimi (Risk management)**: 8.2
+- **risk matrisi (Risk matrix)**: 8.2
+- **Risk kaydı (Risk register)**: 8.2
+- **geri alabildiğinde (Rollback (data management)**: 2.8, 4.4
+- **döngülenmiş verim (Rolled throughput yield)**: 2.4
+- **kök neden analizi (Root cause analysis)**: 3.2, 3.4, 4.1, 4.2, 4.6, 9.5
+- **çalışma grafiği (Run chart)**: 2.1, 11.1, 11.5
+- **Çalışma kitabı (Runbook)**: 3.6, 3.7
+- **Sarbanes–Oxley Yasası (Sarbanes–Oxley Act)**: 8.3
+- **mevsimselliği (Seasonality)**: 3.2, 5.4
+- **görevler ayrılığını (Segregation of duties)**: 8.3
+- **seçilim yanlılığı (Selection bias)**: 1.5
+- **öz belirleme kuramı (Self-determination theory)**: 9.2
+- **Self servis (Self-service)**: 10.3
+- **Self servis (Self-service software)**: 3.7
+- **Duyarlılık analizi (Sensitivity analysis)**: 7.7
+- **Duygu analizi (Sentiment analysis)**: 6.2
+- **görevler ayrılığının (Separation of duties)**: 4.3
+- **Sunucusuz bilişim (Serverless computing)**: 7.6
+- **hizmet kataloğunda (Service catalog)**: 3.5, 6.3
+- **hizmet masasında (Service desk)**: 3.6
+- **hizmet keşfi (Service discovery)**: 7.4
+- **hizmet entegrasyonu ve yönetimi (Service integration and management)**: 8.4
+- **Hizmet düzeyi göstergesi (SLI) (Service level indicator)**: 5.1, 5.2
+- **Hizmet düzeyi hedefi (SLO) (Service level objective)**: 5.1
+- **hizmet baskın mantığının (Service-dominant logic)**: 1.3
+- **hizmet düzeyi anlaşması (Service-level agreement)**: 2.1, 2.9, 3.1, 3.3, 3.5, 5.1, 5.2, 5.3, 6.2, 8.4
+- **Hizmet düzeyi hedefi (SLO) (Service-level objective)**: 5.2, 5.3, 5.5
+- **Gölge BT (Shadow IT)**: 6.4, 7.2, 10.5
+- **Sinyal-gürültü oranı (Signal-to-noise ratio)**: 5.5, 10.4
+- **Tek doğru kaynak (single source of truth) (Single source of truth)**: 1.4
+- **site güvenilirliği mühendisliği (Site reliability engineering)**: 1.1, 3.3, 3.4, 4.2, 5.1, 5.2, 5.4, 5.5, 5.6, 5.7
+- **çarpıktır (Skewness)**: 1.6
+- **Uyku yoksunluğu (Sleep deprivation)**: 5.7
+- **SOC 2**: 8.3
+- **sosyal beğenilirlik yanlılığı (Social desirability bias)**: 9.2
+- **Hizmet olarak yazılım (Software as a service)**: 7.2
+- **Yazılım varlık yönetimi (Software asset management)**: 7.2
+- **yazılım denetimi (Software audit)**: 7.2
+- **Yazılım malzeme listesi (Software bill of materials)**: 7.2
+- **Yazılım hatası (Software bug)**: 4.6
+- **Yazılım bileşen analizi (Software composition analysis)**: 7.2
+- **yazılım dağıtımı (Software deployment)**: 4.5
+- **yazılım lisansıyla (Software license)**: 7.2
+- **Yazılım tedarik zinciri (Software supply chain)**: 8.1
+- **Yazılım testi (Software testing)**: 10.2
+- **Sparkline**: 11.1
+- **Statik program çözümlemesi (Static program analysis)**: 2.7, 4.6
+- **istatistiksel süreç kontrolü (Statistical process control)**: 1.6
+- **hikâye puanları (Story point)**: 2.5
+- **strateji haritası (Strategy map)**: 1.7
+- **Batık maliyet (Sunk cost)**: 7.7
+- **tedarik zinciri saldırısı (Supply chain attack)**: 8.4
+- **Vekilleştirme (Surrogation)**: 1.2
+- **anket metodolojisi (Survey methodology)**: 6.1
+- **hayatta kalma yanlılığı (Survivorship bias)**: 6.5
+- **Sentetik izleme (Synthetic monitoring)**: 5.3
+- **Sistem izleme (System monitoring)**: 5.5
+- **T biçimli beceriler (T-shaped skills)**: 9.4
+- **örtük bilgisi (Tacit knowledge)**: 3.6, 9.4
+- **Kuyruk gecikmesi (Tail latency)**: 5.4
+- **görev değiştirmede (Task switching (psychology)**: 2.9
+- **teknik borç (Technical debt)**: 2.9, 4.1, 4.6, 10.2
+- **Teknoloji benimseme yaşam döngüsü (Technology adoption life cycle)**: 11.3
+- **değişim kuramı (Theory of change)**: 6.5
+- **kısıtlar kuramı (Theory of constraints)**: 2.3, 2.4, 9.5
+- **İşlem hacmi (Throughput)**: 5.4
+- **Paranın zaman değeri (Time value of money)**: 7.7
+- **toplam sahip olma maliyeti (Total cost of ownership)**: 7.3, 7.7, 11.2
+- **triyaj (Triage)**: 2.9
+- **gövde tabanlı geliştirmenin (Trunk-based development)**: 2.7
+- **güven (Trust (social science)**: 11.3
+- **birim maliyeti (Unit cost)**: 7.5
+- **Kullanılabilirlik (Usability)**: 6.2
+- **Kullanıcı deneyimi (User experience)**: 6.2
+- **kullanıcı hikâyesi (User story)**: 2.6
+- **Paranın karşılığı (Value for money)**: 8.5
+- **Değer akışı (Value stream)**: 2.4
+- **Değer akışı haritalama (Value-stream mapping)**: 2.4
+- **Gösteriş metriği (vanity metric) (Vanity metric)**: 1.3, 1.7, 10.4, 11.1, 11.4
+- **değişken maliyet (Variable cost)**: 7.5
+- **sapma çözümlemesini (Variance analysis)**: 7.6
+- **hız (velocity) (Velocity (software development)**: 1.2, 2.5
+- **Tedarikçiye kilitlenme (Vendor lock-in)**: 7.2, 8.4, 11.2
+- **Satıcı yönetimi (Vendor management)**: 8.4
+- **Sürüm kontrolü (Version control)**: 1.5, 2.7
+- **Victor Basili**: 1.7
+- **sanal asistan (Virtual assistant)**: 10.3
+- **hacim indirimi (Volume discount)**: 7.6
+- **Zafiyet (Vulnerability (computing)**: 8.1
+- **Ward Cunningham**: 4.6
+- **Garantinin (Warranty)**: 7.3
+- **web erişilebilirliği (Web accessibility)**: 6.4
+- **Web analitiği (Web analytics)**: 6.3
+- **devam eden iş (Work in process)**: 2.3
+- **geçici çözüm (Workaround)**: 4.1
