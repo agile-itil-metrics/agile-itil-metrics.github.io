@@ -48,6 +48,12 @@ export const HERO: Record<string, Record<string, string>> = {
   "translations": "Cyfieithiadau: ",
   "language": "Iaith: "
  },
+ "cy-ar": {
+  "tagline": "Llawlyfr ymarferol ar gyfer mesur gwaith timau gwasanaethau TG ystwyth.",
+  "intro": "Mae mesurau ystwyth yn dilyn llif, dysgu a meddalwedd sy'n gweithio; mae ITIL yn mesur lefelau gwasanaeth, digwyddiadau, newidiadau, asedau a gwerth a gyd-grëir gyda chwsmeriaid. Mae'r llyfr hwn yn eu huno yn un set fach, gytbwys a charedig o fesurau, gyda'r fector chwarae'r system a'r canllaw amddiffynnol ar gyfer pob metrig. Mae'r metrigau yma'n disgrifio timau, gwasanaethau a systemau, ac ni chânt byth eu defnyddio i restru pobl.",
+  "translations": "Cyfieithiadau: ",
+  "language": "Iaith: "
+ },
  "da-001": {
   "tagline": "En praktisk håndbog til at måle arbejdet i agile it-serviceteams.",
   "intro": "Agile mål følger flow, læring og fungerende software; ITIL måler serviceniveauer, hændelser, ændringer, aktiver og værdi skabt sammen med kunderne. Denne bog samler de to i ét lille, afbalanceret og menneskeligt sæt målinger, med manipulationsvektoren og autoværnet for hver måling. Målingerne her beskriver teams, tjenester og systemer og bruges aldrig til at rangordne mennesker.",
@@ -55,6 +61,18 @@ export const HERO: Record<string, Record<string, string>> = {
   "language": "Sprog: "
  },
  "de-001": {
+  "tagline": "Ein praktisches Handbuch zum Messen der Arbeit agiler IT-Service-Teams.",
+  "intro": "Agile Messgrößen folgen dem Fluss, dem Lernen und funktionierender Software; ITIL misst Servicelevel, Incidents, Changes, Assets und den gemeinsam mit Kunden geschaffenen Wert. Dieses Buch verbindet beides zu einem kleinen, ausgewogenen, menschlichen Satz von Messgrößen, mit Manipulationsvektor und Leitplanke für jede Kennzahl. Die Kennzahlen hier beschreiben Teams, Services und Systeme und dienen nie dazu, Menschen in eine Rangfolge zu bringen.",
+  "translations": "Übersetzungen: ",
+  "language": "Sprache: "
+ },
+ "de-at": {
+  "tagline": "Ein praktisches Handbuch zum Messen der Arbeit agiler IT-Service-Teams.",
+  "intro": "Agile Messgrößen folgen dem Fluss, dem Lernen und funktionierender Software; ITIL misst Servicelevel, Incidents, Changes, Assets und den gemeinsam mit Kunden geschaffenen Wert. Dieses Buch verbindet beides zu einem kleinen, ausgewogenen, menschlichen Satz von Messgrößen, mit Manipulationsvektor und Leitplanke für jede Kennzahl. Die Kennzahlen hier beschreiben Teams, Services und Systeme und dienen nie dazu, Menschen in eine Rangfolge zu bringen.",
+  "translations": "Übersetzungen: ",
+  "language": "Sprache: "
+ },
+ "de-de": {
   "tagline": "Ein praktisches Handbuch zum Messen der Arbeit agiler IT-Service-Teams.",
   "intro": "Agile Messgrößen folgen dem Fluss, dem Lernen und funktionierender Software; ITIL misst Servicelevel, Incidents, Changes, Assets und den gemeinsam mit Kunden geschaffenen Wert. Dieses Buch verbindet beides zu einem kleinen, ausgewogenen, menschlichen Satz von Messgrößen, mit Manipulationsvektor und Leitplanke für jede Kennzahl. Die Kennzahlen hier beschreiben Teams, Services und Systeme und dienen nie dazu, Menschen in eine Rangfolge zu bringen.",
   "translations": "Übersetzungen: ",
@@ -127,6 +145,12 @@ export const HERO: Record<string, Record<string, string>> = {
   "language": "भाषा: "
  },
  "hi-in": {
+  "tagline": "एजाइल आईटी सेवा टीमों के काम को मापने की एक व्यावहारिक पुस्तिका।",
+  "intro": "एजाइल माप प्रवाह, सीखने और कार्यशील सॉफ़्टवेयर का अनुसरण करते हैं; ITIL सेवा स्तर, घटनाओं, परिवर्तनों, परिसंपत्तियों और ग्राहकों के साथ मिलकर रचे गए मूल्य को मापता है। यह पुस्तक दोनों को हर मीट्रिक के लिए गेमिंग वेक्टर और गार्डरेल के साथ मापों के एक छोटे, संतुलित और मानवीय समूह में जोड़ती है। यहाँ मीट्रिक टीमों, सेवाओं और प्रणालियों का वर्णन करते हैं, और लोगों की रैंकिंग के लिए कभी उपयोग नहीं किए जाते।",
+  "translations": "अनुवाद: ",
+  "language": "भाषा: "
+ },
+ "hi-np": {
   "tagline": "एजाइल आईटी सेवा टीमों के काम को मापने की एक व्यावहारिक पुस्तिका।",
   "intro": "एजाइल माप प्रवाह, सीखने और कार्यशील सॉफ़्टवेयर का अनुसरण करते हैं; ITIL सेवा स्तर, घटनाओं, परिवर्तनों, परिसंपत्तियों और ग्राहकों के साथ मिलकर रचे गए मूल्य को मापता है। यह पुस्तक दोनों को हर मीट्रिक के लिए गेमिंग वेक्टर और गार्डरेल के साथ मापों के एक छोटे, संतुलित और मानवीय समूह में जोड़ती है। यहाँ मीट्रिक टीमों, सेवाओं और प्रणालियों का वर्णन करते हैं, और लोगों की रैंकिंग के लिए कभी उपयोग नहीं किए जाते।",
   "translations": "अनुवाद: ",
@@ -311,7 +335,13 @@ export const HERO: Record<string, Record<string, string>> = {
   "intro": "敏捷度量关注流动、学习和可运行的软件；ITIL则衡量服务水平、事件、变更、资产以及与客户共同创造的价值。本书把两者整合为一套小而均衡、以人为本的度量，并为每个指标给出被钻空子的方式和防护栏。这里的指标描述的是团队、服务和系统，绝不用来给个人排名。",
   "translations": "翻译： ",
   "language": "语言："
- }
+ },
+ "zh-th": {
+  "tagline": "一本衡量敏捷IT服务团队工作的实用手册。",
+  "intro": "敏捷度量关注流动、学习和可运行的软件；ITIL则衡量服务水平、事件、变更、资产以及与客户共同创造的价值。本书把两者整合为一套小而均衡、以人为本的度量，并为每个指标给出被钻空子的方式和防护栏。这里的指标描述的是团队、服务和系统，绝不用来给个人排名。",
+  "translations": "翻译： ",
+  "language": "语言："
+ },
 };
 
 export const ENDONYMS: Record<string, string> = {
@@ -323,8 +353,11 @@ export const ENDONYMS: Record<string, string> = {
  "bn-in": "বাংলা - ভারত",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Prydain Fawr)",
+ "cy-ar": "Cymraeg (Ariannin)",
  "da-001": "Dansk",
  "de-001": "Deutsch",
+ "de-at": "Deutsch (Österreich)",
+ "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
  "en-gb": "English (Great Britain)",
  "en-gb-oxendict": "English (Great Britain, Oxford)",
@@ -337,6 +370,7 @@ export const ENDONYMS: Record<string, string> = {
  "fr-ca": "Français - Canada",
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
+ "hi-np": "हिन्दी (नेपाल)",
  "id-001": "Bahasa Indonesia",
  "id-id": "Bahasa Indonesia (Indonesia)",
  "id-my": "Bahasa Indonesia - Malaysia",
@@ -366,5 +400,6 @@ export const ENDONYMS: Record<string, string> = {
  "vi-001": "Tiếng Việt",
  "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
- "zh-cn": "简体中文"
+ "zh-cn": "简体中文",
+ "zh-th": "简体中文 (泰国)",
 };
