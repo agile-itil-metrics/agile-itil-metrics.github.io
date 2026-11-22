@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Vid om du bliver bedre",
+  "text": "Lær hvorfor måling betyder noget, og hvordan du vælger få tal, der viser, om dit arbejde virkelig bliver bedre.",
+  "link": "Læs hvorfor man måler"
+ },
+ {
+  "title": "Undgå tal, der slår tilbage",
+  "text": "Se hvordan et mål kan forvride adfærd, og hvordan du vælger målinger, der holder folk ærlige og fokuseret på reelle resultater.",
+  "link": "Læs om Goodharts lov"
+ },
+ {
+  "title": "Lever hurtigere og mere pålideligt",
+  "text": "Brug fire gennemprøvede mål for leveringshastighed og stabilitet til at se, hvor holdet flyder, og hvor det sidder fast.",
+  "link": "Læs om DORA-målinger"
+ },
+ {
+  "title": "Drive en bedre servicedesk",
+  "text": "Følg de få mål, der viser, om folk får hjælp hurtigt, retfærdigt og til deres tilfredshed.",
+  "link": "Læs om servicedesk-målinger"
+ },
+ {
+  "title": "Sæt pålidelighedsmål, der giver mening",
+  "text": "Aftal hvor pålidelig en tjeneste skal være, og brug fejlbudgetter til at afveje nye funktioner mod stabilitet.",
+  "link": "Læs om SLI'er, SLO'er og fejlbudgetter"
+ },
+ {
+  "title": "Start et målingsprogram, der holder",
+  "text": "Byg et enkelt dashboard, vælg værktøjer og indfør målinger, så holdene stoler på dem og bliver ved med at bruge dem.",
+  "link": "Læs om at bygge et målingsprogram"
+ }
+]

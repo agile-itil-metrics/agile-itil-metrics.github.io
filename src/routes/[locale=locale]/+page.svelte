@@ -4,10 +4,12 @@
   import { _ } from '#lib/i18n.js';
   import { sectionPath } from '#lib/segments.js';
   import { HERO, ENDONYMS } from '#lib/hero.js';
+  import { tilesFor } from '#lib/tiles.js';
 
   let { data } = $props();
 
   const hero = $derived(HERO[data.locale] ?? HERO['en-001']);
+  const tiles = $derived(tilesFor(data.locale) ?? []);
   const translations = LOCALE_SLUGS.filter((code) => code.endsWith('-001') && code in ENDONYMS);
   const contents = $derived(encodeURI(sectionPath(data.locale, 'contents')));
 </script>
@@ -31,4 +33,15 @@
         >{/each}
     </p>
   </header>
+  <section class="section" aria-label="Highlights">
+    <ul class="page-tiles">
+      {#each tiles as tile, i (i)}
+        <li class="page-tile">
+          <h2>{tile.title}</h2>
+          <p>{tile.text}</p>
+          <p class="page-tile-link"><a href={encodeURI(data.tileHrefs[i])}>{tile.link}</a></p>
+        </li>
+      {/each}
+    </ul>
+  </section>
 </ArticleLayout>

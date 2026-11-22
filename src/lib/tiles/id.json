@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Ketahui apakah Anda membaik",
+  "text": "Pelajari mengapa pengukuran penting dan cara memilih beberapa angka yang menunjukkan apakah pekerjaan Anda benar-benar membaik.",
+  "link": "Baca mengapa perlu mengukur"
+ },
+ {
+  "title": "Hindari angka yang berbalik merugikan",
+  "text": "Lihat bagaimana target bisa memelintir perilaku, dan cara memilih ukuran yang menjaga kejujuran serta berfokus pada hasil nyata.",
+  "link": "Baca tentang hukum Goodhart"
+ },
+ {
+  "title": "Kirim lebih cepat dan lebih andal",
+  "text": "Gunakan empat ukuran teruji untuk kecepatan dan stabilitas pengiriman guna melihat di mana tim Anda lancar dan di mana tersendat.",
+  "link": "Baca tentang metrik DORA"
+ },
+ {
+  "title": "Kelola service desk yang lebih baik",
+  "text": "Pantau beberapa ukuran yang menunjukkan apakah orang mendapat bantuan dengan cepat, adil, dan memuaskan.",
+  "link": "Baca tentang metrik service desk"
+ },
+ {
+  "title": "Tetapkan target keandalan yang masuk akal",
+  "text": "Sepakati seberapa andal layanan harus berjalan, dan gunakan anggaran kesalahan untuk menyeimbangkan fitur baru dengan stabilitas.",
+  "link": "Baca tentang SLI, SLO, dan anggaran kesalahan"
+ },
+ {
+  "title": "Mulai program metrik yang bertahan",
+  "text": "Bangun dasbor sederhana, pilih alat, dan terapkan ukuran dengan cara yang dipercaya tim dan terus mereka gunakan.",
+  "link": "Baca tentang membangun program metrik"
+ }
+]

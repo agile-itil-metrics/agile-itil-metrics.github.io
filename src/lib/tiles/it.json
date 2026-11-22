@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Capire se si sta migliorando",
+  "text": "Scopra perché misurare conta e come scegliere pochi numeri che mostrino se il lavoro migliora davvero.",
+  "link": "Leggi perché misurare"
+ },
+ {
+  "title": "Evitare numeri che si ritorcono contro",
+  "text": "Veda come un obiettivo può distorcere i comportamenti e come scegliere misure che restino oneste e puntino a risultati reali.",
+  "link": "Leggi la legge di Goodhart"
+ },
+ {
+  "title": "Consegnare più in fretta e con più affidabilità",
+  "text": "Usi quattro misure collaudate di velocità e stabilità per vedere dove il team procede bene e dove si blocca.",
+  "link": "Leggi le metriche DORA"
+ },
+ {
+  "title": "Gestire meglio il service desk",
+  "text": "Segua le poche misure che mostrano se le persone ricevono aiuto in fretta, in modo equo e con soddisfazione.",
+  "link": "Leggi le metriche del service desk"
+ },
+ {
+  "title": "Fissare obiettivi di affidabilità sensati",
+  "text": "Concordi quanto un servizio deve essere affidabile e usi i budget di errore per bilanciare nuove funzioni e stabilità.",
+  "link": "Leggi SLI, SLO e budget di errore"
+ },
+ {
+  "title": "Avviare un programma di metriche duraturo",
+  "text": "Costruisca una dashboard semplice, scelga gli strumenti e introduca le misure in modo che i team si fidino e continuino a usarle.",
+  "link": "Leggi come costruire un programma di metriche"
+ }
+]

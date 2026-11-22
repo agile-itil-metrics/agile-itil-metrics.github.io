@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Savoir si vous progressez",
+  "text": "Comprenez pourquoi mesurer compte et comment choisir quelques chiffres qui montrent si votre travail s'améliore vraiment.",
+  "link": "Lire pourquoi mesurer"
+ },
+ {
+  "title": "Éviter les chiffres qui se retournent contre vous",
+  "text": "Voyez comment un objectif peut fausser les comportements, et comment choisir des mesures qui restent honnêtes et centrées sur les vrais résultats.",
+  "link": "Lire sur la loi de Goodhart"
+ },
+ {
+  "title": "Livrer plus vite et plus fiablement",
+  "text": "Appuyez-vous sur quatre mesures éprouvées de vitesse et de stabilité pour voir où votre équipe avance bien et où elle bloque.",
+  "link": "Lire sur les métriques DORA"
+ },
+ {
+  "title": "Mieux gérer votre centre de services",
+  "text": "Suivez les quelques mesures qui montrent si les gens obtiennent de l'aide vite, équitablement et à leur satisfaction.",
+  "link": "Lire sur les métriques du centre de services"
+ },
+ {
+  "title": "Fixer des objectifs de fiabilité sensés",
+  "text": "Décidez du niveau de fiabilité qu'un service doit atteindre, et équilibrez nouveautés et stabilité grâce aux budgets d'erreur.",
+  "link": "Lire sur les SLI, SLO et budgets d'erreur"
+ },
+ {
+  "title": "Lancer un programme de métriques durable",
+  "text": "Construisez un tableau de bord simple, choisissez vos outils et déployez les mesures de façon que les équipes leur fassent confiance et les gardent.",
+  "link": "Lire sur la mise en place d'un programme de métriques"
+ }
+]

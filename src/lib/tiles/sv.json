@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Se om du blir bättre",
+  "text": "Lär dig varför mätning spelar roll och hur du väljer några få siffror som visar om ditt arbete verkligen blir bättre.",
+  "link": "Läs varför man mäter"
+ },
+ {
+  "title": "Undvik siffror som slår tillbaka",
+  "text": "Se hur ett mål kan snedvrida beteendet och hur du väljer mått som håller människor ärliga och inriktade på verkliga resultat.",
+  "link": "Läs om Goodharts lag"
+ },
+ {
+  "title": "Leverera snabbare och mer tillförlitligt",
+  "text": "Använd fyra beprövade mått på leveranstakt och stabilitet för att se var teamet flyter på och var det fastnar.",
+  "link": "Läs om DORA-mått"
+ },
+ {
+  "title": "Driv en bättre servicedesk",
+  "text": "Följ de få mått som visar om människor får hjälp snabbt, rättvist och till sin belåtenhet.",
+  "link": "Läs om servicedeskmått"
+ },
+ {
+  "title": "Sätt tillförlitlighetsmål som är rimliga",
+  "text": "Enas om hur tillförlitlig en tjänst behöver vara och använd felbudgetar för att balansera nya funktioner mot stabilitet.",
+  "link": "Läs om SLI, SLO och felbudgetar"
+ },
+ {
+  "title": "Starta ett mätprogram som består",
+  "text": "Bygg en enkel instrumentpanel, välj verktyg och inför måtten så att teamen litar på dem och fortsätter använda dem.",
+  "link": "Läs om att bygga ett mätprogram"
+ }
+]

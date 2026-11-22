@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Know whether you are improving",
+  "text": "Learn why measuring matters and how to pick a few numbers that show whether your work is really getting better.",
+  "link": "Read why to measure"
+ },
+ {
+  "title": "Avoid numbers that backfire",
+  "text": "See how a target can distort behavior, and how to choose measures that keep people honest and focused on real results.",
+  "link": "Read about Goodhart's law"
+ },
+ {
+  "title": "Deliver faster and more reliably",
+  "text": "Use four proven measures of delivery speed and stability to see where your team flows smoothly and where it gets stuck.",
+  "link": "Read about DORA metrics"
+ },
+ {
+  "title": "Run a better service desk",
+  "text": "Track the handful of measures that show whether people get help quickly, fairly and to their satisfaction.",
+  "link": "Read about service desk metrics"
+ },
+ {
+  "title": "Set reliability targets that make sense",
+  "text": "Agree how reliable a service needs to be, and use error budgets to balance new features against stability.",
+  "link": "Read about SLIs, SLOs and error budgets"
+ },
+ {
+  "title": "Start a metrics program that lasts",
+  "text": "Build a simple dashboard, choose tools and roll out measures in a way that teams trust and keep using.",
+  "link": "Read about building a metrics program"
+ }
+]

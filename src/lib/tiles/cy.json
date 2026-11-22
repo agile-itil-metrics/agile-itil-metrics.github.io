@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Gwybod a ydych chi'n gwella",
+  "text": "Dysgwch pam mae mesur yn bwysig a sut i ddewis ychydig o rifau sy'n dangos a yw eich gwaith yn gwella go iawn.",
+  "link": "Darllen pam mesur"
+ },
+ {
+  "title": "Osgoi rhifau sy'n tanio'n ôl",
+  "text": "Gweld sut gall targed ystumio ymddygiad, a sut i ddewis mesurau sy'n cadw pobl yn onest ac yn canolbwyntio ar ganlyniadau go iawn.",
+  "link": "Darllen am gyfraith Goodhart"
+ },
+ {
+  "title": "Cyflenwi'n gyflymach ac yn fwy dibynadwy",
+  "text": "Defnyddiwch bedwar mesur profedig o gyflymder a sefydlogrwydd cyflenwi i weld ble mae eich tîm yn llifo'n esmwyth a ble mae'n mynd yn sownd.",
+  "link": "Darllen am fetrigau DORA"
+ },
+ {
+  "title": "Rhedeg desg gwasanaeth well",
+  "text": "Dilynwch yr ychydig fesurau sy'n dangos a yw pobl yn cael cymorth yn gyflym, yn deg ac i'w boddhad.",
+  "link": "Darllen am fetrigau desg gwasanaeth"
+ },
+ {
+  "title": "Gosod targedau dibynadwyedd synhwyrol",
+  "text": "Cytunwch pa mor ddibynadwy y mae angen i wasanaeth fod, a defnyddiwch gyllidebau gwallau i gydbwyso nodweddion newydd â sefydlogrwydd.",
+  "link": "Darllen am SLIs, SLOs a chyllidebau gwallau"
+ },
+ {
+  "title": "Dechrau rhaglen fetrigau sy'n para",
+  "text": "Adeiladwch ddangosfwrdd syml, dewiswch offer a chyflwynwch fesurau mewn ffordd y mae timau'n ymddiried ynddi ac yn parhau i'w defnyddio.",
+  "link": "Darllen am adeiladu rhaglen fetrigau"
+ }
+]

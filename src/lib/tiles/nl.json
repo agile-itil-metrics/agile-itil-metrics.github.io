@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Weten of u verbetert",
+  "text": "Ontdek waarom meten ertoe doet en hoe u een paar cijfers kiest die laten zien of uw werk echt beter wordt.",
+  "link": "Lees waarom meten"
+ },
+ {
+  "title": "Cijfers vermijden die averechts werken",
+  "text": "Zie hoe een doel gedrag kan vervormen en hoe u maatstaven kiest die eerlijk blijven en op echte resultaten gericht zijn.",
+  "link": "Lees over de wet van Goodhart"
+ },
+ {
+  "title": "Sneller en betrouwbaarder leveren",
+  "text": "Gebruik vier beproefde maten voor leversnelheid en stabiliteit om te zien waar uw team soepel loopt en waar het vastloopt.",
+  "link": "Lees over DORA-metrics"
+ },
+ {
+  "title": "Een betere servicedesk draaien",
+  "text": "Volg de paar maten die laten zien of mensen snel, eerlijk en tevredenstellend geholpen worden.",
+  "link": "Lees over servicedesk-metrics"
+ },
+ {
+  "title": "Zinvolle betrouwbaarheidsdoelen stellen",
+  "text": "Spreek af hoe betrouwbaar een dienst moet zijn en gebruik foutbudgetten om nieuwe functies en stabiliteit af te wegen.",
+  "link": "Lees over SLI's, SLO's en foutbudgetten"
+ },
+ {
+  "title": "Een metrics-programma dat blijft",
+  "text": "Bouw een eenvoudig dashboard, kies tools en voer maten zo in dat teams ze vertrouwen en blijven gebruiken.",
+  "link": "Lees over het opzetten van een metrics-programma"
+ }
+]

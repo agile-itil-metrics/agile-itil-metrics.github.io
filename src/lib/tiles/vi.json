@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Biết bạn có đang tiến bộ không",
+  "text": "Tìm hiểu vì sao đo lường quan trọng và cách chọn vài con số cho thấy công việc của bạn có thật sự tốt lên.",
+  "link": "Đọc vì sao cần đo lường"
+ },
+ {
+  "title": "Tránh những con số phản tác dụng",
+  "text": "Xem mục tiêu có thể làm méo hành vi ra sao, và cách chọn thước đo giữ mọi người trung thực, tập trung vào kết quả thật.",
+  "link": "Đọc về định luật Goodhart"
+ },
+ {
+  "title": "Bàn giao nhanh hơn và đáng tin cậy hơn",
+  "text": "Dùng bốn thước đo đã được kiểm chứng về tốc độ và độ ổn định bàn giao để thấy nhóm bạn trôi chảy ở đâu và vướng ở đâu.",
+  "link": "Đọc về chỉ số DORA"
+ },
+ {
+  "title": "Vận hành bàn dịch vụ tốt hơn",
+  "text": "Theo dõi vài thước đo cho biết mọi người có được giúp nhanh chóng, công bằng và hài lòng hay không.",
+  "link": "Đọc về chỉ số bàn dịch vụ"
+ },
+ {
+  "title": "Đặt mục tiêu độ tin cậy hợp lý",
+  "text": "Thống nhất dịch vụ cần đáng tin cậy đến mức nào, và dùng ngân sách lỗi để cân bằng giữa tính năng mới và độ ổn định.",
+  "link": "Đọc về SLI, SLO và ngân sách lỗi"
+ },
+ {
+  "title": "Khởi động chương trình chỉ số bền vững",
+  "text": "Xây bảng điều khiển đơn giản, chọn công cụ và triển khai thước đo sao cho các nhóm tin tưởng và tiếp tục sử dụng.",
+  "link": "Đọc về xây dựng chương trình chỉ số"
+ }
+]

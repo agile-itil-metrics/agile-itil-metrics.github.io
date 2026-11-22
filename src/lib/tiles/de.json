@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Erkennen, ob Sie besser werden",
+  "text": "Erfahren Sie, warum Messen wichtig ist und wie Sie wenige Zahlen wählen, die zeigen, ob Ihre Arbeit wirklich besser wird.",
+  "link": "Mehr dazu, warum messen"
+ },
+ {
+  "title": "Zahlen vermeiden, die nach hinten losgehen",
+  "text": "Sehen Sie, wie ein Ziel das Verhalten verzerren kann und wie Sie Kennzahlen wählen, die ehrlich bleiben und auf echte Ergebnisse zielen.",
+  "link": "Mehr zum Goodhart-Gesetz"
+ },
+ {
+  "title": "Schneller und zuverlässiger liefern",
+  "text": "Nutzen Sie vier bewährte Kennzahlen für Liefertempo und Stabilität, um zu sehen, wo Ihr Team gut läuft und wo es stockt.",
+  "link": "Mehr zu DORA-Kennzahlen"
+ },
+ {
+  "title": "Einen besseren Service Desk betreiben",
+  "text": "Verfolgen Sie die wenigen Kennzahlen, die zeigen, ob Menschen schnell, fair und zufriedenstellend Hilfe bekommen.",
+  "link": "Mehr zu Service-Desk-Kennzahlen"
+ },
+ {
+  "title": "Sinnvolle Zuverlässigkeitsziele setzen",
+  "text": "Vereinbaren Sie, wie zuverlässig ein Service sein muss, und wägen Sie mit Fehlerbudgets neue Funktionen gegen Stabilität ab.",
+  "link": "Mehr zu SLIs, SLOs und Fehlerbudgets"
+ },
+ {
+  "title": "Ein Kennzahlenprogramm, das bleibt",
+  "text": "Bauen Sie ein einfaches Dashboard, wählen Sie Werkzeuge und führen Sie Kennzahlen so ein, dass Teams ihnen vertrauen und sie weiter nutzen.",
+  "link": "Mehr zum Aufbau eines Kennzahlenprogramms"
+ }
+]

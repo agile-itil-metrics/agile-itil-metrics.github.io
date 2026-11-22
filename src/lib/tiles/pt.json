@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Saber se você está melhorando",
+  "text": "Entenda por que medir importa e como escolher poucos números que mostrem se o seu trabalho melhora de verdade.",
+  "link": "Ler por que medir"
+ },
+ {
+  "title": "Evitar números que saem pela culatra",
+  "text": "Veja como uma meta pode distorcer o comportamento e como escolher medidas que mantenham a honestidade e o foco em resultados reais.",
+  "link": "Ler sobre a lei de Goodhart"
+ },
+ {
+  "title": "Entregar mais rápido e com mais confiabilidade",
+  "text": "Use quatro medidas comprovadas de velocidade e estabilidade para ver onde sua equipe flui bem e onde trava.",
+  "link": "Ler sobre as métricas DORA"
+ },
+ {
+  "title": "Gerir melhor a central de serviços",
+  "text": "Acompanhe as poucas medidas que mostram se as pessoas recebem ajuda com rapidez, justiça e satisfação.",
+  "link": "Ler sobre métricas da central de serviços"
+ },
+ {
+  "title": "Definir metas de confiabilidade que façam sentido",
+  "text": "Combine o quanto um serviço precisa ser confiável e use orçamentos de erro para equilibrar novos recursos e estabilidade.",
+  "link": "Ler sobre SLIs, SLOs e orçamentos de erro"
+ },
+ {
+  "title": "Criar um programa de métricas duradouro",
+  "text": "Monte um painel simples, escolha ferramentas e implante as medidas de modo que as equipes confiem nelas e continuem a usá-las.",
+  "link": "Ler sobre como criar um programa de métricas"
+ }
+]

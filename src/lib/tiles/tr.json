@@ -1,0 +1,32 @@
+[
+ {
+  "title": "İyileşip iyileşmediğinizi bilin",
+  "text": "Ölçmenin neden önemli olduğunu ve işinizin gerçekten iyileşip iyileşmediğini gösteren birkaç sayıyı nasıl seçeceğinizi öğrenin.",
+  "link": "Neden ölçülür, okuyun"
+ },
+ {
+  "title": "Ters tepen sayılardan kaçının",
+  "text": "Bir hedefin davranışı nasıl bozabileceğini ve insanları dürüst tutan, gerçek sonuçlara odaklayan ölçütleri nasıl seçeceğinizi görün.",
+  "link": "Goodhart yasasını okuyun"
+ },
+ {
+  "title": "Daha hızlı ve daha güvenilir teslim edin",
+  "text": "Teslimat hızı ve kararlılığı için kanıtlanmış dört ölçütle ekibinizin nerede akıcı gittiğini, nerede takıldığını görün.",
+  "link": "DORA metriklerini okuyun"
+ },
+ {
+  "title": "Daha iyi bir hizmet masası işletin",
+  "text": "İnsanların yardımı hızlı, adil ve memnun kalacakları biçimde alıp almadığını gösteren birkaç ölçütü izleyin.",
+  "link": "Hizmet masası metriklerini okuyun"
+ },
+ {
+  "title": "Anlamlı güvenilirlik hedefleri koyun",
+  "text": "Bir hizmetin ne kadar güvenilir olması gerektiği konusunda anlaşın; yeni özellikler ile kararlılığı hata bütçeleriyle dengeleyin.",
+  "link": "SLI, SLO ve hata bütçelerini okuyun"
+ },
+ {
+  "title": "Kalıcı bir metrik programı başlatın",
+  "text": "Basit bir pano kurun, araçları seçin ve ölçütleri ekiplerin güvendiği ve kullanmaya devam ettiği biçimde devreye alın.",
+  "link": "Metrik programı kurmayı okuyun"
+ }
+]
